@@ -11,4 +11,4 @@ permalink: /organization/
 - Julia Damerow (Arizona State University)
 
 
-More information on the ogranizing committee will be posted as it becomes available.
+More information on the organizing committee will be posted as it becomes available.
