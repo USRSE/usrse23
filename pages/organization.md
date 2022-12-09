@@ -33,4 +33,3 @@ permalink: /organization/
 ### Student Chairs
 - Nicole Brewer
 - Carrie Brown
-
