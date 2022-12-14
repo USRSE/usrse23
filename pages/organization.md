@@ -27,7 +27,7 @@ permalink: /organization/
 
 ### Sponsor Chairs
 - Angela Herring
-- Mahmood Shad
+- Mahmood Shad (Associate Director of RSE, Harvard Research Computing, Harvard University)
 - Chris Hill (MIT)
 
 ### Student Chairs
