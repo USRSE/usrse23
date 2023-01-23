@@ -6,4 +6,4 @@ permalink: /dates/
 ---
 
 
-- **October 16th - 18th, 20236**: First US-RSE Conference
+- **October 16th - 18th, 2023**: First US-RSE Conference
