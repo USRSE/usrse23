@@ -13,6 +13,8 @@ is the following:
 ## Contents
 
 1. [Introduction](#introduction)
+   1. [Forking](#forking)
+   1. [Keeping Your Fork Updated](#keeping-your-fork-updated)
 1. [Creating Issues](#creating-issues)
    1. [Markdown](#markdown)
 1. [Working Issues](#working-issues)
@@ -32,7 +34,9 @@ you will create a personal fork of the main US-RSE Conference repository,
 make your changes locally in your own branches, and then open pull
 requests to merge changes back into the main repository.
 
-## Forking
+[↑ Contents](#contents)
+
+### Forking
 
 To create a fork, go to the [main repository](https://github.com/USRSE/usrse23)
 and click the `Fork` button in the top-right. You can choose under what username
@@ -43,7 +47,9 @@ After it's creation, you will now have a local fork of the repository.
 See [GitHub's Documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 for more details.
 
-## Keeping Your Fork Updated
+[↑ Contents](#contents)
+
+### Keeping Your Fork Updated
 
 After your fork is created, you will need to make sure it stays up-to-date to
 avoid conflicts when you make changes.
