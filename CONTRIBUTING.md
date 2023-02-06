@@ -12,6 +12,7 @@ is the following:
 
 ## Contents
 
+1. [Introduction](#introduction)
 1. [Creating Issues](#creating-issues)
    1. [Markdown](#markdown)
 1. [Working Issues](#working-issues)
@@ -23,7 +24,35 @@ is the following:
    1. [Reviewers](#reviewers)
    1. [Work-in-Progress](#work-in-progress)
    1. [Merging](#merging)
-   
+
+## Introduction
+
+We recommend using a `fork and branch` approach to contribution. In this method,
+you will create a personal fork of the main US-RSE Conference repository,
+make your changes locally in your own branches, and then open pull
+requests to merge changes back into the main repository.
+
+## Forking
+
+To create a fork, go to the [main repository](https://github.com/USRSE/usrse23)
+and click the `Fork` button in the top-right. You can choose under what username
+or organization the fork is made; we recommend your personal account.
+
+After it's creation, you will now have a local fork of the repository.
+
+See [GitHub's Documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+for more details.
+
+## Keeping Your Fork Updated
+
+After your fork is created, you will need to make sure it stays up-to-date to
+avoid conflicts when you make changes.
+
+See [GitHub's Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+for the various ways to keep your fork in sync.
+
+[↑ Contents](#contents)
+
 ## Creating Issues
 
 [Create issues in GitHub](https://github.com/USRSE/usrse23/issues)
@@ -48,7 +77,6 @@ documentation](https://docs.github.com/en/get-started/writing-on-github/getting-
 [↑ Contents](#contents)
 
 
-
 ## Working Issues
 
 ### When Work Begins
@@ -57,7 +85,7 @@ Make sure your local `main` branch is up-to-date with
 
 ```bash
 git checkout main
-git pull --ff-only origin main
+git pull remote main
 ```
 
 > **Note:**  You should never be making commits on your `main` branch, as
