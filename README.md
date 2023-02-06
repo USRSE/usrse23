@@ -1,4 +1,5 @@
-# The US-RSE Association 2022 Virtual Workshop
+# The US-RSE Association Conference 2023 (USRSECon23)
 
-This repo is website landing page for the US-RSE Association 2022 Virtual
-Workshop held on September 14 & 16, 2022.
+This repo is website landing page for the US-RSE Association Conference 2023,
+happening October 16-18 in Chicago, IL.
+

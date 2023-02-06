@@ -1,0 +1,151 @@
+# Contributing to US-RSE Conference 2023 Website
+
+If you are comfortable working with forks, branches, and pull requests, please
+follow the below guidance. If you are not, please reach out to the Outreach/Website
+committee chairs:
+
+- Miranda Mundt (@mrmundt)
+- Caleb Jackson (@cabejackson)
+
+The general workflow for everyone interacting with the US-RSE Conference website
+is the following:
+
+## Contents
+
+1. [Creating Issues](#creating-issues)
+   1. [Markdown](#markdown)
+1. [Working Issues](#working-issues)
+   1. [When Work Begins](#when-work-begins)
+   1. [As Work Continues](#as-work-continues)
+   1. [When Work is Complete](#when-work-is-complete)
+   1. [Closing Old Issues](#closing-old-issues)
+1. [Pull Requests](#pull-requests)
+   1. [Reviewers](#reviewers)
+   1. [Work-in-Progress](#work-in-progress)
+   1. [Merging](#merging)
+   
+## Creating Issues
+
+[Create issues in GitHub](https://github.com/USRSE/usrse23/issues)
+for any work that needs to be done. This can include, but is not limited to:
+
+- Bugs
+- Enhancements
+- Discussions
+
+[↑ Contents](#contents)
+
+
+### Markdown
+
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup
+language with plain text formatting syntax.  GitHub uses a form of it for
+rendering issue and pull request descriptions and comments, wiki pages, and
+any files in your repositories with a `.md` extension (such as this one).  For
+more details on what's possible with GitHub-flavored Markdown, [see GitHub's
+documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+[↑ Contents](#contents)
+
+
+
+## Working Issues
+
+### When Work Begins
+
+Make sure your local `main` branch is up-to-date with
+
+```bash
+git checkout main
+git pull --ff-only origin main
+```
+
+> **Note:**  You should never be making commits on your `main` branch, as
+> all changes will be making it into `main` via [pull requests](#pull-requests).
+> The `--ff-only` flag ensures you only update your local `main` branch if
+> it can be fast-forwarded.
+
+Once `main` is updated, you then create a feature branch off of it with `git
+checkout -b <branchName>`.  
+
+We recommend using the format `username/description` when naming the branch
+for clarity on who is doing the work and what type of work is being completed.
+For example, `mrmundt/add-contributing`.
+
+[↑ Contents](#contents)
+
+
+### As Work Continues
+
+Do whatever work is necessary to address the issue you're tackling.  Divide your
+work into logical, compilable commits.  Feel free to commit small chunks of
+work early and often in your local repository and then use `git rebase -i` to
+reorganize your commits before sharing.
+
+[↑ Contents](#contents)
+
+
+### When Work is Complete
+
+While working on your feature in your local repository, other commits likely
+made it into the remote `main` branch.  There are a variety of ways to merge
+these changes into your local feature branch.  One possibility is
+```bash
+git checkout main
+git pull --ff-only
+git checkout <branchName>
+git rebase main
+```
+
+though there are others that are equally valid.
+
+Once you are done, [create a pull request](#pull-requests) (see below).
+
+[↑ Contents](#contents)
+
+### Closing Old Issues
+
+If at any point you encounter an issue that will not be worked in the
+foreseeable future, it is worthwhile to close the issue such that you can
+maintain a reasonable backlog of upcoming work.  Do be sure to include in the
+comments some explanation as to why the issue won't be addressed.
+
+[↑ Contents](#contents)
+
+
+
+## Pull Requests
+
+The preferred way changes get into `main` is through pull requests.  When you've
+completed work on an issue, push your branch to the remote with `git push -u
+<remoteName> <branchName>`, and then create a pull request.
+
+[↑ Contents](#contents)
+
+### Reviewers
+
+We recommend having your pull request reviewed by at least two other team
+members. The first should be a member of the Outreach/Website committee.
+The second should be another member of the team for which the change is being
+completed (e.g., Program Committee). Work with your reviewers to get your
+changes into an acceptable
+state.
+
+[↑ Contents](#contents)
+
+### Work-in-Progress
+
+You may wish to have your changes reviewed by colleagues before they are ready
+to be merged into `main`.  To do so, create a pull request as usual, but
+insert "[WIP]" at the beginning of the Title.  GitHub will not allow you to
+merge a WIP request.
+
+[↑ Contents](#contents)
+
+
+### Merging
+
+When the reviews are finished and all changes approved, your pull request will
+be merged by one member of the Outreach/Website committee.
+
+[↑ Contents](#contents)
