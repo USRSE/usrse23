@@ -8,7 +8,7 @@ committee chairs:
 - Caleb Jackson (@cabejackson)
 
 The general workflow for everyone interacting with the US-RSE Conference website
-is the following:
+is described in the following.
 
 ## Contents
 
