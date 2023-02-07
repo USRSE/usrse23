@@ -17,7 +17,7 @@ is described in the following.
    1. [Keeping Your Fork Updated](#keeping-your-fork-updated)
 1. [Creating Issues](#creating-issues)
    1. [Markdown](#markdown)
-1. [Working Issues](#working-issues)
+1. [Working on Issues](#working-on-issues)
    1. [When Work Begins](#when-work-begins)
    1. [As Work Continues](#as-work-continues)
    1. [When Work is Complete](#when-work-is-complete)
@@ -83,7 +83,7 @@ documentation](https://docs.github.com/en/get-started/writing-on-github/getting-
 [↑ Contents](#contents)
 
 
-## Working Issues
+## Working on Issues
 
 ### When Work Begins
 
@@ -96,8 +96,6 @@ git pull remote main
 
 > **Note:**  You should never be making commits on your `main` branch, as
 > all changes will be making it into `main` via [pull requests](#pull-requests).
-> The `--ff-only` flag ensures you only update your local `main` branch if
-> it can be fast-forwarded.
 
 Once `main` is updated, you then create a feature branch off of it with `git
 checkout -b <branchName>`.  
@@ -124,6 +122,7 @@ reorganize your commits before sharing.
 While working on your feature in your local repository, other commits likely
 made it into the remote `main` branch.  There are a variety of ways to merge
 these changes into your local feature branch.  One possibility is
+
 ```bash
 git checkout main
 git pull --ff-only
@@ -171,8 +170,11 @@ state.
 
 You may wish to have your changes reviewed by colleagues before they are ready
 to be merged into `main`.  To do so, create a pull request as usual, but
-insert "[WIP]" at the beginning of the Title.  GitHub will not allow you to
-merge a WIP request.
+insert "[WIP]" at the beginning of the Title.
+
+You may also create a "Draft" request (see [GitHub's documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests)).
+
+GitHub will not allow you to merge a Draft or WIP request.
 
 [↑ Contents](#contents)
 
