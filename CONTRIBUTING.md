@@ -87,7 +87,7 @@ documentation](https://docs.github.com/en/get-started/writing-on-github/getting-
 
 ### When Work Begins
 
-Make sure your local `main` branch is up-to-date with
+Make sure your local `main` branch is up-to-date by running
 
 ```bash
 git checkout main
