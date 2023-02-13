@@ -86,6 +86,7 @@ TBD.
 - **Submissions open**: Monday, February 13, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
+- **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
 
 
@@ -98,4 +99,5 @@ TBD.
 - **Submissions open**: Monday, February 13, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
+- **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
