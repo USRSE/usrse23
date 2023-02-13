@@ -1,15 +1,16 @@
 # Computational Notebook Submission Formats
 
 Below, we outline the categories that we will accept for computational notebook submissions.
-We have included an innovative uses category, to be inclusive of as many creative uses of notebooks as possible, however, this year will only accept Jupyter Notebooks, R Markdown documents (including Shiny apps), and Quarto markdown documents.
+We have included an innovative uses category, to be inclusive of as many creative uses of notebooks as possible, however, this year will only accept [Jupyter Notebooks](https://jupyter.org/), [R Markdown](https://rmarkdown.rstudio.com/) documents (including [Shiny](https://shiny.rstudio.com/) apps), and [Quarto Markdown](https://quarto.org/docs/authoring/markdown-basics.html) documents.
 
 We intend to have an open line of communication during the submission process, so if you have questions or concerns about these formats, please contact us at [usrse-conf23@us-rse.org](mailto:usrse-conf23@us-rse.org).
 Technical submission guidelines will become available soon.
 
 ## 1. Reproducible Documents
+
 There are many good reasons to publish a reproducible document with a notebook. You may want to publish a lesson or showcase a tool or a workflow.
 These documents must be reproducible; that is, they are executable and produce the same output when the cells are run in order from top to bottom.
-Singular notebooks and markdown documents will be compiled to HTML pages, but you also have the option to use JupyterBook (Jupyter),  Bookdown (R Markdown), or Quarto Book to create full books.
+Singular notebooks and markdown documents will be compiled to HTML pages, but you also have the option to use [JupyterBook](https://jupyterbook.org) (Jupyter),  [Bookdown](https://bookdown.org/home/) (R Markdown), or [Quarto Book](https://quarto.org/docs/books/) to create full books.
 These documents may not exclusively contain text; they must include a significant amount of code.
 The reproducibility requirement excludes the use of interactive components used to select or manipulate data or run a computation, however, widgets used solely to display or visualize data are allowed.
 Reproducible documents are expected to be executed sequentially, from beginning to end, without additional interaction or input on behalf of the user.
@@ -29,8 +30,8 @@ But just because the notebooks aren’t reproducible doesn’t mean they aren’
 If you are using Python and Jupyter, we particularly encourage the use of Voilà to turn any interactive notebook into a standalone dashboard or web application by hiding code cells but leaving markdown and interactive widgets.
 Shiny natively supports both narrative documents interspersed with Shiny components and full page applications.
 Some widget libraries remain interactive when compiled to HTML and will be published in the same manner as reproducible notebooks.
-Notebooks with widgets that don’t remain interactive must be hosted on an interactive environment such as Binder or shinyapps.io.
-Value comes from the interactive elements of the notebooks, are often executed non-linearly, and require interaction or input from the user. 
+Notebooks with widgets that don’t remain interactive must be hosted on an interactive environment such as [Binder](https://mybinder.org/) or [shinyapps.io](https://www.shinyapps.io/).
+Value comes from the interactive elements of the notebooks, are often executed non-linearly, and require interaction or input from the user.
 
 ### Example use cases
 
