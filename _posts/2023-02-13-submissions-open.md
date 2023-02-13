@@ -6,4 +6,4 @@ tags:
 ---
 
 Submissions for the first US-RSE Conference 2023 are open! Please visit
-the [Particiate]({{ site.baseurl }}/participate) page for more details.
+the [Participate]({{ site.baseurl }}/participate) page for more details.
