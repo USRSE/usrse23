@@ -24,12 +24,12 @@ include (but are not limited to):
 - Training and workforce development
 - Building an RSE profession 
 
-**Timeline**
+**Important Dates**
 
 - **Submissions open**: Monday, February 13, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
 - **Papers / Notebooks due**: Monday, May 1, 2023
-- **Poster abstracts due**: Monday, June 12, 2023
+- **Poster abstracts due**: Monday, June 19, 2023
 
 **Submission Website**: [EasyChair](#)
 
@@ -39,19 +39,63 @@ include (but are not limited to):
 
 TBD.
 
+**Timeline**
+
+- **Submissions open**: Monday, February 13, 2023
+- **Papers / Notebooks due**: Monday, May 1, 2023
+- **Notification of authors for papers / notebooks**: Monday, June 5, 2023
+- **Camera-ready papers / notebooks due**: Monday, June 26, 2023
+- **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+
+
+
 ## Notebooks
 
 TBD.
 
-## Short Papers / Posters
+**Timeline**
+
+- **Submissions open**: Monday, February 13, 2023
+- **Papers / Notebooks due**: Monday, May 1, 2023
+- **Notification of authors for papers / notebooks**: Monday, June 5, 2023
+- **Camera-ready papers / notebooks due**: Monday, June 26, 2023
+- **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+
+
+
+## Posters
 
 TBD.
+
+**Timeline**
+
+- **Submissions open**: Monday, February 13, 2023
+- **Poster abstracts due**: Monday, June 19, 2023
+- **Notification of authors for posters**: Monday, July 24, 2023
+- **Registration for authors of posters**: Monday, August 21, 2023
+- **Camera-ready posters due**: Monday, August 28, 2023
+
+
 
 ## Workshops / Birds of a Feather (BoF)
 
 TBD.
 
+**Timeline**
+
+- **Submissions open**: Monday, February 13, 2023
+- **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
+- **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
+
+
+
 ## Tutorials
 
 TBD.
+
+**Timeline**
+
+- **Submissions open**: Monday, February 13, 2023
+- **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
+- **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 
