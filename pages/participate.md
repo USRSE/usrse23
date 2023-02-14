@@ -33,6 +33,8 @@ include (but are not limited to):
 
 **Submission Website**: [EasyChair](#)
 
+Authors of accepted submissions are expected to register by the author registration deadlines below or they will not be included in the program.
+
 **Questions?** Contact the organizers: [usrse-conf23@us-rse.org](mailto:usrse-conf23@us-rse.org).
 
 ## Short and Long Papers
