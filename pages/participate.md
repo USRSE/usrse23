@@ -31,7 +31,7 @@ include (but are not limited to):
 - **Papers / Notebooks due**: Monday, May 1, 2023
 - **Poster abstracts due**: Monday, June 19, 2023
 
-**Submission Website**: [EasyChair](#)
+**Submission Website**: EasyChair (to be posted soon)
 
 Authors of accepted submissions are expected to register by the author
 registration deadlines below or they will not be included in the program.
