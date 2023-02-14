@@ -28,7 +28,7 @@ then `bundle exec jekyll serve`.
 
 ## Container-based development
 
-Build and run a Docker container to preview the site locally and support a local development workflow.
+Build and run a Docker container to preview the site locally and support a local development workflow. If you do not already have Docker installed, please visit https://docs.docker.com/get-docker/ and follow the links to get started with Docker on your operating system.
 
 Build the container image:
 
