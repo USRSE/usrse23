@@ -96,7 +96,7 @@ We invite proposals for workshops and birds of a feather (BoFs) highlighting the
 
 ## Tutorials
 
-TBD.
+We invite proposals for tutorial sessions. Tutorials will be online only and be conducted virtually in the weeks prior to the conference, Monday, October 2nd to Friday, October 13th. Submissions should be no more than 1 page in length, state the topic, desired length, indicate the estimated number of attendees, and specify the level of participation expected. 
 
 **Timeline**
 
