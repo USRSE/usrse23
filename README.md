@@ -33,13 +33,13 @@ Build and run a Docker container to preview the site locally and support a local
 Build the container image:
 
 ```bash
-$ docker build -t us-rse-website:latest .
+docker build -t us-rse-con-2023-website:latest .
 ```
 
 Run the container to access the website at the URL http://127.0.0.1:4000/usrse23/
 
 ```bash
-$ docker run --rm -it -p 4000:4000 us-rse-website:latest 
+$ docker run --rm -it -p 4000:4000 us-rse-con-2023-website:latest
 Configuration file: /srv/jekyll/_config.yml
             Source: /srv/jekyll
        Destination: /srv/jekyll/_site
@@ -55,8 +55,8 @@ To develop the website, launch the container using the following command, where 
 
 ```bash
 docker run --rm -it -p 4000:4000 \
-    -v $(pwd):/srv/jekyll
-    us-rse-website:latest \
+    -v $(pwd):/srv/jekyll \
+    us-rse-con-2023-website:latest \
     bundle exec jekyll serve --host=0.0.0.0 --watch --drafts
 ```
 
