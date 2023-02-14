@@ -35,7 +35,7 @@ include (but are not limited to):
 
 **Questions?** Contact the organizers: [usrse-conf23@us-rse.org](mailto:usrse-conf23@us-rse.org).
 
-## Papers
+## Short and Long Papers
 
 TBD.
 
