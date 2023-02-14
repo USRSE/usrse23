@@ -37,7 +37,9 @@ include (but are not limited to):
 
 ## Short and Long Papers
 
-TBD.
+We invite papers as peer-reviewed publications highlighting the above topic areas and the software/software techniques that enabled the research!  Accepted papers will be given the opportunity to have an oral presentation during the conference (short papers will be lightning talks of 5 minutes and long papers will be 15 minutes). Both types of submissions will be included in the digital proceedings. 
+
+Papers should follow the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html). Short papers should have not more than 500 words and long papers should be no-longer than 8 pages in length. We particularly encourage submissions from first-time conference presenters and from members of groups that have historically been underrepresented in the scientific community.
 
 **Timeline**
 
