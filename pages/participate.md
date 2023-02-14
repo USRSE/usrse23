@@ -67,7 +67,7 @@ TBD.
 
 ## Posters
 
-TBD.
+We invite posters highlighting the above topic areas and the software/software techniques that enabled the research. Poster submissions should be in the form of an abstract, no more than 1 page in length.
 
 **Timeline**
 
