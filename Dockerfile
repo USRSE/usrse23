@@ -1,8 +1,15 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:3.8
 
-COPY Gemfile .
-COPY Gemfile.lock .
+ENV JEKYLL_UID=1000
+ENV JEKYLL_GID=1000
 
-RUN bundle install --quiet --clean
+USER ${JEKYLL_UID}
 
-CMD ["jekyll", "serve"]
+## Install required gems
+COPY ./Gemfile ./Gemfile
+RUN bundle install
+
+## Copy source files
+COPY ./ ./
+
+CMD ["bundle", "exec", "jekyll", "serve", "--host=0.0.0.0", "--watch", "--drafts"]
