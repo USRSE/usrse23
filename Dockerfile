@@ -21,6 +21,6 @@ COPY ./Gemfile ./Gemfile
 RUN bundle install
 
 ## Copy source files
-COPY ./ ./
+COPY --chown=${JEKYLL_UID}:${JEKYLL_GID} ./ ./
 
 CMD ["bundle", "exec", "jekyll", "serve", "--host=0.0.0.0", "--watch", "--drafts"]
