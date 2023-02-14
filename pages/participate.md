@@ -43,7 +43,7 @@ Papers should follow the [IEEE format](https://www.ieee.org/conferences/publishi
 
 **Timeline**
 
-- **Submissions open**: Monday, February 13, 2023
+- **Submissions open**: Monday, February 14, 2023
 - **Papers / Notebooks due**: Monday, May 1, 2023
 - **Notification of authors for papers / notebooks**: Monday, June 5, 2023
 - **Camera-ready papers / notebooks due**: Monday, June 26, 2023
