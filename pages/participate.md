@@ -81,7 +81,7 @@ We invite posters highlighting the above topic areas and the software/software t
 
 ## Workshops / Birds of a Feather (BoF)
 
-TBD.
+We invite proposals for workshops and birds of a feather (BoFs) highlighting the above topic areas. Workshops and BoFs can range from an hour to half day events that will run in parallel tracks.  Submissions should be no more than 1 page in length, state the desired length of the workshop, and indicate the estimated number of attendees, and level of participation expected.
 
 **Timeline**
 
