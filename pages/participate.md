@@ -65,7 +65,7 @@ Given the necessity for software in all aspects of research today, we would
 also like to encourage the submission of computational notebooks. To account
 for the broad variety of use cases for notebooks, we are accepting submissions
 in three categories, described in detail on the
-[Notebook Submissions page](https://us-rse.org/usrse23/notebook-submissions).
+[Notebook Submissions page]({{ '/submissions/notebooks/' | relative_url }}).
 Accepted notebooks will be given the opportunity for a 15 minute oral
 presentation and included in our digital proceedings. There will be a US-RSE
 community call in March dedicated to discussing details and answering questions
