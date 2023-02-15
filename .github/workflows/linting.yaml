@@ -24,7 +24,7 @@ jobs:
       uses: urlstechie/urlchecker-action@0.0.34
       with:
         # A comma-separated list of file types to cover in the URL checks
-        file_types: .md,.py,.yml
+        file_types: .md,.py,.yml,.html
 
         # Choose whether to include file with no URLs in the prints.
         print_all: false
@@ -42,4 +42,4 @@ jobs:
         exclude_patterns: supercomputing.org
 
         # Exclude these files from the checker
-        exclude_files: README.md,_config.yml,.github/workflows
+        exclude_files: README.md,SocialNetworks.yml,_config.yml,tests/test_,.github/workflows
