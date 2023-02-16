@@ -22,7 +22,7 @@
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] I have posted the link for the PR in the usrse slack (#usrse-2023-conference-planning-committee) to ask for content reviewers
+- [ ] (Committee Chairs Only) I have posted the link for the PR in the usrse slack (#usrse-2023-conference-planning-committee) to ask for content reviewers
 - [ ] I have previewed changes locally
 - [ ] I have updated the README.md if necessary
 
