@@ -57,7 +57,18 @@ Papers should follow the [IEEE format](https://www.ieee.org/conferences/publishi
 - **Camera-ready papers / notebooks due**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
 
+## Talks
 
+We invite talks highlighting the above topic areas and the software/software techniques that enabled the research.
+Accepted talks will be given 15 minutes for an oral presentation during the conference.
+Talk submissions should be in the form of an abstract, no more than 1 page in length.
+
+**Timeline**
+
+- **Submissions open**: Thursday, February 16, 2023
+- **Talk abstracts due**: Monday, June 19, 2023
+- **Notification of authors for talks**: Monday, July 24, 2023
+- **Registration for authors of talks**: Monday, August 21, 2023
 
 ## Notebooks
 
