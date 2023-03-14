@@ -31,7 +31,7 @@ include (but are not limited to):
 - **Papers / Notebooks due**: Monday, May 1, 2023
 - **Poster / Talk abstracts due**: Monday, June 19, 2023
 
-**Submission Website**: EasyChair (to be posted soon)
+**Submission Website**: [EasyChair](https://easychair.org/conferences/?conf=usrsecon2023)
 
 Authors of accepted submissions are expected to register by the author
 registration deadlines below or they will not be included in the program.
@@ -47,7 +47,11 @@ during the conference (short papers will be lightning talks of 5 minutes and
 long papers will be 15 minutes). Both types of submissions will be included
 in the digital proceedings. 
 
-Papers should follow the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html). Short papers should have not more than 500 words and long papers should be no-longer than 8 pages in length. We particularly encourage submissions from first-time conference presenters and from members of groups that have historically been underrepresented in the scientific community.
+Papers should follow the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
+Short papers should have not more than 500 words and long papers should be no-longer
+than 8 pages in length. We particularly encourage submissions from first-time conference
+presenters and from members of groups that have historically been underrepresented in
+the scientific community.
 
 **Timeline**
 
