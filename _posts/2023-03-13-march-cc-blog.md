@@ -10,11 +10,11 @@ Computational notebooks are now an essential component of the research software 
 supporting a variety of use cases across many disciplines. As a way to acknowledge
 their established role in our community, the US-RSE 2023 conference committee has
 decided to introduce a dedicated submission track for notebooks. But what does it mean
-to “submit a notebook” to a conference? Kenton, from the Program Committee, will give
+to “submit a notebook” to a conference? Kenton, from the Program Committee, gave
 a history of similar efforts to elevate notebooks as scholarly objects. Then Ludovico,
-Torin, and Nicole, from the Notebook Subcommittee, will summarize their findings from
-the notebook submission development process and present the submission workflow in its
-current form. A key part of the call will be the discussion with the audience: not only
+Torin, and Nicole, from the Notebook Subcommittee, summarized their findings from
+the notebook submission development process and presented the submission workflow in its
+current form. A key part of the call was the discussion with the audience: not only
 to solicit feedback about the conference submission process (did we cover all reasonable
 use cases? did we leave something out?), but more broadly about the growing importance
 of notebooks as not only research tools, but as first-class artifacts of the
