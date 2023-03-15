@@ -19,8 +19,8 @@ permalink: /organization/
 - Miranda Mundt, Sandia National Laboratories
 
 ### Program Chairs
-- Kenton McHenry, Director of Software, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
 - Mariam Kiran, Lawrence Berkeley National Laboratory
+- Kenton McHenry, Director of Software, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
 
 ### Publication Chairs
 - Charles Ferenbaugh, Los Alamos National Laboratory
