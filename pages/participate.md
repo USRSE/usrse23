@@ -27,7 +27,7 @@ include (but are not limited to):
 **Important Dates**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
 - **Papers / Notebooks due**: Monday, May 1, 2023
 - **Poster / Talk abstracts due**: Monday, June 19, 2023
 
