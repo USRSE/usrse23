@@ -34,3 +34,7 @@ permalink: /organization/
 ### Student Chairs
 - Nicole Brewer, Arizona State University
 - Carrie Brown, Pennsylvania State University
+
+### Contact
+
+Contact the organizers: [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org)
