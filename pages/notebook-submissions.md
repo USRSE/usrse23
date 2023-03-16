@@ -7,7 +7,7 @@ permalink: /submissions/notebooks/
 Below, we outline the categories that we will accept for computational notebook submissions.
 We have included an innovative uses category, to be inclusive of as many creative uses of notebooks as possible, however, this year will only accept [Jupyter Notebooks](https://jupyter.org/), [R Markdown](https://rmarkdown.rstudio.com/) documents (including [Shiny](https://shiny.rstudio.com/) apps), and [Quarto Markdown](https://quarto.org/docs/authoring/markdown-basics.html) documents.
 
-We intend to have an open line of communication during the submission process, so if you have questions or concerns about these formats, please contact us at [usrse-conf23@us-rse.org](mailto:usrse-conf23@us-rse.org).
+We intend to have an open line of communication during the submission process, so if you have questions or concerns about these formats, please contact us at [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org).
 Technical submission guidelines will become available soon.
 
 ## 1. Reproducible Documents
