@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EXTENDED: Submission Deadline for Workshops/BoFs/Tutorials
+title: "EXTENDED: Submission Deadline for Workshops/BoFs/Tutorials"
 date: 2023-03-15
 tags:
 ---
