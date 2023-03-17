@@ -5,11 +5,14 @@ date: 2023-03-17
 tags:
 ---
 
+As this is our first year accepting notebook submissions, we anticipate this being a productive 
+session with lots of Q&A. This session will be recorded for reference.
+
 **Date:** April 7, 2023 
 
 **Time:** 3:00 PM EDT, 2:00 PM CDT, 1:00 PM MDT, 12:00 PM MST, 12:00 PM PDT
 
-**Registration:** https://asu.zoom.us/meeting/register/tZIod-Ghpz4qGNb5O23aWxuKBadudH65Fquy
+**Registration:** [Zoom](https://asu.zoom.us/meeting/register/tZIod-Ghpz4qGNb5O23aWxuKBadudH65Fquy)
 
 [Submission of computational notebooks](https://us-rse.org/usrse23/submissions/notebooks/) are due 
 Monday, May 1, 2023. To account for the broad variety of use cases for notebooks, we are accepting 
@@ -24,5 +27,3 @@ improve the clarity of our expectations, we are hosting a tutorial session. We w
 - walk through the technical details of using our templates to submit a notebook
 - give a quick overview of the peer review process
 
-As this is our first year accepting notebook submissions, we anticipate this being a productive 
-session with lots of Q&A. This session will be recorded for reference.
