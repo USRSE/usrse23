@@ -20,7 +20,7 @@ permalink: /organization/
 
 ### Program Chairs
 - Mariam Kiran, Lawrence Berkeley National Laboratory
-- Kenton McHenry, Director of Software, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
+- Kenton McHenry, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
 
 ### Publication Chairs
 - Charles Ferenbaugh, Los Alamos National Laboratory
@@ -28,7 +28,7 @@ permalink: /organization/
 
 ### Sponsor Chairs
 - Angela Herring, Los Alamos National Laboratory
-- Mahmood Shad, Associate Director of RSE, Harvard Research Computing, Harvard University
+- Mahmood Shad, Harvard Research Computing, Harvard University
 - Chris Hill, MIT
 
 ### Student Chairs
