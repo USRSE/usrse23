@@ -6,7 +6,9 @@ tags:
 ---
 
 **Date:** April 7, 2023 
+
 **Time:** 3:00 PM EDT, 2:00 PM CDT, 1:00 PM MDT, 12:00 PM MST, 12:00 PM PDT
+
 **Registration:** https://asu.zoom.us/meeting/register/tZIod-Ghpz4qGNb5O23aWxuKBadudH65Fquy
 
 [Submission of computational notebooks](https://us-rse.org/usrse23/submissions/notebooks/) are due 
