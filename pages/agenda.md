@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop Agenda
+title: Conference Agenda
 subtitle: Agenda
 description: Agenda
 permalink: /agenda/
