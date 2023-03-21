@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Submission Templates
-permalink: /participate/templates
+permalink: /participate/templates/
 ---
 
 ## Birds of a Feather
