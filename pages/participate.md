@@ -27,7 +27,7 @@ include (but are not limited to):
 **Important Dates**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
 - **Papers / Notebooks due**: Monday, May 1, 2023
 - **Poster / Talk abstracts due**: Monday, June 19, 2023
 
@@ -36,7 +36,7 @@ include (but are not limited to):
 Authors of accepted submissions are expected to register by the author
 registration deadlines below or they will not be included in the program.
 
-**Questions?** Contact the organizers: [usrse-conf23@us-rse.org](mailto:usrse-conf23@us-rse.org).
+**Questions?** Contact the organizers: [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org).
 
 ## Short and Long Papers
 
@@ -123,7 +123,7 @@ estimated number of attendees, and level of participation expected.
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
@@ -140,7 +140,7 @@ and specify the level of participation expected.
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Monday, March 20, 2023
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
