@@ -6,7 +6,7 @@ permalink: /participate/templates/
 
 ## Birds of a Feather
 
-A Birds of a Feather (BoF) submission should include:
+A Birds of a Feather (BoF) submission (due **April 4, 2023**) should include:
 
 - **Title**
 - **Session Leaders**: Name, email, and affiliation of each leader
@@ -27,7 +27,7 @@ A Birds of a Feather (BoF) submission should include:
 
 ## Workshop
 
-A Workshop submission should include:
+A Workshop submission (due **April 4, 2023**) should include:
 
 - **Title**
 - **Organizers**: Name, email, and affiliation of each organizer
@@ -48,7 +48,7 @@ A Workshop submission should include:
 
 ## Tutorials
 
-A Tutorial submission should include:
+A Tutorial submission (due **April 4, 2023**) should include:
 
 - **Title**
 - **Presenters**: Name, email, and affiliation of each presenter
