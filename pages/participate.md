@@ -36,7 +36,11 @@ include (but are not limited to):
 Authors of accepted submissions are expected to register by the author
 registration deadlines below or they will not be included in the program.
 
+Templates for the various submission types can be found in their descriptions below.
+
 **Questions?** Contact the organizers: [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org).
+
+------
 
 ## Short and Long Papers
 
@@ -61,6 +65,8 @@ the scientific community.
 - **Camera-ready papers / notebooks due**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
 
+------
+
 ## Talks
 
 We invite talks highlighting the above topic areas and the software/software techniques that enabled the research.
@@ -73,6 +79,8 @@ Talk submissions should be in the form of an abstract, no more than 1 page in le
 - **Talk abstracts due**: Monday, June 19, 2023
 - **Notification of authors for talks**: Monday, July 24, 2023
 - **Registration for authors of talks**: Monday, August 21, 2023
+
+------
 
 ## Notebooks
 
@@ -94,7 +102,7 @@ about notebook submissions.
 - **Camera-ready papers / notebooks due**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
 
-
+------
 
 ## Posters
 
@@ -110,7 +118,7 @@ of an abstract, no more than 1 page in length.
 - **Registration for authors of posters**: Monday, August 21, 2023
 - **Camera-ready posters due**: Monday, August 28, 2023
 
-
+------
 
 ## Workshops / Birds of a Feather (BoF)
 
@@ -120,6 +128,8 @@ events that will run in parallel tracks.  Submissions should be no more than
 1 page in length, state the desired length of the workshop, and indicate the
 estimated number of attendees, and level of participation expected.
 
+**Templates**: [Technical Program Templates]({{ '/participate/templates/' | relative_url }})
+
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
@@ -127,7 +137,7 @@ estimated number of attendees, and level of participation expected.
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
-
+------
 
 ## Tutorials
 
@@ -136,6 +146,8 @@ conducted virtually in the weeks prior to the conference, Monday, October 2nd
 to Friday, October 13th. Submissions should be no more than 1 page in length,
 state the topic, desired length, indicate the estimated number of attendees,
 and specify the level of participation expected. 
+
+**Templates**: [Technical Program Templates]({{ '/participate/templates/' | relative_url }})
 
 **Timeline**
 
