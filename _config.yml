@@ -5,7 +5,7 @@ title: US-RSE'23
 description: The first US-RSE Conference ever!
 
 url: "https://us-rse.org"
-baseurl: "/usrse23"  # for testing, also check .circleci/circle_urls.sh
+baseurl: "/usrse23/"
 title-img: /assets/img/main_logo_transparent.png  # baseurl will be prepended
 twitter-img: /assets/img/main_logo_transparent.png  # url + baseurl will be prepended
 banner: /assets/img/main_logo_transparent.png
@@ -16,8 +16,6 @@ email: contact@us-rse.org
 permalink: /:year-:month-:day-:title/
 
 favicon: /assets/img/favicon.ico
-#hide_share_buttons: true
-#theme_color: '#eeeeee'
 fixed_navbar: top
 
 paginate: 5
