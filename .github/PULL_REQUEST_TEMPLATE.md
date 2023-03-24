@@ -26,5 +26,5 @@
 - [ ] I have previewed changes locally
 - [ ] I have updated the README.md if necessary
 
-cc @mrmundt @cabejackson @manning-ncsa @jmelot @jbteves @jscubida
+cc @mrmundt @cabejackson @manning-ncsa @jmelot @jbteves @jsubida
 
