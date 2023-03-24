@@ -1,0 +1,6 @@
+- label: Organization
+  items:
+    - name: Outreach
+      link: organization/outreach/
+    - name: Technical Program
+      link: organization/technical/
