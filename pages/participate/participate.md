@@ -128,11 +128,8 @@ of an abstract, no more than 1 page in length.
 
 We invite proposals for workshops and birds of a feather (BoFs) highlighting
 the above topic areas. Workshops and BoFs can range from an hour to half day
-events that will run in parallel tracks.  Submissions should be no more than
-1 page in length, state the desired length of the workshop, and indicate the
-estimated number of attendees, and level of participation expected.
-
-**Templates**: [Technical Program Templates]({{ '/participate/templates/' | relative_url }})
+events that will run in parallel tracks.  Submissions should adhere to the 
+[Technical Program Templates]({{ '/participate/templates/' | relative_url }}).
 
 **Timeline**
 
@@ -147,11 +144,8 @@ estimated number of attendees, and level of participation expected.
 
 We invite proposals for tutorial sessions. Tutorials will be online only and
 conducted virtually in the weeks prior to the conference, Monday, October 2nd
-to Friday, October 13th. Submissions should be no more than 1 page in length,
-state the topic, desired length, indicate the estimated number of attendees,
-and specify the level of participation expected. 
-
-**Templates**: [Technical Program Templates]({{ '/participate/templates/' | relative_url }})
+to Friday, October 13th. Submissions should adhere to the
+[Technical Program Templates]({{ '/participate/templates/' | relative_url }})
 
 **Timeline**
 
