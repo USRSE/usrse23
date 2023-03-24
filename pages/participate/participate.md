@@ -145,7 +145,7 @@ events that will run in parallel tracks.  Submissions should adhere to the
 We invite proposals for tutorial sessions. Tutorials will be online only and
 conducted virtually in the weeks prior to the conference, Monday, October 2nd
 to Friday, October 13th. Submissions should adhere to the
-[Technical Program Templates]({{ '/participate/templates/' | relative_url }})
+[Technical Program Templates]({{ '/participate/templates/' | relative_url }}).
 
 **Timeline**
 
