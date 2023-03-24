@@ -61,3 +61,4 @@ docker run --rm -it -p 4000:4000 \
 ```
 
 Change a source file, such as `index.html` for example, and save the changes. You will see Jekyll automatically regenerate the site, after which you can reload the page in your browser to see the rendered changes.
+

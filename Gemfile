@@ -8,3 +8,4 @@ gem 'jekyll-paginate', '1.1.0'
 gem 'faraday', '2.7.4'
 gem 'faraday-retry', '2.0.0'
 gem 'webrick', '1.8.1'
+

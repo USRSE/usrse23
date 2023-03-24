@@ -1,0 +1,37 @@
+- name: Participate
+  link: participate/
+  dropdown:
+    - name: Call for Participation
+      link: participate/
+    - name: Templates
+      link: participate/templates/
+    - name: Notebooks
+      link: participate/notebooks/
+- name: Program
+  link: program/
+  # dropdown:
+  #   - name: Agenda
+  #     link: program/agenda/
+- name: Attend
+  link: attend/
+  dropdown:
+    - name: Register
+      link: attend/register/
+    - name: Travel
+      link: attend/travel/
+- name: Organization
+  link: organization/
+  dropdown:
+    - name: Outreach
+      link: organization/outreach/
+    - name: Technical Program
+      link: organization/technical/
+- name: Sponsor
+  link: sponsor/
+- name: About
+  link: about/
+  dropdown:
+    - name: Important Dates
+      link: about/dates/
+    - name: Code of Conduct
+      link: about/code-of-conduct/
