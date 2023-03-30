@@ -56,8 +56,11 @@ long papers will be 15 minutes). Both types of submissions will be included
 in the digital proceedings. 
 
 Papers should follow the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
-Short papers should have not more than 500 words and long papers should be no-longer
-than 8 pages in length. We particularly encourage submissions from first-time conference
+Short papers should have no fewer than 300 words, but no more than two pages;
+long papers should be no longer than 8 pages in length. Neither limit
+includes references.
+
+We particularly encourage submissions from first-time conference
 presenters and from members of groups that have historically been underrepresented in
 the scientific community.
 
