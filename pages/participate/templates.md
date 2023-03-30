@@ -21,7 +21,7 @@ A Birds of a Feather (BoF) submission (due **April 4, 2023**) should include:
   - Format
   - Intended audience
   - Estimated number of attendees
-- **Panelist Call**: If there will be a call for participatation (e.g., panelists or speakers), please provide a timeline and advertisement plan.
+- **Panelist Call**: If there will be a call for participation (e.g., panelists or speakers), please provide a timeline and advertisement plan.
 - **Special Requirements**: Do you require anything special for the room (besides a projector)?
 - **References**: If applicable
 
@@ -40,7 +40,7 @@ A Workshop submission (due **April 4, 2023**) should include:
   - Goal for the workshop (e.g., will there be an output?)
   - Outline for format (e.g., speakers, breakout discussions)
   - Outline of agenda
-- **Workshop Call**: If there will be a call for participatation (e.g., panelists or speakers), please provide a timeline and advertisement plan.
+- **Workshop Call**: If there will be a call for participation (e.g., panelists or speakers), please provide a timeline and advertisement plan.
 - **Suggested Length**: Workshops can either be 1.5 or 3.5 hours
 - **Audience**: Max 1 paragraph. Describe the intended audience and estimate number of attendees.
 - **Special Requirements**: Do you require anything special for the room (besides a projector)?
