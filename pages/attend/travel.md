@@ -18,7 +18,7 @@ set_last_modified: true
 
 - ADA Accessbility
   - Elevators available to all floors of Student Center East
-  - If special accomodations are required, please contact the organizers at [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org)
+  - If special accommodations are required, please contact the organizers at [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org)
 - [Gender Inclusive Resources](https://oae.uic.edu/resources/gender-inclusive-resources/)
   - Gender neutral facilities: 2nd and 8th Floor of Student Center East
   - Lactation room: Rooms 243B and 243C of Commuter Student Resource Center
