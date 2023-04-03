@@ -7,4 +7,11 @@ permalink: attend/
 set_last_modified: true
 ---
 
-We'll post information when it becomes available.
+## Register
+
+See the [Registration page]({{ site.baseurl }}/attend/register) for more details.
+
+## Travel
+
+See the [Travel page]({{ site.baseurl }}/attend/travel) for more details.
+
