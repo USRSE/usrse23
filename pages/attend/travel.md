@@ -21,7 +21,8 @@ for details and links.
 
 Nearby hotels:
 
-- Crowne Plaza Chicago West Loop | 25 South Halsted Street, Chicago, Illinois 60661 (0.6 miles away)
+
+- Crowne Plaza Chicago West Loop - 25 South Halsted Street, Chicago, Illinois 60661 (0.6 miles away)
 - The Hoxton Chicago - 200 N Green St, Chicago, IL 60607 (1.0 miles away)
 - Hyatt House Chicago West Loop-Fulton Market – 105 N May St, Chicago, IL 60607 (1.2 miles away)
 - Hotel Emily – 311 N Morgan St, Chicago, IL 60607 (1.3 miles away)
