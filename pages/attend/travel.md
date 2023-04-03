@@ -14,6 +14,15 @@ set_last_modified: true
 - **Dates**: October 16-18, 2023
 - **Location**: University of Illinois in Chicago – [Student Center East](https://meetings.uic.edu/facilities/student-center-east/) – 750 S. Halsted, Chicago, IL 60607
 
+### Accessibility
+
+- ADA Accessbility
+  - Elevators available to all floors of Student Center East
+  - If special accomodations are required, please contact the organizers at [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org)
+- [Gender Inclusive Resources](https://oae.uic.edu/resources/gender-inclusive-resources/)
+  - Gender neutral facilities: 2nd and 8th Floor of Student Center East
+  - Lactation room: Rooms 243B and 243C of Commuter Student Resource Center
+
 ## Hotel Accommodation
 
 We’re reserving hotel room blocks at several nearby hotels. Please check back
