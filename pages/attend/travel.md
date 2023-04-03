@@ -72,7 +72,7 @@ Parking is available in the Halsted and Taylor Street Parking Structure
 Taylor Street. Upon entry‚ guests should take a ticket and upon exit‚ guests
 should present this ticket to the cashier and pay the appropriate total
 (cash‚ debit cards‚ and credit cards are accepted at this lot). **Parking is
-available for up to $13.00 per day, or per exit. Special parking rates for
+available for up to $15.00 per day, or per exit. Special parking rates for
 conference guests are: $37.00 per day.**
 
 ## Public transportation
