@@ -41,9 +41,9 @@ Nearby hotels:
 ## Chicagoland Airport Information
 
 - O'Hare International Airport (ORD)
-  - CTA Blue Line, get off at Halsted & Polk – Live [Google Map](https://www.google.ca/maps/dir/O'Hare+International+Airport+(ORD),+West+Balmoral+Avenue,+Chicago,+IL/750+S+Halsted+St,+Chicago,+IL+60607/@41.9284448,-87.9091952,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x880fb4276a7762f3:0x511747070259ad4b!2m2!1d-87.9089979!2d41.98028!1m5!1m1!1s0x880e2ce8a17fa1d5:0xd1d2febe6a9af901!2m2!1d-87.6475869!2d41.8719566!3e3) Directions
+  - CTA Blue Line, get off at Halsted & Polk – Live [Google Map](https://www.google.com/maps/dir/O'Hare+International+Airport+(ORD),+West+Balmoral+Avenue,+Chicago,+IL/750+S+Halsted+St,+Chicago,+IL+60607/@41.9284448,-87.9091952,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x880fb4276a7762f3:0x511747070259ad4b!2m2!1d-87.9089979!2d41.98028!1m5!1m1!1s0x880e2ce8a17fa1d5:0xd1d2febe6a9af901!2m2!1d-87.6475869!2d41.8719566!3e3) Directions
 - Midway International Airport (MDW)
-  - CTA Orange Line, to South Halsted St – Live [Google Map](https://www.google.ca/maps/dir/Chicago+Midway+International+Airport+(MDW),+Cicero+Avenue,+Chicago,+IL/750+S+Halsted+St,+Chicago,+IL+60607/@41.8331347,-87.75912,12z/data=!3m1!4b1!4m15!4m14!1m5!1m1!1s0x880e310601aa4385:0x968a60d78f2950a5!2m2!1d-87.7521884!2d41.7867759!1m5!1m1!1s0x880e2ce8a17fa1d5:0xd1d2febe6a9af901!2m2!1d-87.6475869!2d41.8719566!3e3!5i3) Directions
+  - CTA Orange Line, to South Halsted St – Live [Google Map](https://www.google.com/maps/dir/Chicago+Midway+International+Airport+(MDW),+Cicero+Avenue,+Chicago,+IL/750+S+Halsted+St,+Chicago,+IL+60607/@41.8331347,-87.75912,12z/data=!3m1!4b1!4m15!4m14!1m5!1m1!1s0x880e310601aa4385:0x968a60d78f2950a5!2m2!1d-87.7521884!2d41.7867759!1m5!1m1!1s0x880e2ce8a17fa1d5:0xd1d2febe6a9af901!2m2!1d-87.6475869!2d41.8719566!3e3!5i3) Directions
 
 ## Driving Directions to Student Center East
 
