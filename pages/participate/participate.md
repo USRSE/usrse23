@@ -31,7 +31,7 @@ include (but are not limited to):
 **Important Dates**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023 - **EXTENDED**
 - **Papers / Notebooks due**: Monday, May 1, 2023
 - **Poster / Talk abstracts due**: Monday, June 19, 2023
 
@@ -137,7 +137,7 @@ events that will run in parallel tracks.  Submissions should adhere to the
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023 - **EXTENDED**
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
@@ -153,7 +153,7 @@ to Friday, October 13th. Submissions should adhere to the
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023 - **EXTENDED**
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 

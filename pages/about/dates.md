@@ -11,7 +11,7 @@ set_last_modified: true
 ## Submissions
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
+- **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023 - **EXTENDED**
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Papers / Notebooks due**: Monday, May 1, 2023
 - **Registration opens**: Monday, May 1, 2023
