@@ -9,7 +9,7 @@ set_last_modified: true
 
 ## Register
 
-See the [Registration page]({{ site.baseurl }}/attend/travel) for more details.
+See the [Registration page]({{ site.baseurl }}/attend/register) for more details.
 
 ## Travel
 
