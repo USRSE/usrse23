@@ -28,7 +28,7 @@ set_last_modified: true
 - Charles Ferenbaugh, Los Alamos National Laboratory
 - Torin White, University of Illinois at Chicago
 
-### Sponsor Chairs
+### Sponsorship Chairs
 - Angela Herring, Los Alamos National Laboratory
 - Mahmood Shad, Harvard Research Computing, Harvard University
 - Chris Hill, MIT
@@ -36,6 +36,16 @@ set_last_modified: true
 ### Student Chairs
 - Nicole Brewer, Arizona State University
 - Carrie Brown, Pennsylvania State University
+
+## Advisory Board
+
+Additional advisory for the conference is provided by the current members of
+the [US-RSE Steering Committee](https://us-rse.org/about/steering-committee/).
+
+- Jeffrey C. Carver, University of Alabama
+- Ian Cosden, Princeton University
+- Rinku Gupta, Argonne National Laboratory
+- Christina Maimone, Northwestern University
 
 ### Contact
 
