@@ -7,7 +7,7 @@ permalink: organization/technical/
 set_last_modified: true
 ---
 
-# Technical Program Chairs
+## Chairs
 
 - Mariam Kiran, Lawrence Berkeley National Laboratory
 - Kenton McHenry, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
