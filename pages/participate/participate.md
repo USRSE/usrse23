@@ -40,7 +40,12 @@ include (but are not limited to):
 Authors of accepted submissions are expected to register by the author
 registration deadlines below or they will not be included in the program.
 
-Templates for the various submission types can be found in their descriptions below.
+**Review and Publication**: All contributions will be subject to standard peer
+review for quality, relevance, and novelty, which will determine acceptance and the form of
+presentation. All submissions will be kept confidential prior to publication in
+the proceedings. Instructions for camera-ready versions will be sent to authors
+of accepted submissions. All submission types will be published as open access
+in Zenodo.
 
 **Questions?** Contact the organizers: [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org).
 
