@@ -143,7 +143,7 @@ events that will run in parallel tracks.  Submissions should adhere to the
 
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023 - **EXTENDED**
-- **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
+- **Notification of authors for workshops, tutorials, and BoFs**: Wednesday, May 3, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
 ------
@@ -159,6 +159,6 @@ to Friday, October 13th. Submissions should adhere to the
 
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023 - **EXTENDED**
-- **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
+- **Notification of authors for workshops, tutorials, and BoFs**: Wednesday, May 3, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
