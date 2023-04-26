@@ -12,7 +12,7 @@ set_last_modified: true
 - Mariam Kiran, Lawrence Berkeley National Laboratory
 - Kenton McHenry, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
 
-## Subcommittees
+## Subcommittee Chairs
 
 ### Notebooks
 
