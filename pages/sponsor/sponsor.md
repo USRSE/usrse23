@@ -153,6 +153,10 @@ to additionally supply materials for the conference (as available):
 * Useful swag, such as pens, pads of paper, flyers, and other items may be provided by
   a sponsor for no additional sponsorship fee and will be included in the conference bags.
 * For small businesses or startups with fewer than 30 employees, we may be able to offer customized conference sponsorship opportunities tailored to your specific goals. Please feel free to [contact us](#contact-information) to explore additional support options.
+* Conference dinner 
+* Travel grants
+* Snack breaks
+
 
 ## Marketing and Recruitment Opportunities
 
