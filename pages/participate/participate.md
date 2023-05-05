@@ -32,7 +32,7 @@ include (but are not limited to):
 
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023
-- **Papers / Notebooks due**: Monday, May 8, 2023 - **EXTENDED**
+- **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
 - **Poster / Talk abstracts due**: Monday, June 19, 2023
 
 **Submission Website**: [EasyChair](https://easychair.org/conferences/?conf=usrsecon2023)
@@ -72,10 +72,10 @@ the scientific community.
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Papers / Notebooks due**: Monday, May 8, 2023 - **EXTENDED**
-- **Notification of authors for papers / notebooks**: Monday, June 12, 2023
-- **Camera-ready papers / notebooks due**: Monday, June 26, 2023
+- **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
+- **Notification of authors for papers / notebooks**: Monday, June 19, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+- **Camera-ready papers / notebooks due**: Monday, July 3, 2023
 
 ------
 
@@ -109,10 +109,10 @@ about notebook submissions.
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Papers / Notebooks due**: Monday, May 8, 2023 - **EXTENDED**
-- **Notification of authors for papers / notebooks**: Monday, June 12, 2023
-- **Camera-ready papers / notebooks due**: Monday, June 26, 2023
+- **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
+- **Notification of authors for papers / notebooks**: Monday, June 19, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+- **Camera-ready papers / notebooks due**: Monday, July 3, 2023
 
 ------
 
