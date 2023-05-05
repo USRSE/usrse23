@@ -73,9 +73,9 @@ the scientific community.
 
 - **Submissions open**: Tuesday, February 14, 2023
 - **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
-- **Notification of authors for papers / notebooks**: Monday, June 12, 2023
-- **Camera-ready papers / notebooks due**: Monday, June 26, 2023
+- **Notification of authors for papers / notebooks**: Monday, June 19, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+- **Camera-ready papers / notebooks due**: Monday, July 3, 2023
 
 ------
 
@@ -110,9 +110,9 @@ about notebook submissions.
 
 - **Submissions open**: Tuesday, February 14, 2023
 - **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
-- **Notification of authors for papers / notebooks**: Monday, June 12, 2023
-- **Camera-ready papers / notebooks due**: Monday, June 26, 2023
+- **Notification of authors for papers / notebooks**: Monday, June 19, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+- **Camera-ready papers / notebooks due**: Monday, July 3, 2023
 
 ------
 
