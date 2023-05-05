@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FINA EXTENSION: Submission Deadline for Papers and Notebooks"
+title: "FINAL EXTENSION: Submission Deadline for Papers and Notebooks"
 date: 2023-05-05
 tags:
 ---
