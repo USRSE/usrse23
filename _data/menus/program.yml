@@ -1,4 +1,8 @@
 - label: Program
-  # items:
-  #   - name: Agenda
-  #     link: program/agenda/
+  items:
+    - name: Birds of a Feather
+      link: program/bofs/
+    - name: Tutorials
+      link: program/tutorials/
+    - name: Workshops
+      link: program/workshops/

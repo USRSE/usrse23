@@ -12,8 +12,6 @@ session with lots of Q&A. This session will be recorded for reference.
 
 **Time:** 3:00 PM EDT, 2:00 PM CDT, 1:00 PM MDT, 12:00 PM MST, 12:00 PM PDT
 
-**Registration:** [Zoom](https://asu.zoom.us/meeting/register/tZIod-Ghpz4qGNb5O23aWxuKBadudH65Fquy)
-
 [Submission of computational notebooks](https://us-rse.org/usrse23/submissions/notebooks/) are due 
 Monday, May 1, 2023. To account for the broad variety of use cases for notebooks, we are accepting 
 submissions in three categories, which were described in detail in the [March 2023 Community Call](https://youtu.be/Z4QXKDIDu6k). 
