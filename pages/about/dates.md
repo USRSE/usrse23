@@ -17,7 +17,7 @@ set_last_modified: true
 - **Registration opens**: Monday, May 15, 2023 (_estimated_)
 - **Notification of authors for papers / notebooks**: Monday, June 19, 2023
 - **Poster / Talk abstracts due**: Monday, June 19, 2023
-- **Registration for authors of workshops, tutorials, BoFs, and papers/notebooks**: Monday, June 26, 2023
+- **Registration for authors of workshops, tutorials, BoFs, and papers/notebooks**: mid-July 2023
 - **Camera-ready papers / notebooks due**: Monday, July 3, 2023
 - **Notification of authors for posters / talks**: Monday, July 24, 2023
 - **Registration for authors of posters / talks**: Monday, August 21, 2023

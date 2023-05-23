@@ -74,7 +74,7 @@ the scientific community.
 - **Submissions open**: Tuesday, February 14, 2023
 - **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
 - **Notification of authors for papers / notebooks**: Monday, June 19, 2023
-- **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+- **Registration for authors of papers/notebooks**: mid-July 2023
 - **Camera-ready papers / notebooks due**: Monday, July 3, 2023
 
 ------
@@ -111,7 +111,7 @@ about notebook submissions.
 - **Submissions open**: Tuesday, February 14, 2023
 - **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
 - **Notification of authors for papers / notebooks**: Monday, June 19, 2023
-- **Registration for authors of papers/notebooks**: Monday, June 26, 2023
+- **Registration for authors of papers/notebooks**: mid-July 2023
 - **Camera-ready papers / notebooks due**: Monday, July 3, 2023
 
 ------
@@ -144,7 +144,7 @@ events that will run in parallel tracks.  Submissions should adhere to the
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023
 - **Notification of authors for workshops, tutorials, and BoFs**: Wednesday, May 3, 2023
-- **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
+- **Registration for authors of workshops, tutorials, and BoFs**: mid-July 2023
 
 ------
 
@@ -160,5 +160,5 @@ to Friday, October 13th. Submissions should adhere to the
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023
 - **Notification of authors for workshops, tutorials, and BoFs**: Wednesday, May 3, 2023
-- **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
+- **Registration for authors of workshops, tutorials, and BoFs**: mid-July 2023
 
