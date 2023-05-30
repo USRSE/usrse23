@@ -45,7 +45,7 @@ the group block is sold-out, whichever comes first.
 
 - _Address_: 105 North May Street, Chicago, IL 60607 (1.2 miles away)
 - _Phone_: 866-974-9288
-- _Online Booking Link_:  [Booking Link](https://www.hyatt.com/shop/chixl?location=Hyatt%20House%20Chicago%20%2F%20West%20Loop-Fulton%20Market&checkinDate=2023-10-15&checkoutDate=2023-10-19&rooms=1&adults=1&kids=0&corp_id=g-uicf#room-page-anchor)
+- _Online Booking Link_:  [Booking Link](https://www.hyatt.com/shop/chixl?location=Hyatt%20House%20Chicago%20%2F%20West%20Loop-Fulton%20Market&checkinDate=2023-10-15&checkoutDate=2023-10-19&rooms=1&adults=1&kids=0&corp_id=g-uicf)
 - _Group Name_: UIC First US-RSE Conference Room Block
 - _Group Code_: G-UICF
 
