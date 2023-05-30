@@ -25,15 +25,34 @@ set_last_modified: true
 
 ## Hotel Accommodation
 
-We’re reserving hotel room blocks at several nearby hotels. Please check back
-for details and links.
+We have contracted with several different hotels to provide special rates for
+US-RSE'23.
 
-Nearby hotels:
+### Crowne Plaza Chicago West Loop
+
+The special room rate will be available until **September 22nd, 2023**, or until
+the group block is sold-out, whichever comes first.
+
+- _Address_: 25 South Halsted Street, Chicago, IL 60661 (0.6 miles away)
+- _Phone_: 312-829-5000
+- _Online Booking Link_:  [Booking Link](https://www.ihg.com/crowneplaza/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=CHISH&qCiD=15&qCiMy=092023&qCoD=19&qCoMy=092023&qGrpCd=R53&qAAR=6CBARC&qRtP=6CBARC&setPMCookies=true&qSHBrC=CP&qDest=25%20South%20Halsted%20Street,%20Chicago,%20IL,%20US&srb_u=1&qRmFltr=)
+- _Group Code_: R53
+
+### Hyatt House Chicago West Loop/Fulton Market
+
+The special room rate will be available until **September 15th, 2023**, or until
+the group block is sold-out, whichever comes first.
+
+- _Address_: 105 North May Street, Chicago, IL 60607 (1.2 miles away)
+- _Phone_: 866-974-9288
+- _Online Booking Link_:  [Booking Link](https://www.hyatt.com/shop/chixl?location=Hyatt%20House%20Chicago%20%2F%20West%20Loop-Fulton%20Market&checkinDate=2023-10-15&checkoutDate=2023-10-19&rooms=1&adults=1&kids=0&corp_id=g-uicf#room-page-anchor)
+- _Group Name_: UIC First US-RSE Conference Room Block
+- _Group Code_: G-UICF
 
 
-- Crowne Plaza Chicago West Loop - 25 South Halsted Street, Chicago, Illinois 60661 (0.6 miles away)
+### Other Nearby Hotels
+
 - The Hoxton Chicago - 200 N Green St, Chicago, IL 60607 (1.0 miles away)
-- Hyatt House Chicago West Loop-Fulton Market – 105 N May St, Chicago, IL 60607 (1.2 miles away)
 - Hotel Emily – 311 N Morgan St, Chicago, IL 60607 (1.3 miles away)
 - Palmer House Hilton – 17 E Monroe St, Chicago, IL 60603 (1.6 miles away)
 
