@@ -47,6 +47,10 @@ the proceedings. Instructions for camera-ready versions will be sent to authors
 of accepted submissions. All submission types will be published as open access
 in Zenodo.
 
+The Special Issue Editors are looking into options to invite accepted and presented submissions to
+US-RSE'23 to submit to a special issue in a suitable journal post-conference.
+Authors of selected submissions will receive the invitation after the conference.
+
 **Questions?** Contact the organizers: [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org).
 
 ------

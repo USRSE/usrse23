@@ -28,6 +28,10 @@ set_last_modified: true
 - Charles Ferenbaugh, Los Alamos National Laboratory
 - Torin White, University of Illinois at Chicago
 
+### Special Issue Editors
+- Patrick Diehl, Louisiana State University
+- Sandra Gesing, University of Illinois Discovery Partners Institute
+
 ### Sponsorship Chairs
 - Angela Herring, Los Alamos National Laboratory
 - Mahmood Shad, Harvard Research Computing, Harvard University
