@@ -12,7 +12,7 @@ US-RSE’23 attendees.
 
 ![Unisex shirt - front]({{ site.baseurl }}/assets/img/uni-tshirt-front.png) ![Unisex shirt - back]({{ site.baseurl }}/assets/img/uni-tshirt-back.png)
 
-![Womens shirt - front]({{ site.baseurl }}/assets/img/fe-tshirt-front.png) ![Womens shirt - back]({{ site.baseurl }}/assets/img/fe-tshirt-back.png)
+![Women's shirt - front]({{ site.baseurl }}/assets/img/fe-tshirt-front.png) ![Women's shirt - back]({{ site.baseurl }}/assets/img/fe-tshirt-back.png)
 
 No matter if you plan to attend US-RSE’23 in Chicago, IL, this upcoming
 October 16-18, you can order a t-shirt to commemorate our first annual conference.
