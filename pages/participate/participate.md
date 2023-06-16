@@ -32,8 +32,8 @@ include (but are not limited to):
 
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023
-- **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
-- **Poster / Talk abstracts due**: Monday, June 19, 2023
+- **Papers / Notebooks due**: Monday, May 15, 2023
+- **Poster / Talk abstracts due**: Monday, June 26, 2023
 
 **Submission Website**: [EasyChair](https://easychair.org/conferences/?conf=usrsecon2023)
 
@@ -76,7 +76,7 @@ the scientific community.
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
+- **Papers / Notebooks due**: Monday, May 15, 2023
 - **Notification of authors for papers / notebooks**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: mid-July 2023
 - **Camera-ready papers / notebooks due**: Monday, July 10, 2023
@@ -92,7 +92,7 @@ Talk submissions should be in the form of an abstract, no more than 1 page in le
 **Timeline**
 
 - **Submissions open**: Thursday, February 16, 2023
-- **Talk abstracts due**: Monday, June 19, 2023
+- **Talk abstracts due**: Monday, June 26, 2023 - **EXTENDED**
 - **Notification of authors for talks**: Monday, July 24, 2023
 - **Registration for authors of talks**: Monday, August 21, 2023
 
@@ -113,7 +113,7 @@ about notebook submissions.
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Papers / Notebooks due**: Monday, May 15, 2023 - **EXTENDED**
+- **Papers / Notebooks due**: Monday, May 15, 2023
 - **Notification of authors for papers / notebooks**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: mid-July 2023
 - **Camera-ready papers / notebooks due**: Monday, July 3, 2023
@@ -129,7 +129,7 @@ of an abstract, no more than 1 page in length.
 **Timeline**
 
 - **Submissions open**: Tuesday, February 14, 2023
-- **Poster abstracts due**: Monday, June 19, 2023
+- **Poster abstracts due**: Monday, June 26, 2023 - **EXTENDED**
 - **Notification of authors for posters**: Monday, July 24, 2023
 - **Registration for authors of posters**: Monday, August 21, 2023
 - **Camera-ready posters due**: Monday, August 28, 2023
