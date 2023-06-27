@@ -116,7 +116,7 @@ about notebook submissions.
 - **Papers / Notebooks due**: Monday, May 15, 2023
 - **Notification of authors for papers / notebooks**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: mid-July 2023
-- **Camera-ready papers / notebooks due**: Monday, July 3, 2023
+- **Camera-ready papers / notebooks due**: Monday, July 10, 2023
 
 ------
 
