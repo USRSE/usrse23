@@ -13,7 +13,9 @@ set_last_modified: true
 | - | ------------ | ------- |
 | Early Bird | $325 | $50 |
 | Regular | $375 | $100 |
+| Poster Session Only | $75 | - |
+| Additional Poster Session Ticket | $50 | - |
 
-Early bird registration ends on **September 4, 2023**.
+Early bird registration ends on **September 8, 2023**.
 
-Registration has **NOT YET** opened. Check back for more details.
+Registration opens on **July 31, 2023**.

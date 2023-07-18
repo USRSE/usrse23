@@ -78,8 +78,8 @@ the scientific community.
 - **Submissions open**: Tuesday, February 14, 2023
 - **Papers / Notebooks due**: Monday, May 15, 2023
 - **Notification of authors for papers / notebooks**: Monday, June 26, 2023
-- **Registration for authors of papers/notebooks**: mid-July 2023
 - **Camera-ready papers / notebooks due**: Monday, July 24, 2023 - **EXTENDED**
+- **Registration for authors**: Monday, August 21, 2023
 
 ------
 
@@ -94,7 +94,7 @@ Talk submissions should be in the form of an abstract, no more than 1 page in le
 - **Submissions open**: Thursday, February 16, 2023
 - **Talk abstracts due**: Monday, June 26, 2023 - **EXTENDED**
 - **Notification of authors for talks**: Monday, July 24, 2023
-- **Registration for authors of talks**: Monday, August 21, 2023
+- **Registration for authors**: Monday, August 21, 2023
 
 ------
 
@@ -115,8 +115,8 @@ about notebook submissions.
 - **Submissions open**: Tuesday, February 14, 2023
 - **Papers / Notebooks due**: Monday, May 15, 2023
 - **Notification of authors for papers / notebooks**: Monday, June 26, 2023
-- **Registration for authors of papers/notebooks**: mid-July 2023
 - **Camera-ready papers / notebooks due**: Monday, July 24, 2023 - **EXTENDED**
+- **Registration for authors**: Monday, August 21, 2023
 
 ------
 
@@ -148,7 +148,7 @@ events that will run in parallel tracks.  Submissions should adhere to the
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023
 - **Notification of authors for workshops, tutorials, and BoFs**: Wednesday, May 3, 2023
-- **Registration for authors of workshops, tutorials, and BoFs**: mid-July 2023
+- **Registration for authors**: Monday, August 21, 2023
 
 ------
 
@@ -164,5 +164,5 @@ to Friday, October 13th. Submissions should adhere to the
 - **Submissions open**: Tuesday, February 14, 2023
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 11, 2023
 - **Notification of authors for workshops, tutorials, and BoFs**: Wednesday, May 3, 2023
-- **Registration for authors of workshops, tutorials, and BoFs**: mid-July 2023
+- **Registration for authors**: Monday, August 21, 2023
 
