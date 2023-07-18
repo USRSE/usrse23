@@ -107,3 +107,16 @@ Union Station is the nearby train station (estimated distance is 0.6 miles).
 
 For detailed directions using CTA‚ Metra‚ or Pace‚ please visit the
 [RTA Chicago website](https://www.rtachicago.org/).
+
+## Childcare
+
+If you are looking for a nearby childcare center during the conference,
+Bright Horizons at Illinois Medical District offers drop-in child daycare.
+
+**Bright Horizons at Illinois Medical District**
+
+- 1851 W Harrison St, Chicago, IL 60612
+- (773) 482-5003
+- [ilmedicaldistrict@brighthorizons.com](mailto:ilmedicaldistrict@brighthorizons.com)
+- [Flyer]({{ page.root }}/usrse23/assets/flyers/childcare.pdf)
+
