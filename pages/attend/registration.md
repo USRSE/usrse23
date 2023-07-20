@@ -18,4 +18,4 @@ set_last_modified: true
 
 Early bird registration ends on **September 8, 2023**.
 
-Registration opens on **July 31, 2023**.
+Registration opens on **August 1, 2023**.

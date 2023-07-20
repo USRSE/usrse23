@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Registration Opens July 31"
-date: 2023-07-18
+date: 2023-07-20
 tags:
 ---
 
-Registration will open on **Monday, July 31, 2023**.
+Registration will open on **Tuesday, August 1, 2023**.
 
 We offer two different types of registration:
 
