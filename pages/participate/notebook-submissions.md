@@ -60,7 +60,6 @@ Value comes from the interactive elements of the notebooks, are often executed n
 
 ### Examples
 
-- [Shiny web app](http://www.graphbio1.com/en/) ([paper](https://doi.org/10.3389/fgene.2022.957317), [github](https://github.com/databio2022/GraphBio))
 - [Voilà Dashboard](https://mybinder.org/v2/gh/zolabar/iexfinder/main?urlpath=voila%2Frender%2F/iexfinder_voila.ipynb) ([paper](https://doi.org/10.5281/zenodo.5707405), [github](https://github.com/zolabar/IexFinder))
 
 ## 3. Innovative Uses of Notebooks
