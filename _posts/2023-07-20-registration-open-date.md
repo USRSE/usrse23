@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Registration Opens July 31"
+title: "Registration Opens August 1"
 date: 2023-07-20
 tags:
 ---
