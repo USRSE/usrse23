@@ -21,7 +21,7 @@ set_last_modified: true
 - Torin White, University of Illinois at Chicago
 
 ### Posters
-- Anne Lilje, Sandia National Laboratories
+- Abhishek Biswas, Princeton University
 - Craig Steffen, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
 
 
