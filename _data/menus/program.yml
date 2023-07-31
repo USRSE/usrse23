@@ -1,5 +1,7 @@
 - label: Program
   items:
+    - name: Program
+      link: program/
     - name: Birds of a Feather
       link: program/bofs/
     - name: Tutorials
