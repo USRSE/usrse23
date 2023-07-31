@@ -8,7 +8,53 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+## Code Review for Research Software
+
+_Session leaders: Cole Crawford, Jeffrey Tharsen_
+
+Many academic research projects require custom software development. These developers are often a
+consortium of researchers, academic staff and professional software developers. As the field has
+matured, the question of testing and reviewing software to confirm it works properly has become an
+important topic, as nearly all software will have errors (some small, some potentially significant) in the
+code. A rough estimate suggests that there are between 15 to 50 errors in 1000 lines of code written by
+professional software developers (Soergel 2015). While most errors do not have any substantive effect
+on research findings, there are plenty of cases where this has happened (see for example Letzner et al.
+2020 or Miller 2006). In addition, uncaught “edge cases” can drastically affect future researchers’
+results.
+
+Code Review is a common technique used in industry to improve software and reduce the number of
+flaws. In a code review process, a software engineer other than the original code author(s) reviews the
+source code. They ask questions and make suggestions for improving the software. In addition to
+identifying and eliminating errors, code review can improve overall quality by making the source code
+more readable and the overall product more sustainable. Furthermore, code reviews improve not just
+the skills of the reviewee but also those of the reviewer. If a code author and reviewer work in the same
+team or on the same or related projects, code reviews can also support team cohesion and facilitate
+information-sharing within a team.
+
+Unfortunately, code review is not widely used in many research disciplines. The reasons for this vary
+widely. Many research software projects have only one core developer who does all the coding with no
+colleagues to review their code. Some projects avoid reviews by developers external to the project out of
+concern that their code could be plagiarized or their license ignored. In other cases, the person
+developing the code is concerned that they or their work will be attacked for being of poor quality or
+producing erroneous results. We suggest a BoF featuring a panel of three experts who will present
+best practices, tutorials and guidelines for code review from the perspectives of different
+disciplines. Following the panel we will host an open discussion and Q&A with the audience; the
+following questions are among those we propose to address:
+
+- Are certain challenges associated mainly with specific disciplines, or are there commonalities across disciplines?
+- Is code review across disciplines useful?
+
+A pilot study conducted by Petre and Wilson (2013) suggests that there is value in
+code reviews even if the reviewers do not possess any domain expertise for the code they are reviewing;
+in their study, professional software engineers from Mozilla reviewed code written by scientists. The
+goal of this BoF is to help attendees to better understand the code review processes of different RSE
+teams across disciplines, and explore the value of code review undertaken by researchers for researchers.
+
+-----
+
 ## Get Involved with pyOpenSci! Building diverse community around scientific Python open source software through peer review, training and mentorship
+
+_Session leaders: Leah Wasser, David Nicholson_
 
 pyOpenSci is building a diverse community around the Python open source
 software that drives open science. Attend this BoF session to learn about
@@ -49,6 +95,8 @@ sessions that solicit feedback.
 ------
 
 ## Notebooks as a Possible Future for Scientific Publication, Better Practices for Sharing Software, and RSE Authorship
+
+_Session leaders: Kenton McHenry, Nicole Brewer, Daniel S. Katz_
 
 Software is now a key part of just about all scientific research and as such
 the need to support this need within science has gotten a lot of attention. One
@@ -91,3 +139,80 @@ with the audience. The panel will consist of representatives from notebook and
 notebook tool (e.g. binder) providers, AGU, and members of the US-RSE’23
 notebooks subcommittee to discuss where each is going in terms of
 supporting/using notebooks.
+
+------
+
+## Polyglot Software Development and Language Interoperation
+
+_Session leader: Mark Kittisopikul_
+
+This Birds of a Feather session will discuss the use of multiple
+programming languages and interoperation between them. Software development
+in the research environment requires the integration of existing and new tools
+employing a variety of programming languages. New programming languages are
+arising to fill unmet needs and new niches such as Rust, Zig, Go, and Julia.
+Yet, the use of these languages in ongoing research requires that they
+integrate with traditional programming languages such as Python, R, Java, and
+C++. I will draw upon my personal experience with working on JavaCPP projects,
+JavaCall.jl for Julia-Java interop, and building language bindings around the
+HDF5 C library (Malone 2014). I also hope to invite collaborators working at
+the interface of Java and Python in the context of FIJI (ImageJ) (Schindelin
+2012, Rueden 2022). The session will incorporate both traditional approaches
+such via foreign function interfaces and the SWIG interface compiler and new
+approaches made possible by coding assistants such as a Github Copilot. The
+BoF is meant to gather project managers and software development engineers
+interested in sharing best practices for integrating more than one programming
+language into a single project and sharing data across language barriers.
+
+The proposed format is to offer several, three or four, 10 minute talks about
+projects that facilitate interoperation between languages or a presentation of
+a project that uses multiple programming languages. An interactive roundtable
+discussion will then follow with attendees sharing their experience with
+attempting to use multiple programming languages together. An alternative
+format is to have the speakers lead a panel based discussion while encouraging
+audience participation. The choice of format will depend on the number of
+participants.
+
+The overall goal of the BoF is to lower the barriers of including multiple
+languages in a project so that the best languages can be used to accomplish
+particular tasks. By collecting project managers and developers from diverse
+programming backgrounds, the BoF hopes to foster relationships across language
+boundaries.
+
+------
+
+## What does it mean to be an RSE at a National Lab?
+
+_Session leaders: Keith Beattie, Rinku Gupta, William Godoy, Daniel Howard, Anshu Dubey, David E. Bernholdt, Daniel Gunter_
+
+Although the research software engineering (RSE) community originated in
+universities, RSEs also find a place in National Laboratories confronting
+comparable but distinct challenges as those at universities and other research
+institutions. This BoF seeks to provide a forum for those who identify as RSEs
+and those supportive or curious about the community, to deliberate upon
+challenges faced at national labs in order to explore approaches or solutions
+that might enhance their professional and scientific pursuits. Additionally,
+this forum can be used to discuss avenues for RSEs across labs to exchange
+information as well as define meaningful relationships beyond National Labs
+with university and industry affiliated RSEs.
+
+The structure of the BoF proposed is to start with an overall introduction,
+two short presentations from RSEs at labs that currently have an established
+RSE framework, then break out into smaller groups to discuss a predefined set
+of topics and questions. The BoF will conclude with a panel discussion, led by
+representatives from various national labs, to find the common or unique issues
+faced by RSEs at national labs and develop solutions for improving the RSE
+experience within national lab ecosystems.
+
+The topics covered will be chosen from, but not limited to:
+
+- How does being an RSE vary from lab to lab or as compared to universities or industry?
+- What are the RSE career paths at labs and how are they supported? What opportunities or support is missing?
+- How are RSEs funded at labs and how can this be improved?
+- What can be done to improve recruitment & retention strategies, specifically for DEI?
+- How do labs currently organize RSEs or groups of RSEs? What has worked well across different labs?
+- What training or opportunities should be made available for RSEs
+
+We welcome a broad audience both from national labs and otherwise, to provide contrast and context to the discussions,
+expecting somewhere between 10-20 people in attendance.
+
