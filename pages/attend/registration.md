@@ -9,6 +9,7 @@ set_last_modified: true
 
 ## Registration Cost
 
+
 |   | Professional | Student |
 | - | ------------ | ------- |
 | Early Bird | $325 | $50 |
@@ -20,4 +21,8 @@ set_last_modified: true
 
 Early bird registration ends on **September 8, 2023**.
 
-Registration opens on **August 1, 2023**.
+<a type="button" style="margin:auto 10px; -webkit-appearance: none;" class="btn btn-dark btn-lg" href="https://www.eventbrite.com/e/us-rse-conference-2023-software-enabled-discovery-and-beyond-tickets-625867314987" target="_blank">
+    Register Now
+</a>
+
+Registration Link: [https://www.eventbrite.com/e/us-rse-conference-2023-software-enabled-discovery-and-beyond-tickets-625867314987](https://www.eventbrite.com/e/us-rse-conference-2023-software-enabled-discovery-and-beyond-tickets-625867314987)
