@@ -66,6 +66,55 @@ have experience with the characteristics and requirements of spatial information
 
 ------
 
+## Publish your software in conda-forge
+
+_Dave Clements, Anaconda_
+
+
+[Conda](https://github.com/conda/conda/blob/main/README.md) is a **widely used**
+(30M+ users) **multi-platform** (Linux, macOS, Windows, ...) and **language agnostic**
+packaging and runtime environment management ecosystem. This workshop will be a
+worked, hands-on tutorial demonstrating how to publish your open source software
+packages in [conda-forge](https://conda-forge.org/).
+
+**conda-forge hosts over 20,000 packages and serves over 3 billion package downloads
+per year.** It is the largest community managed conda channel in existence and it is an
+excellent platform for making your software easy for others to install and integrate with
+other open source tools.
+
+In this tutorial we will:
+
+- 0:20 - Introduce software packaging concepts and challenges
+- 0:20 - Introduce the conda ecosystem
+- 1:30 - Walk through how to prepare a sample software package for publishing in conda-forge from scratch
+  - 0:10 - introduce example package and it's dependencies
+  - 0:15 - adding tests
+  - 0:50 - defining your package recipe in a meta.yaml file.
+  - 0:15 - Building your package with conda-build
+- 0:20 - How to submit your package to conda-forge and shepherd it through to publishing
+0 0:30 - How to port packages that are already in PyPA/pip (Python) or CRAN (R) to conda using Grayskull
+
+At the end of the tutorial participants will have a basic understanding of software packaging,
+how conda implements it, and how to prepare and publish your packages in the conda
+ecosystem.
+
+**Prerequisites**: Participants will need either a Linux or macOS laptop, or a Windows laptop with WSL. Laptops
+will need a web browser, shell access, a text editor program, and git and/or a GitHub client
+already installed. Participants should have experience with the command line, a text editor, and
+GitHub. No prior package creation knowledge is assumed.
+
+**Audience**: software engineers with some experience incorporating
+software dependencies in their work.
+
+
+_Dave Clements is an open source community manager at Anaconda, and has been involved in
+training and teaching throughout his career. Most recently, he led training efforts at the Galaxy
+Project for over ten years. Before that he had a similar role at the GMOD Project, was adjunct
+faculty at the University of Oregon, taught courses while in graduate school, and developed and
+presented training to programmers and end users at a fortune 500 company._
+
+------
+
 ## Software Quality Practices for Reproducibility
 
 _Reed Milewicz and Miranda Mundt, Sandia National Laboratories_
