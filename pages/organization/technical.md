@@ -23,7 +23,7 @@ set_last_modified: true
 ### Posters
 - Abhishek Biswas, Princeton University
 - Craig Steffen, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
-
+- Sarah Stevens, University of Wisconsin-Madison
 
 ### Tutorials
 - Lauren Milechen, Massachusetts Institute of Technology
