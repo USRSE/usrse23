@@ -23,6 +23,42 @@ set_last_modified: true
   - Gender neutral facilities: 2nd and 8th Floor of Student Center East
   - Lactation room: Rooms 243B and 243C of Commuter Student Resource Center
 
+## Travel Grants
+
+With the sponsorship of various organizations such as the
+[Chan Zuckerberg Initiative](https://chanzuckerberg.com/), a limited number of student and early career
+travel grants, as well as dependent care grants, are available to assist
+applicants in attending US-RSE'23.
+
+Please use this form to enter all the relevant information to apply for a
+travel or dependent care grant.  We will review the applications based on the
+information provided in this form and notify the recipients in due time.
+Priority will be given to those having an accepted submission at the US-RSE'23
+conference and to enhance the diversity of participants. 
+
+Travel grant awardees will be reimbursed for up to $2500 for their travel,
+and/or registration, and/or accommodation as per the guidelines upon producing
+suitable bills for the same. Dependent care grant awardees will be reimbursed
+up to $500 upon providing dependent care receipts. We can retract funding if
+recipients do not adhere to the grant rules.  
+
+As per the rules:
+
+- The awardee must attend all conference sessions throughout its entire duration of 3 days. 
+- The awardee must check in at the registration desk each day of the conference. 
+- The awardees will be required to volunteer at the conference as per instructions issued later. 
+- Student travel grant awardees must also participate in the mentorship sessions organized during the conference.
+- Travel grant awardees must register for the conference by the Early Registration deadline.
+
+**Deadlines**
+
+- Grant Form Opens: August 8, 2023
+- Submission deadline for Grant Form:  September 4, 2023
+- Award Notification selection: September 6, 2023
+
+[Application Form](https://bit.ly/usrse23-travel-grant): [https://bit.ly/usrse23-travel-grant](https://bit.ly/usrse23-travel-grant)
+
+
 ## Hotel Accommodation
 
 We have contracted with several different hotels to provide special rates for
