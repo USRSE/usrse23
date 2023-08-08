@@ -12,8 +12,8 @@ set_last_modified: true
 
 |   | Professional | Student |
 | - | ------------ | ------- |
-| Early Bird | $325 | $50 |
-| Regular | $375 | $100 |
+| Early Bird | $325 ($342.24 with fees) | $50 ($53.49 with fees) |
+| Regular | $375 ($394.20 with fees) | $100 ($105.99 with fees) |
 | Poster Session Only | $75 | - |
 | Additional Poster Session Ticket+ | $50 | - |
 
