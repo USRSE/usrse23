@@ -8,6 +8,8 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+Tutorials will be online only and conducted virtually in the weeks prior to the conference, Monday, October 2nd to Friday, October 13th.
+
 ## GitHub Actions for Scientific Data Workflows
 
 _Valentina Staneva, eScience Institute, University of Washington_
