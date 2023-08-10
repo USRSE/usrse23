@@ -73,6 +73,7 @@ the group block is sold-out, whichever comes first.
 - _Phone_: 312-829-5000
 - _Online Booking Link_:  [Booking Link](https://www.ihg.com/crowneplaza/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=CHISH&qCiD=15&qCiMy=092023&qCoD=19&qCoMy=092023&qGrpCd=R53&qAAR=6CBARC&qRtP=6CBARC&setPMCookies=true&qSHBrC=CP&qDest=25%20South%20Halsted%20Street,%20Chicago,%20IL,%20US&srb_u=1&qRmFltr=)
 - _Group Code_: R53
+- _Group Rate: $245 (+ applicable taxes and fees)
 
 ### Hyatt House Chicago West Loop/Fulton Market
 
@@ -84,6 +85,7 @@ the group block is sold-out, whichever comes first.
 - _Online Booking Link_:  [Booking Link](https://www.hyatt.com/shop/chixl?location=Hyatt%20House%20Chicago%20%2F%20West%20Loop-Fulton%20Market&checkinDate=2023-10-15&checkoutDate=2023-10-19&rooms=1&adults=1&kids=0&corp_id=g-uicf)
 - _Group Name_: UIC First US-RSE Conference Room Block
 - _Group Code_: G-UICF
+- _Group Rate: $279 (+ applicable taxes and fees)
 
 
 ### Other Nearby Hotels
