@@ -124,13 +124,14 @@ turn right (north) on Halsted Street to the campus.
 
 ## Parking
 
-Parking is available in the Halsted and Taylor Street Parking Structure
-(760 West Taylor Street). The entrance to this parking structure is on
-Taylor Street. Upon entry‚ guests should take a ticket and upon exit‚ guests
-should present this ticket to the cashier and pay the appropriate total
-(cash‚ debit cards‚ and credit cards are accepted at this lot). **Parking is
-available for up to $15.00 per day, or per exit. Special parking rates for
-conference guests are: $37.00 per day.**
+For all events taking place in Student Center East, parking is available in
+the Halsted and Taylor Street Parking Structure (760 West Taylor Street).
+The entrance to this parking structure is on Taylor Street. Upon entry, guests
+should take a ticket and upon exit, guests should present this ticket to the
+cashier and pay the appropriate total (cash, debit cards, credit cards are
+accepted at this lot).
+
+**Cost is $15 for the day.**
 
 ## Public transportation
 
