@@ -16,7 +16,7 @@ set_last_modified: true
 
 ### Accessibility
 
-- ADA Accessbility
+- ADA Accessibility
   - Elevators available to all floors of Student Center East
   - If special accommodations are required, please contact the organizers at [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org)
 - [Gender Inclusive Resources](https://oae.uic.edu/resources/gender-inclusive-resources/)
