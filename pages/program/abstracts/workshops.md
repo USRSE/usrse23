@@ -4,7 +4,6 @@ title: Workshops
 description: 
 menubar: program
 permalink: program/workshops/
-menubar_toc: true
 set_last_modified: true
 ---
 
