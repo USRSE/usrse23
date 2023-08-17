@@ -15,9 +15,6 @@
 ## Description
 <!--- Describe your changes in detail. -->
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
 
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
@@ -26,5 +23,5 @@
 - [ ] I have previewed changes locally
 - [ ] I have updated the README.md if necessary
 
-cc @mrmundt @cabejackson @manning-ncsa @jmelot @jbteves @jsubida
+cc @mrmundt @cabejackson @manning-ncsa @jmelot @jbteves-sandia @jsubida
 
