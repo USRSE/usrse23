@@ -540,7 +540,7 @@ tags will be replaced.-->
   <td rowspan=2 height=80 class=xl71 width=149 style='height:60.0pt;border-top:
   none;width:112pt'>1:30 PM</td>
   <td colspan=3 rowspan=2 class=xl75 width=369 style='width:277pt'><font
-  class="font5">BoFs 1A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#get-involved-with-pyopensci-building-diverse-community-around-scientific-python-open-source-software-through-peer-review-training-and-mentorship">Get Involved wtih
+  class="font5">BoFs 1A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#get-involved-with-pyopensci-building-diverse-community-around-scientific-python-open-source-software-through-peer-review-training-and-mentorship">Get Involved with
   PyOpenSci! Building diverse community around scientific Python open source
   software through peer review, training, and mentorshipCode Review for
   Research Software</a></font></td>

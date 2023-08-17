@@ -12,5 +12,5 @@ for more details.
     Register Now
 </a>
 
-**Early Bird** registration ends on **September 8, 2023**. Visit the
+**REMINDER: Early Bird** registration ends on **September 8, 2023**. Visit the
 [Registration](https://us-rse.org/usrse23/attend/register/) page for more details.
