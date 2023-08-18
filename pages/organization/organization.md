@@ -41,6 +41,12 @@ set_last_modified: true
 - Nicole Brewer, Arizona State University
 - Carrie Brown, Pennsylvania State University
 
+#### Student Co-Chairs
+- Jamil Gafur, Doctoral Student at the University of Iowa
+- Sunyojita Rattu, Undergraduate Student at the University of Colorado Boulder
+
+
+
 ## Advisory Board
 
 Additional advisory for the conference is provided by the current members of
