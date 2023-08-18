@@ -13,5 +13,5 @@ set_last_modified: true
 - Carrie Brown, Pennsylvania State University
 
 ## Student Co-Chairs
-- Jamil Gafur, PhD Student at The University of Iowa
+- Jamil Gafur, Doctoral Student at the University of Iowa
 - Sunyojita Rattu, Undergraduate Student at the University of Colorado Boulder
