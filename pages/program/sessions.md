@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sessions
-description: 
+description:
 menubar: program
 permalink: program/sessions/
 menubar_toc: true
@@ -25,6 +25,7 @@ set_last_modified: true
         <p>This paper introduces CACAO, a research software platform that simplifies the use of cloud computing in scientific research and education. CACAO's cloud automation and continuous analysis features make it easy to deploy research workflows or laboratory experimental sessions in the cloud using templates. The platform has been expanding its support for different cloud service providers and improving scalability, making it more widely applicable for research and education. This paper provides an overview of CACAO's key features and highlights use cases.</p>
       </div>
     </div>
+
   </div>
   <div class="card">
     <div class="card-header" id="heading11">
@@ -84,9 +85,15 @@ set_last_modified: true
   </div>
 </div>
 
------
+---
 
-## Session 2A: Culture & Community 1
+## Session 2: Panel - Sponsors
+
+TBD.
+
+---
+
+## Session 3A: Culture & Community 1
 
 <div id="accordion">
   <div class="card">
@@ -103,6 +110,7 @@ set_last_modified: true
         <p>Research software once was a heroic and lonely activity, particularly in research computing and in HPC. But today, research software is a social activity, in the senses that most software depends on other software, and that most software that is intended to be used by more than one person is written by more than one person. These social factors have led to generally accepted practices for code development and maintenance and for interactions around code. This paper examines how these practices form, become accepted, and later change in different contexts. In addition, given that research software engineering (RSEng) and research software engineers (RSEs) are becoming accepted parts of the research software endeavor, it looks at the role of RSEs in creating, adapting, and infusing these practices. It does so by examining aspects around practices at three levels: in communities, projects, and groups. Because RSEs are often the point where new practices become accepted and then disseminated, this paper suggests that tool and practice developers should be working to get RSE champions to adopt their tools and practices, and that people who seek to understand research software practices should be studying RSEs. It also suggests areas for further research to test this idea.</p>
       </div>
     </div>
+
   </div>
   <div class="card">
     <div class="card-header" id="heading18">
@@ -136,6 +144,7 @@ set_last_modified: true
         <p>The involvement of students as developers within an OSPO-RSE group offers valuable benefits. The effective integration of students in this context requires thoughtful planning, mentorship, and attention to ethical considerations. This talk will examine the experience of the Open Source with SLU program to explore the dynamic role of student developers in an OSPO-RSE program and engage in discussions on best practices, challenges, and the future potential of this distinctive approach to research software engineering within academia.</p>
       </div>
     </div>
+
   </div>
   <div class="card">
     <div class="card-header" id="headingFour">
@@ -151,12 +160,13 @@ set_last_modified: true
         <p>This talk presents research on the prevalence of research software as academic research output within international institutional repositories (IRs).  This work expands on previous research, which examined 182 academic IRs from 157 universities in the UK.  Very low quantities of records of research software were found in IRs and that the majority of IRs could not contain software as independent records of research output due to the underlying Research Information System (RIS) platform.  This has implications for the quantities of software returned as part of the UK's Research Excellence Framework (REF), which seeks to assess the quality of research in UK universities and specifically recognises software as legitimate research output.  The levels of research software submitted as research output have declined sharply over the last 12 years and this differs substantially to the records of software contained in other UK research output metadata (e.g. https://gtr.ukri.org).  Expanding on this work, source data from OpenDOAR, a directory of global Open Access Repositories, were used to apply similar analyses to international IRs in what we believe is the first such census of its kind.  4,970 repositories from 125 countries were examined for the presence of software, along with repository-based metadata for potentially correlating factors.  It appears that much more could be done to provide trivial technical updates to RIS platforms to recognise software as distinct and recordable research output in its own right.  We will discuss the implications of these findings with a focus on the apparent lack of recognition of software as discrete output in the research process.</p>
       </div>
     </div>
+
   </div>
 </div>
 
------
+---
 
-## Session 2B: DevOps & Cyberinfrastructure
+## Session 3B: DevOps & Cyberinfrastructure
 
 <div id="accordion">
   <div class="card">
@@ -224,15 +234,9 @@ set_last_modified: true
   </div>
 </div>
 
------
+---
 
-## Session 3: Panel - Sponsors
-
-TBD.
-
------
-
-## Session 4: Panel - Research & Development Tooling
+## Session 4: Panel - Research & Development Tooling 1
 
 <div id="accordion">
   <div class="card">
@@ -307,12 +311,18 @@ TBD.
   </div>
 </div>
 
------
+---
 
-## Session 5A: Software Engineering Practice 1
+## Session 5: Panel - Sponsors
+
+TBD.
+
+---
+
+## Session 6A: Software Engineering Practice 2
 
 <div id="accordion">
-  <div class="card">
+<div class="card">
     <div class="card-header" id="headingEight">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
@@ -354,6 +364,7 @@ TBD.
         <p>We provide an overview of the software engineering efforts and their impact in QMCPACK, a production-level ab-initio Quantum Monte Carlo open-source code targeting high-performance computing (HPC) systems. Aspects included are: (i) strategic expansion of continuous integration (CI) targeting CPUs, using GitHub Actions runners, and NVIDIA and AMD GPUs in pre-exascale systems, using self-hosted hardware; (ii) incremental reduction of memory leaks using sanitizers, (iii) incorporation of Docker containers for CI and reproducibility, and (iv) refactoring efforts to improve maintainability, testing coverage, and memory lifetime management. We quantify the value of these improvements by providing metrics to illustrate the shift towards a predictive, rather than reactive, sustainable maintenance approach. Our goal, in documenting the impact of these efforts on QMCPACK, is to contribute to the body of knowledge on the importance of research software engineering (RSE) for the sustainability of community HPC codes and scientific discovery at scale.</p>
       </div>
     </div>
+
   </div>
   <div class="card">
     <div class="card-header" id="heading45">
@@ -373,103 +384,6 @@ TBD.
       </div>
     </div>
   </div>
-</div>
-
------
-
-## Session 5B: Research & Development Tooling 1
-
-<div id="accordion">
-  <div class="card">
-    <div class="card-header" id="headingSix">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-          “Visual Studio Code on HPC Clusters: Unleashing the Power of Visual Studio Code for High-Performance”, Zhiyong Zhang
-        </button>
-      </h5>
-    </div>
-    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
-      <div class="card-body">
-        <p>Visual Studio Code (VSCode) has emerged as one of the most popular development tools among professional developers and programmers, offering a versatile and powerful coding environment. However, configuring and setting up VSCode to work effectively within the unique environment of a shared High-Performance Computing (HPC) cluster remains a challenge. This discusses the configuration and integration of VSCode with the diverse and demanding environments typically found on HPC clusters. We demonstrate how to configure and set up VSCode to take full advantage of its capabilities while ensuring seamless integration with HPC-specific resources and tools. Our objective is to enable developers to harness the power of VSCode for HPC applications, resulting in improved productivity, better code quality, and accelerated scientific discovery.</p>
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading46">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse46" data-target="#collapse46" aria-expanded="false" aria-controls="collapse46">
-          “Extrapolation and Interpolation in Machine Learning Modeling with Fast Food and astartes”, Jackson Burns, Kevin Spiekermann, and William Green
-        </button>
-      </h5>
-    </div>
-
-    <div id="collapse46" class="collapse" aria-labelledby="heading46" data-parent="#accordion">
-      <div class="card-body">
-        <p>Machine learning is a groundbreaking tool for tackling high-dimensional datasets
-        with complex correlations that humans struggle to comprehend. An important nuance
-        of ML is the difference between using a model for interpolation or extrapolation,
-        meaning either inference or prediction. This work will demonstrate visually what
-        interpolation and extrapolation mean in the context of machine learning using
-        astartes, a Python package that makes it easy to tackle in ML modeling. Many
-        different sampling approaches are made available with astartes, so using a very
-        tangible dataset - a fast food menu - we can visualize how different approaches
-        differ and then train and compare ML models.</p>
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading47">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse7" data-target="#collapse47" aria-expanded="false" aria-controls="collapse47">
-          “Stylo2gg: Visualizing reproducible stylometric analysis”, James Clawson
-        </button>
-      </h5>
-    </div>
-    <div id="collapse47" class="collapse" aria-labelledby="heading47" data-parent="#accordion">
-      <div class="card-body">
-        <p>For researchers using R to do work in stylometry, the Stylo package in R is
-        indispensable, but it also has some limitations. The Stylo2gg package addresses
-        some of these limitations by extending the usefulness of Stylo. Among other
-        things, Stylo2gg adds logging and replication of analyses, keeping necessary
-        files and introducing a systematic way to reproduce past work. With visualization
-        as its initial purpose, Stylo2gg also makes exploring stylometric data easy,
-        providing options for labeling, highlighting subgroups, and double coding data
-        for added legibility in black and white or in color. Finally, as hinted by the
-        name, the conversion of graphics from base R into Ggplot2 changes the style of
-        the output and introduces more options to extend analyses with many other
-        packages and addons. The reproducible notebook shown here, `01-stylo2gg.qmd` or
-        rendered in `01-stylo2gg.html`, walks through much of the package, including many
-        features that were added in the past year.</p>
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading25">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse25" aria-expanded="false" aria-controls="collapse25">
-          “Research data with Airtable: processing and parsing”, William Dewey
-        </button>
-      </h5>
-    </div>
-    <div id="collapse25" class="collapse" aria-labelledby="heading25" data-parent="#accordion">
-      <div class="card-body">
-        <p>Airtable is an increasingly popular format for entering and storing research data, especially in the digital humanities. It combines the simplicity of spreadsheet formats like CSV with a relational database’s ability to model relationships; enterers or viewers of the data do not need to have programming knowledge. The Center for Digital Research in the Humanities at the University of Nebraska uses Airtable data for two projects on which I work as a developer. African Poetics has data focusing on African poets and newspaper coverage of them, and Petitioning for Freedom has data on habeas corpus petitions and involved parties. At the CDRH, our software can take data in many formats, including CSV, and ingest it for an API based on Elasticsearch. This data is then available for search and discovery through web applications built on Ruby on Rails. The first step in ingesting the Airtable data into our system is to download it. I will cover the command line tools that can do this, the formats that can be downloaded (JSON turned out to be the most convenient), and the requirements for authentication. Python (aided by Pandas) can transform this data into the CSV format that our back end software. I will discuss how to rename and delete columns, change data back into JSON (which is sometimes more parsable by our scripts), and clean troublesome values like blanks and NaNs. One advancement of Airtable over CSV is join tables that have similar functionality to SQL databases. Incorporating them into other projects has particular challenges. When downloaded directly from Airtable, the join data is in a format that cannot be interpreted by humans or programs other than Airtable.  But it can be converted (with the help of some processing within airtable) into formats that can be parsed by external scripts so that it can be human-readable. With these transformations, our software can use the table to populate API fields and parse it into arrays and hashes to replicate relationships within the data. Finally I will discuss the advantages and disadvantages of Airtable for managing data, from the perspective of a developer who uses the data on the front and back end of web applications.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
------
-
-## Session 6: Panel - Sponsors
-
-TBD.
-
------
-
-## Session 7A: Software Engineering Practice 2
-
-<div id="accordion">
   <div class="card">
     <div class="card-header" id="heading48">
       <h5 class="mb-0">
@@ -528,11 +442,89 @@ TBD.
   </div>
 </div>
 
------
+---
 
-## Session 7B: Research & Development Tooling 2
+## Session 6B: Research & Development Tooling 2
 
 <div id="accordion">
+<div class="card">
+    <div class="card-header" id="headingSix">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          “Visual Studio Code on HPC Clusters: Unleashing the Power of Visual Studio Code for High-Performance”, Zhiyong Zhang
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+      <div class="card-body">
+        <p>Visual Studio Code (VSCode) has emerged as one of the most popular development tools among professional developers and programmers, offering a versatile and powerful coding environment. However, configuring and setting up VSCode to work effectively within the unique environment of a shared High-Performance Computing (HPC) cluster remains a challenge. This discusses the configuration and integration of VSCode with the diverse and demanding environments typically found on HPC clusters. We demonstrate how to configure and set up VSCode to take full advantage of its capabilities while ensuring seamless integration with HPC-specific resources and tools. Our objective is to enable developers to harness the power of VSCode for HPC applications, resulting in improved productivity, better code quality, and accelerated scientific discovery.</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="heading46">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse46" data-target="#collapse46" aria-expanded="false" aria-controls="collapse46">
+          “Extrapolation and Interpolation in Machine Learning Modeling with Fast Food and astartes”, Jackson Burns, Kevin Spiekermann, and William Green
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapse46" class="collapse" aria-labelledby="heading46" data-parent="#accordion">
+      <div class="card-body">
+        <p>Machine learning is a groundbreaking tool for tackling high-dimensional datasets
+        with complex correlations that humans struggle to comprehend. An important nuance
+        of ML is the difference between using a model for interpolation or extrapolation,
+        meaning either inference or prediction. This work will demonstrate visually what
+        interpolation and extrapolation mean in the context of machine learning using
+        astartes, a Python package that makes it easy to tackle in ML modeling. Many
+        different sampling approaches are made available with astartes, so using a very
+        tangible dataset - a fast food menu - we can visualize how different approaches
+        differ and then train and compare ML models.</p>
+      </div>
+    </div>
+
+  </div>
+  <div class="card">
+    <div class="card-header" id="heading47">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse7" data-target="#collapse47" aria-expanded="false" aria-controls="collapse47">
+          “Stylo2gg: Visualizing reproducible stylometric analysis”, James Clawson
+        </button>
+      </h5>
+    </div>
+    <div id="collapse47" class="collapse" aria-labelledby="heading47" data-parent="#accordion">
+      <div class="card-body">
+        <p>For researchers using R to do work in stylometry, the Stylo package in R is
+        indispensable, but it also has some limitations. The Stylo2gg package addresses
+        some of these limitations by extending the usefulness of Stylo. Among other
+        things, Stylo2gg adds logging and replication of analyses, keeping necessary
+        files and introducing a systematic way to reproduce past work. With visualization
+        as its initial purpose, Stylo2gg also makes exploring stylometric data easy,
+        providing options for labeling, highlighting subgroups, and double coding data
+        for added legibility in black and white or in color. Finally, as hinted by the
+        name, the conversion of graphics from base R into Ggplot2 changes the style of
+        the output and introduces more options to extend analyses with many other
+        packages and addons. The reproducible notebook shown here, `01-stylo2gg.qmd` or
+        rendered in `01-stylo2gg.html`, walks through much of the package, including many
+        features that were added in the past year.</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="heading25">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse25" aria-expanded="false" aria-controls="collapse25">
+          “Research data with Airtable: processing and parsing”, William Dewey
+        </button>
+      </h5>
+    </div>
+    <div id="collapse25" class="collapse" aria-labelledby="heading25" data-parent="#accordion">
+      <div class="card-body">
+        <p>Airtable is an increasingly popular format for entering and storing research data, especially in the digital humanities. It combines the simplicity of spreadsheet formats like CSV with a relational database’s ability to model relationships; enterers or viewers of the data do not need to have programming knowledge. The Center for Digital Research in the Humanities at the University of Nebraska uses Airtable data for two projects on which I work as a developer. African Poetics has data focusing on African poets and newspaper coverage of them, and Petitioning for Freedom has data on habeas corpus petitions and involved parties. At the CDRH, our software can take data in many formats, including CSV, and ingest it for an API based on Elasticsearch. This data is then available for search and discovery through web applications built on Ruby on Rails. The first step in ingesting the Airtable data into our system is to download it. I will cover the command line tools that can do this, the formats that can be downloaded (JSON turned out to be the most convenient), and the requirements for authentication. Python (aided by Pandas) can transform this data into the CSV format that our back end software. I will discuss how to rename and delete columns, change data back into JSON (which is sometimes more parsable by our scripts), and clean troublesome values like blanks and NaNs. One advancement of Airtable over CSV is join tables that have similar functionality to SQL databases. Incorporating them into other projects has particular challenges. When downloaded directly from Airtable, the join data is in a format that cannot be interpreted by humans or programs other than Airtable.  But it can be converted (with the help of some processing within airtable) into formats that can be parsed by external scripts so that it can be human-readable. With these transformations, our software can use the table to populate API fields and parse it into arrays and hashes to replicate relationships within the data. Finally I will discuss the advantages and disadvantages of Airtable for managing data, from the perspective of a developer who uses the data on the front and back end of web applications.</p>
+      </div>
+    </div>
+  </div>
   <div class="card">
     <div class="card-header" id="heading20">
       <h5 class="mb-0">
@@ -597,9 +589,86 @@ TBD.
   </div>
 </div>
 
------
+---
 
-## Session 8: Research & Development Tooling 3
+## Session 7A: ML/AI
+
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="heading56">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse56" aria-expanded="false" aria-controls="collapse56">
+          “Navigating the Integration of Machine Learning into Domain Research”, Bernie Boscoe, Tuan Do, and Noah Mogenson
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapse56" class="collapse" aria-labelledby="heading56" data-parent="#accordion">
+      <div class="card-body">
+        <p>Increasingly, scientific research teams desire to in- corporate machine learning into their existing computational workflows. Codebases must be augmented, and datasets must be prepared for domain-specific machine learning processes. Team members involved in software development and data maintenance, particularly research software engineers, can foster the design, implementation, and maintenance of infrastructures that allow for new methodologies in the pursuit of discovery. In this paper, we highlight some of the main challenges and offer assistance in planning and implementing machine learning projects for science.</p>
+      </div>
+    </div>
+
+  </div>
+  <div class="card">
+    <div class="card-header" id="heading57">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse57" aria-expanded="false" aria-controls="collapse57">
+          “Supporting Nuclear Energy Research with MLOps”, Brandon Biggs and Dunya Bahar
+        </button>
+      </h5>
+    </div>
+    <div id="collapse57" class="collapse" aria-labelledby="heading57" data-parent="#accordion">
+      <div class="card-body">
+        <p>Artificial intelligence (AI) and machine learning (ML) have been shown to be increasingly helpful tools in a growing number of use-cases relevant to scientific research, despite significant software-related obstacles. There exist large technical costs to setting up, using, and maintaining AI/ML models in production. This often prevents researchers from utilizing these models in their work. The growing field of machine learning operations (MLOps) aims to automate much of the AI/ML life cycle while increasing access to these models. This paper presents the initial work in creating a nuclear energy MLOps platform for use by researchers at Idaho National Laboratory (INL) and aims to reduce the barriers of using AI/ML in scientific research. Our goal is to promote the integration of the latest AI/ML technologies into researchers' workflows and create more opportunity for scientific innovation. In this paper we discuss how our MLOps efforts aim to increase usage and the impact of AI/ML models created by researchers. We also present several use-cases that are currently integrated. Finally, we evaluate the maturity of our project as well as our plans for future functionality.</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="heading58">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse58" aria-expanded="false" aria-controls="collapse58">
+          “Integrating Adversarial Observation: Enhancing Robustness, Interpretability, and Trustworthiness in Machine Learning Systems”, Jamil Gafur, Suely Oliveira, and William Lai
+        </button>
+      </h5>
+    </div>
+    <div id="collapse58" class="collapse" aria-labelledby="heading58" data-parent="#accordion">
+      <div class="card-body">
+        <p>Machine learning models, specifically neural networks, have garnered extensive recognition due to their remarkable performance across various domains. Nevertheless, concerns pertaining to their robustness and interpretability have necessitated the immediate requirement for comprehensive methodologies and tools. This scholarly article introduces the "Adversarial Observation" framework, which integrates adversarial and explainable techniques into the software development cycle to address these crucial aspects.</p>
+        <p>Industry practitioners have voiced an urgent need for tools and guidance to fortify their machine learning systems. Research studies have underscored the fact that a substantial number of organizations lack the necessary tools to tackle adversarial machine learning and ensure system security. Furthermore, the absence of consensus on interpretability in machine learning presents a significant challenge, with minimal agreement on evaluation benchmarks. These concerns highlight the pivotal role played by the Adversarial Observation framework.</p>
+        <p>The Adversarial Observation framework provides model-agnostic algorithms for adversarial attacks and interpretable techniques. Two notable methods, namely the Fast Gradient Sign Method (FGSM) and the Adversarial Particle Swarm Optimization (APSO) technique, have been implemented. These methods reliably generate adversarial noise, enabling the evaluation of model resilience against attacks and the training of less vulnerable models.</p>
+        <p>In terms of explainable AI (XAI), the framework incorporates activation mapping to visually depict and analyze significant input regions driving model predictions. Additionally, a modified APSO algorithm fulfills a dual purpose by determining global feature importance and facilitating local interpretation. This systematic assessment of feature significance reveals underlying decision rules, enhancing transparency and comprehension of machine learning models.</p>
+        <p>By incorporating the Adversarial Observation framework, organizations can assess the resilience of their models, address biases, and make well-informed decisions. The framework plays a pivotal role in the software development cycle, ensuring the highest standards of transparency and reliability. It empowers a deeper understanding of models through visualization, feature analysis, and interpretation, thereby fostering trust and facilitating the responsible development and deployment of AI technologies.</p>
+        <p>In conclusion, the Adversarial Observation framework represents a crucial milestone in the development of trustworthy and dependable AI systems. Its integration of robustness, interpretability, and fairness into the software development cycle enhances transparency and reliability. By addressing vulnerabilities and biases, organizations can make well-informed decisions, improve fairness, and establish trust with stakeholders. The significance of the framework is further underscored by the pressing need for tools expressed by industry practitioners and the lack of consensus on interpretability in machine learning. Ultimately, the Adversarial Observation framework contributes to the responsible development and deployment of AI technologies, fostering public trust and promoting the adoption of AI systems in critical domains.</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="heading23">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse23" aria-expanded="false" aria-controls="collapse23">
+          “Towards Generating Software Requirements from the Socio-Technical Artifacts of Climate Models”, Swapnil Hingmire, Ahmed Awon, Zane Li, and Neil Ernst
+        </button>
+      </h5>
+    </div>
+    <div id="collapse23" class="collapse" aria-labelledby="heading23" data-parent="#accordion">
+      <div class="card-body">
+        <p>The expected long-term outcome of our research is to determine the ways in which a focus on scientific model code quality can improve both scientific reliability and model performance. In this work, we focus on climate models which are complex software implementations of the scientific and mathematical abstractions of systems that govern the climate.</p>
+        <p>Climate models integrate the physical understanding of climate and produce simulations of climate patterns. The model code is often hundreds of thousands of lines of highly sophisticated software, written in high-performance languages such as Fortran. These models are developed with teams of experts, including climate scientists and high-performance computing developers. The sheer complexity of the software behind the climate models (which have evolved over many years) makes them vulnerable to performance, usability, and maintainability bugs that hinder performance and weaken scientific confidence. Understanding how the social structures behind the software and model function have been examined but the complex interactions of domain experts and software experts are poorly understood. </p>
+        <p>The expected short-term outcomes of our research are a) develop a set of software quality indicators for the climate models, providing model maintainers and users with specific areas to improve the model code; b) develop new techniques for analyzing large bodies of unstructured text to explain how users perceive a research software project’s capabilities and failings aligned with international efforts to improve the quality of scientific software.</p>
+        <p>We follow two main approaches. (1) <i>Analytics</i>: analysis of climate models and their artifacts. These artifacts include the software code itself, including the way the model is deployed and run with end users; the bug reports and other feedback on the software quality; and the simulation testing used to validate the model outputs. Our analysis will be incorporated into a Fortran analysis tool to identify Fortran quality issues automatically. This analysis is incomplete however without a clear understanding of the social context in which it was produced. (2) <i>Social Context</i>: we examine the socio-technical artifacts created around climate models. These include a) outputs from workshops, interviews, and surveys with stakeholders, including climate scientists and model software developers; b) explicit issue and bug reports recorded on the model, such as the fact the model is failing/crashing at a particular place; c) implicitly discussed software problems and feature requests from related discussion forums. We hypothesize that both approaches will help to identify technical debts in the climate models.</p>
+        <p>Manually eliciting software requirements from these diverse sources of feedback can be time-consuming and expensive. Hence, we will use state-of-the-art Natural Language Processing (NLP) approaches that require less human effort. The web artifacts, interviews, and scientific texts of climate models provide reflections on the Climate Community of Practice (CoP). We will use an unsupervised topic model, Latent Dirichlet Allocation (LDA) to study how different narratives (such as specific modules of climate models, research interests, and needs of the community members) of a climate CoP have evolved over a period. </p>
+        <p>LDA assumes that documents are mixtures of topics, and a topic is a probability distribution over words. The gist of a topic can be inferred from its most probable words. We focus on the discussion forum of the Community Earth System Model (CESM). CESM is a collaboratively developed fully coupled global climate model focused on computer simulations of Earth's climate states. </p>
+        <p>We infer 15 topics on around 7000 posts from the year 2003 to 2023 on the discussion forum using MALLET topic modeling library. We ask a domain expert to assign a label to a topic and use the labels to analyze the posts. We plot the proportions of words in a document assigned to a topic over a period. We observe certain trends over around 20 years. The topic of <i>version management of CESM models</i> gained attention from 2018 on-wards till 2021. There is a steady increase in discussion of the topic of <i>Coupled Model Intercomparison Project (CMIP) and Shared Socio-economic Pathways (SSPs)</i>. Discussions about issues related to <i>installing and setting up CESM models</i> and <i>parallel computing</i> have declined since 2016 and 2020 respectively. Topics of <i>source code related changes</i>, <i>ocean modeling</i>, and <i>errors encountered while running CESM models</i> are discussed throughout the period. We also observe that questions related to <i>parallel computing</i> received fewer responses, while questions related to <i>compiling CESM models</i> received higher responses. These trends and insights can be used by the software engineering group of CESM to prioritize its actions to facilitate the use of the models. </p>
+        <p>We believe that this qualitative study scaffolded using topic models will complement climate science research by facilitating the generation of software requirements, onboarding of new users of the models, responding to new problems using solutions to similar problems, and preventing reinvention.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## Session 7B: Research & Development Tooling 3
 
 <div id="accordion">
   <div class="card">
@@ -667,85 +736,9 @@ TBD.
   </div>
 </div>
 
------
+---
 
-## Session 9: ML/AI
-
-<div id="accordion">
-  <div class="card">
-    <div class="card-header" id="heading56">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse56" aria-expanded="false" aria-controls="collapse56">
-          “Navigating the Integration of Machine Learning into Domain Research”, Bernie Boscoe, Tuan Do, and Noah Mogenson
-        </button>
-      </h5>
-    </div>
-
-    <div id="collapse56" class="collapse" aria-labelledby="heading56" data-parent="#accordion">
-      <div class="card-body">
-        <p>Increasingly, scientific research teams desire to in- corporate machine learning into their existing computational workflows. Codebases must be augmented, and datasets must be prepared for domain-specific machine learning processes. Team members involved in software development and data maintenance, particularly research software engineers, can foster the design, implementation, and maintenance of infrastructures that allow for new methodologies in the pursuit of discovery. In this paper, we highlight some of the main challenges and offer assistance in planning and implementing machine learning projects for science.</p>
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading57">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse57" aria-expanded="false" aria-controls="collapse57">
-          “Supporting Nuclear Energy Research with MLOps”, Brandon Biggs and Dunya Bahar
-        </button>
-      </h5>
-    </div>
-    <div id="collapse57" class="collapse" aria-labelledby="heading57" data-parent="#accordion">
-      <div class="card-body">
-        <p>Artificial intelligence (AI) and machine learning (ML) have been shown to be increasingly helpful tools in a growing number of use-cases relevant to scientific research, despite significant software-related obstacles. There exist large technical costs to setting up, using, and maintaining AI/ML models in production. This often prevents researchers from utilizing these models in their work. The growing field of machine learning operations (MLOps) aims to automate much of the AI/ML life cycle while increasing access to these models. This paper presents the initial work in creating a nuclear energy MLOps platform for use by researchers at Idaho National Laboratory (INL) and aims to reduce the barriers of using AI/ML in scientific research. Our goal is to promote the integration of the latest AI/ML technologies into researchers' workflows and create more opportunity for scientific innovation. In this paper we discuss how our MLOps efforts aim to increase usage and the impact of AI/ML models created by researchers. We also present several use-cases that are currently integrated. Finally, we evaluate the maturity of our project as well as our plans for future functionality.</p>
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading58">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse58" aria-expanded="false" aria-controls="collapse58">
-          “Integrating Adversarial Observation: Enhancing Robustness, Interpretability, and Trustworthiness in Machine Learning Systems”, Jamil Gafur, Suely Oliveira, and William Lai
-        </button>
-      </h5>
-    </div>
-    <div id="collapse58" class="collapse" aria-labelledby="heading58" data-parent="#accordion">
-      <div class="card-body">
-        <p>Machine learning models, specifically neural networks, have garnered extensive recognition due to their remarkable performance across various domains. Nevertheless, concerns pertaining to their robustness and interpretability have necessitated the immediate requirement for comprehensive methodologies and tools. This scholarly article introduces the "Adversarial Observation" framework, which integrates adversarial and explainable techniques into the software development cycle to address these crucial aspects.</p>
-        <p>Industry practitioners have voiced an urgent need for tools and guidance to fortify their machine learning systems. Research studies have underscored the fact that a substantial number of organizations lack the necessary tools to tackle adversarial machine learning and ensure system security. Furthermore, the absence of consensus on interpretability in machine learning presents a significant challenge, with minimal agreement on evaluation benchmarks. These concerns highlight the pivotal role played by the Adversarial Observation framework.</p>
-        <p>The Adversarial Observation framework provides model-agnostic algorithms for adversarial attacks and interpretable techniques. Two notable methods, namely the Fast Gradient Sign Method (FGSM) and the Adversarial Particle Swarm Optimization (APSO) technique, have been implemented. These methods reliably generate adversarial noise, enabling the evaluation of model resilience against attacks and the training of less vulnerable models.</p>
-        <p>In terms of explainable AI (XAI), the framework incorporates activation mapping to visually depict and analyze significant input regions driving model predictions. Additionally, a modified APSO algorithm fulfills a dual purpose by determining global feature importance and facilitating local interpretation. This systematic assessment of feature significance reveals underlying decision rules, enhancing transparency and comprehension of machine learning models.</p>
-        <p>By incorporating the Adversarial Observation framework, organizations can assess the resilience of their models, address biases, and make well-informed decisions. The framework plays a pivotal role in the software development cycle, ensuring the highest standards of transparency and reliability. It empowers a deeper understanding of models through visualization, feature analysis, and interpretation, thereby fostering trust and facilitating the responsible development and deployment of AI technologies.</p>
-        <p>In conclusion, the Adversarial Observation framework represents a crucial milestone in the development of trustworthy and dependable AI systems. Its integration of robustness, interpretability, and fairness into the software development cycle enhances transparency and reliability. By addressing vulnerabilities and biases, organizations can make well-informed decisions, improve fairness, and establish trust with stakeholders. The significance of the framework is further underscored by the pressing need for tools expressed by industry practitioners and the lack of consensus on interpretability in machine learning. Ultimately, the Adversarial Observation framework contributes to the responsible development and deployment of AI technologies, fostering public trust and promoting the adoption of AI systems in critical domains.</p>
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="heading23">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse23" aria-expanded="false" aria-controls="collapse23">
-          “Towards Generating Software Requirements from the Socio-Technical Artifacts of Climate Models”, Swapnil Hingmire, Ahmed Awon, Zane Li, and Neil Ernst
-        </button>
-      </h5>
-    </div>
-    <div id="collapse23" class="collapse" aria-labelledby="heading23" data-parent="#accordion">
-      <div class="card-body">
-        <p>The expected long-term outcome of our research is to determine the ways in which a focus on scientific model code quality can improve both scientific reliability and model performance. In this work, we focus on climate models which are complex software implementations of the scientific and mathematical abstractions of systems that govern the climate.</p>
-        <p>Climate models integrate the physical understanding of climate and produce simulations of climate patterns. The model code is often hundreds of thousands of lines of highly sophisticated software, written in high-performance languages such as Fortran. These models are developed with teams of experts, including climate scientists and high-performance computing developers. The sheer complexity of the software behind the climate models (which have evolved over many years) makes them vulnerable to performance, usability, and maintainability bugs that hinder performance and weaken scientific confidence. Understanding how the social structures behind the software and model function have been examined but the complex interactions of domain experts and software experts are poorly understood. </p>
-        <p>The expected short-term outcomes of our research are a) develop a set of software quality indicators for the climate models, providing model maintainers and users with specific areas to improve the model code; b) develop new techniques for analyzing large bodies of unstructured text to explain how users perceive a research software project’s capabilities and failings aligned with international efforts to improve the quality of scientific software.</p>
-        <p>We follow two main approaches. (1) <i>Analytics</i>: analysis of climate models and their artifacts. These artifacts include the software code itself, including the way the model is deployed and run with end users; the bug reports and other feedback on the software quality; and the simulation testing used to validate the model outputs. Our analysis will be incorporated into a Fortran analysis tool to identify Fortran quality issues automatically. This analysis is incomplete however without a clear understanding of the social context in which it was produced. (2) <i>Social Context</i>: we examine the socio-technical artifacts created around climate models. These include a) outputs from workshops, interviews, and surveys with stakeholders, including climate scientists and model software developers; b) explicit issue and bug reports recorded on the model, such as the fact the model is failing/crashing at a particular place; c) implicitly discussed software problems and feature requests from related discussion forums. We hypothesize that both approaches will help to identify technical debts in the climate models.</p>
-        <p>Manually eliciting software requirements from these diverse sources of feedback can be time-consuming and expensive. Hence, we will use state-of-the-art Natural Language Processing (NLP) approaches that require less human effort. The web artifacts, interviews, and scientific texts of climate models provide reflections on the Climate Community of Practice (CoP). We will use an unsupervised topic model, Latent Dirichlet Allocation (LDA) to study how different narratives (such as specific modules of climate models, research interests, and needs of the community members) of a climate CoP have evolved over a period. </p>
-        <p>LDA assumes that documents are mixtures of topics, and a topic is a probability distribution over words. The gist of a topic can be inferred from its most probable words. We focus on the discussion forum of the Community Earth System Model (CESM). CESM is a collaboratively developed fully coupled global climate model focused on computer simulations of Earth's climate states. </p>
-        <p>We infer 15 topics on around 7000 posts from the year 2003 to 2023 on the discussion forum using MALLET topic modeling library. We ask a domain expert to assign a label to a topic and use the labels to analyze the posts. We plot the proportions of words in a document assigned to a topic over a period. We observe certain trends over around 20 years. The topic of <i>version management of CESM models</i> gained attention from 2018 on-wards till 2021. There is a steady increase in discussion of the topic of <i>Coupled Model Intercomparison Project (CMIP) and Shared Socio-economic Pathways (SSPs)</i>. Discussions about issues related to <i>installing and setting up CESM models</i> and <i>parallel computing</i> have declined since 2016 and 2020 respectively. Topics of <i>source code related changes</i>, <i>ocean modeling</i>, and <i>errors encountered while running CESM models</i> are discussed throughout the period. We also observe that questions related to <i>parallel computing</i> received fewer responses, while questions related to <i>compiling CESM models</i> received higher responses. These trends and insights can be used by the software engineering group of CESM to prioritize its actions to facilitate the use of the models. </p>
-        <p>We believe that this qualitative study scaffolded using topic models will complement climate science research by facilitating the generation of software requirements, onboarding of new users of the models, responding to new problems using solutions to similar problems, and preventing reinvention.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
------
-
-## Session 10: Culture & Community 2
+## Session 8: Culture & Community 2
 
 <div id="accordion">
   <div class="card">
@@ -764,6 +757,7 @@ TBD.
         <p>The two programs, with eight total student participants, further spanned in-person and remote work, undergraduate and graduate students, and multiple continents. We report on the experience of the interns, fellows, and mentors, including lessons learned and recommendations for improving future programs.</p>
       </div>
     </div>
+
   </div>
   <div class="card">
     <div class="card-header" id="heading60">
@@ -813,11 +807,12 @@ TBD.
         <p>In this talk we will introduce the INTERSECT project. We will discuss outcomes of the 2023 bootcamp, including curriculum specifics, lessons learned, and long term objectives. We will also describe how people can get involved as contributors or participants.</p>
       </div>
     </div>
+
   </div>
 </div>
 
------
+---
 
-## Session 11: Panel - Funding Agencies
+## Session 9: Panel - Funding Agencies
 
 TBD.
