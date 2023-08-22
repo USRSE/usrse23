@@ -324,19 +324,19 @@ tags will be replaced.-->
   and Steve Turoscy, “<a href="{{ site.baseurl }}/program/tutorials/#using-globus-platform-services-in-research-software-applications">Using Globus Platform Services in Research Software
   Applications</a>”</font></td>
  </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
+  width:112pt'>Oct 10, 1-4:30 PM</td>
+  <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
+  class="font5">Tutorial: </font><font class="font7">Dave Clements, “<a href="{{ site.baseurl }}/program/tutorials/#publish-your-software-in-conda-forge">Publish
+  your software in conda-forge</a>”</font></td>
+ </tr>
  <tr height=40 style='height:30.0pt'>
   <td height=40 class=xl68 width=149 style='height:30.0pt;border-top:none;
   width:112pt'>Oct 12, 1-4:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Reed Milewicz and Miranda
   Mundt, “<a href="{{ site.baseurl }}/program/tutorials/#software-quality-practices-for-reproducibility">Software Quality Practices for Reproducibility</a>”</font></td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
-  width:112pt'>TBD</td>
-  <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Tutorial: </font><font class="font7">Dave Clements, “<a href="{{ site.baseurl }}/program/tutorials/#publish-your-software-in-conda-forge">Publish
-  your software in conda-forge</a>”</font></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
@@ -368,7 +368,7 @@ tags will be replaced.-->
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>10:15 AM</td>
+  width:112pt'>10:00 AM</td>
   <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Break</td>
  </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
@@ -391,14 +391,25 @@ tags will be replaced.-->
     &quot;Leveraging Single-Page Applications for Seamless Scientific
   Workflows: DevSecOps Considerations&quot;</td>
  </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
+  width:112pt'>11:30 PM</td>
+  <td colspan=6 class=xl77 width=970 style='border-left:none;width:728pt'>Session
+  2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-3-panel---sponsors">Panel - Sponsors</a></font></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
+  width:112pt'>12:00 PM</td>
+  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch</td>
+ </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
   <td rowspan=2 height=156 class=xl71 width=149 style='height:117.0pt;
-  border-top:none;width:112pt'>11:30 AM</td>
+  border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=4 class=xl75 width=473 style='border-left:none;width:355pt'><font
-  class="font5">Session 2A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-2a-culture--community-1">Culture &amp; Community
+  class="font5">Session 3A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-2a-culture--community-1">Culture &amp; Community
   1</a></font></td>
   <td colspan=2 class=xl82 width=497 style='border-left:none;width:373pt'><font
-  class="font8">Session 2B:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-2b-devops--cyberinfrastructure">DevOps &amp;
+  class="font8">Session 3B:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-2b-devops--cyberinfrastructure">DevOps &amp;
   Cyberinfrastructure</a></font></td>
  </tr>
  <tr height=137 style='mso-height-source:userset;height:103.0pt'>
@@ -420,18 +431,12 @@ tags will be replaced.-->
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>12:30 PM</td>
-  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch</td>
- </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>1:30 PM</td>
-  <td colspan=6 class=xl77 width=970 style='border-left:none;width:728pt'>Session
-  3: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-3-panel---sponsors">Panel - Sponsors</a></font></td>
+  width:112pt'>2:00 PM</td>
+  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Break</td>
  </tr>
  <tr height=17 style='height:13.0pt'>
   <td rowspan=3 height=63 class=xl71 width=149 style='height:48.0pt;border-top:
-  none;width:112pt'>2:00 PM</td>
+  none;width:112pt'>2:15 PM</td>
   <td colspan=3 rowspan=3 class=xl69 width=369 style='width:277pt'><font
   class="font5">Workshop 1: </font><font class="font7">Jeffrey Carver, Neil
   Chue Hong and Miranda Mundt, “<a href="{{ site.baseurl }}/program/workshops/">Software Engineering for Research Software
@@ -496,14 +501,26 @@ tags will be replaced.-->
   project&quot;<br>
     &quot;Monorepos for Research Software Projects&quot;</td>
  </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
+  width:112pt'>11:15 AM</td>
+  <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
+  class="font5">Session 5:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-6-panel---sponsors">Panel - Sponsors</a></font></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
+  width:112pt'>11:45 AM</td>
+  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch 
+  / Group photo</td>
+ </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
   <td rowspan=2 height=178 class=xl71 width=149 style='height:133.0pt;
-  border-top:none;width:112pt'>11:00 AM</td>
+  border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=4 class=xl82 width=473 style='border-left:none;width:355pt'><font
-  class="font8">Session 5A:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-5a-software-engineering-practice-1">Software Engineering
-  Practice 1</a></font></td>
+  class="font8">Session 6A:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-5a-software-engineering-practice-1">Software Engineering
+  Practice</a></font></td>
   <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
-  5B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-5b-research--development-tooling-1">Research &amp; Development Tooling 1</a></font></td>
+  6B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-5b-research--development-tooling-1">Research &amp; Development Tooling</a></font></td>
  </tr>
  <tr height=159 style='mso-height-source:userset;height:119.0pt'>
   <td colspan=4 height=159 class=xl82 width=473 style='height:119.0pt;
@@ -515,30 +532,38 @@ tags will be replaced.-->
     &quot;Software engineering to sustain a high-performance computing
   scientific application: QMCPACK&quot;<br>
     &quot;Peer Code Review in Research Software: Enhancing Quality and
-  Collaboration&quot;</td>
+  Collaboration&quot; <br>
+  &quot;Metamorphic Testing for Scientific
+  Software&quot;<br>
+  &quot;Scaling research data management: how relational databases unlock new
+  potential in experiment traceability, throughput, automation, and
+  insights&quot;<br>
+    &quot;Utilizing Complexity Metrics During Code Reviews to Promote Software
+  Sustainability&quot;<br>
+    &quot;Embracing the (re)decentralized web for sustainable research
+  collaboration cyberinfrastructure&quot;</td>
   <td colspan=2 class=xl82 width=497 style='border-left:none;width:373pt'>&quot;Visual
   Studio Code on HPC Clusters: Unleashing the Power of Visual Studio Code for
   High-Performance&quot;<br>
     &quot;Extrapolation and Interpolation in Machine Learning Modeling with
   Fast Food and astartes&quot;<br>
     &quot;Stylo2gg: Visualizing reproducible stylometric analysis&quot;<br>
-    &quot;Research data with Airtable: processing and parsing&quot;</td>
+    &quot;Research data with Airtable: processing and parsing&quot; <br>
+    &quot;Anotemos: A Media Annotation Software for Efficient Research Analysis&quot;<br>
+    &quot;Porting irregular bioinformatics algorithms to GPUs and integrating
+  them in large scale bioinformatics applications&quot;<br>
+    &quot;Multi-Mesh Operations (MMOPS): A Library for Mesh Agnostic
+  Implementation of 3D Physics&quot;<br>
+    &quot;Exploring biologically relevant chemical space - The data way&quot;</td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>12:00 PM</td>
-  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch
-  / Group photo</td>
- </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>1:00 PM</td>
-  <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Session 6:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-6-panel---sponsors">Panel - Sponsors</a></font></td>
+  width:112pt'>3:00 PM</td>
+  <td colspan=6 class=xl79 width=970 style='border-left:none;width:728pt'>Break</td>
  </tr>
  <tr height=17 style='mso-height-source:userset;height:13.0pt'>
   <td rowspan=2 height=80 class=xl71 width=149 style='height:60.0pt;border-top:
-  none;width:112pt'>1:30 PM</td>
+  none;width:112pt'>3:30 PM</td>
   <td colspan=3 rowspan=2 class=xl75 width=369 style='width:277pt'><font
   class="font5">BoFs 1A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#get-involved-with-pyopensci-building-diverse-community-around-scientific-python-open-source-software-through-peer-review-training-and-mentorship">Get Involved with
   PyOpenSci! Building diverse community around scientific Python open source
@@ -551,62 +576,12 @@ tags will be replaced.-->
   class="font5">BoFs 1C:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#polyglot-software-development-and-language-interoperation">Polyglot Software
   Development and Language Interoperation</a></font></td>
  </tr>
- <tr height=63 style='mso-height-source:userset;height:47.0pt'>
- </tr>
+ <tr height=63 style='mso-height-source:userset;height:47.0pt'></tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>3:00 PM</td>
-  <td colspan=6 class=xl79 width=970 style='border-left:none;width:728pt'>Break</td>
- </tr>
- <tr height=19 style='mso-height-source:userset;height:14.0pt'>
-  <td rowspan=2 height=179 class=xl71 width=149 style='height:134.0pt;
-  border-top:none;width:112pt'>3:30 PM</td>
-  <td colspan=4 class=xl82 width=473 style='border-left:none;width:355pt'><font
-  class="font8">Session 7A:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-7a-software-engineering-practice-2">Software Engineering
-  Practice 2</a></font></td>
-  <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
-  7B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-7b-research--development-tooling-2">Research &amp; Development Tooling 2</a></font></td>
- </tr>
- <tr height=160 style='mso-height-source:userset;height:120.0pt'>
-  <td colspan=4 height=160 class=xl82 width=473 style='height:120.0pt;
-  border-left:none;width:355pt'>&quot;Metamorphic Testing for Scientific
-  Software&quot;<br>
-    &quot;Scaling research data management: how relational databases unlock new
-  potential in experiment traceability, throughput, automation, and
-  insights&quot;<br>
-    &quot;Utilizing Complexity Metrics During Code Reviews to Promote Software
-  Sustainability&quot;<br>
-    &quot;Embracing the (re)decentralized web for sustainable research
-  collaboration cyberinfrastructure&quot;</td>
-  <td colspan=2 class=xl82 width=497 style='border-left:none;width:373pt'>&quot;Anotemos:
-  A Media Annotation Software for Efficient Research Analysis&quot;<br>
-    &quot;Porting irregular bioinformatics algorithms to GPUs and integrating
-  them in large scale bioinformatics applications&quot;<br>
-    &quot;Multi-Mesh Operations (MMOPS): A Library for Mesh Agnostic
-  Implementation of 3D Physics&quot;<br>
-    &quot;Exploring biologically relevant chemical space - The data way&quot;</td>
- </tr>
- <tr height=19 style='mso-height-source:userset;height:14.0pt'>
-  <td rowspan=2 height=102 class=xl71 width=149 style='height:76.0pt;
-  border-top:none;width:112pt'>4:30 PM</td>
-  <td colspan=6 class=xl83 width=970 style='border-left:none;width:728pt'>Session
-  8B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-8-research--development-tooling-3">Research &amp; Development Tooling 3</a></font></td>
- </tr>
- <tr height=83 style='mso-height-source:userset;height:62.0pt'>
-  <td colspan=6 height=83 class=xl82 width=970 style='height:62.0pt;border-left:
-  none;width:728pt'>&quot;Open Free Energy: An Open Source Ecosystem for
-  Alchemistry&quot;<br>
-    &quot;Enhancing Reproducibility in Environmental Health Studies through a
-  Systematic Approach to Streamline Exposure Data Processing&quot;<br>
-    &quot;Developing Performance Portable Astrophysics Codes for Exascale
-  Supercomputers&quot;<br>
-    &quot;LINCC - developing software for large-scale analysis of data&quot;</td>
- </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>5:30 PM</td>
+  width:112pt'>5:00 PM</td>
   <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Social
-  semi-hour</td>
+  Hour</td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -644,20 +619,29 @@ tags will be replaced.-->
   <td colspan=6 class=xl79 width=970 style='border-left:none;width:728pt'>Break</td>
  </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
-  <td rowspan=2 height=99 class=xl71 width=149 style='height:74.0pt;border-top:
-  none;width:112pt'>11:00 AM</td>
-  <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
-  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-mlai">ML/AI</a></font></td>
+  <td rowspan=2 height=178 class=xl71 width=149 style='height:133.0pt;
+  border-top:none;width:112pt'>1:00 PM</td>
+  <td colspan=4 class=xl83 width=473 style='border-left:none;width:355pt'>Session
+  7A: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-mlai">ML/AI</a></font></td>
+  <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
+  7B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-5b-research--development-tooling-1">Research &amp; Development Tooling 3</a></font></td>
  </tr>
- <tr height=80 style='mso-height-source:userset;height:60.0pt'>
-  <td colspan=6 height=80 class=xl82 width=970 style='height:60.0pt;border-left:
-  none;width:728pt'>&quot;Navigating the Integration of Machine Learning into
+ <tr height=159 style='mso-height-source:userset;height:119.0pt'>
+  <td colspan=4 height=159 class=xl82 width=473 style='height:119.0pt;
+  border-left:none;width:355pt'>&quot;Navigating the Integration of Machine Learning into
   Domain Research&quot;<br>
     &quot;Supporting Nuclear Energy Research with MLOps&quot;<br>
     &quot;Integrating Adversarial Observation: Enhancing Robustness,
   Interpretability, and Trustworthiness in Machine Learning Systems&quot;<br>
     &quot;Towards Generating Software Requirements from the Socio-Technical
   Artifacts of Climate Models&quot;</td>
+  <td colspan=2 class=xl82 width=497 style='border-left:none;width:373pt'>&quot;Open Free Energy: An Open Source Ecosystem for
+  Alchemistry&quot;<br>
+    &quot;Enhancing Reproducibility in Environmental Health Studies through a
+  Systematic Approach to Streamline Exposure Data Processing&quot;<br>
+    &quot;Developing Performance Portable Astrophysics Codes for Exascale
+  Supercomputers&quot;<br>
+    &quot;LINCC - developing software for large-scale analysis of data&quot;</td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -668,7 +652,7 @@ tags will be replaced.-->
   <td rowspan=2 height=104 class=xl71 width=149 style='height:78.0pt;
   border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=6 class=xl76 width=970 style='border-left:none;width:728pt'><font
-  class="font8">Session 10:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-10-culture--community-2">Culture &amp; Community
+  class="font8">Session 8:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-10-culture--community-2">Culture &amp; Community
   2</a></font></td>
  </tr>
  <tr height=85 style='mso-height-source:userset;height:64.0pt'>
@@ -685,18 +669,23 @@ tags will be replaced.-->
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>2:00 PM</td>
-  <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
-  11: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-11-panel---funding-agencies">Panel - Funding Agencies</a></font></td>
+  <td colspan=6 class=xl79 width=970 style='border-left:none;width:728pt'>Break</td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>3:00 PM</td>
+  width:112pt'>2:15 PM</td>
+  <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
+  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-11-panel---funding-agencies">Panel - Funding Agencies</a></font></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
+  width:112pt'>3:15 PM</td>
   <td colspan=6 class=xl81 width=970 style='border-left:none;width:728pt'>Adjourn</td>
  </tr>
+ <td></td>
 </table>
 
 </div>
-
 
 <!----------------------------->
 <!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
@@ -704,9 +693,6 @@ tags will be replaced.-->
 </body>
 
 </html>
-
-
-
 
 ## Accepted Submissions
 
