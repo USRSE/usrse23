@@ -393,7 +393,7 @@ tags will be replaced.-->
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>11:30 PM</td>
+  width:112pt'>11:30 AM</td>
   <td colspan=6 class=xl77 width=970 style='border-left:none;width:728pt'>Session
   2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-3-panel---sponsors">Panel - Sponsors</a></font></td>
  </tr>
@@ -485,7 +485,7 @@ tags will be replaced.-->
  </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
   <td rowspan=2 height=120 class=xl71 width=149 style='height:90.0pt;
-  border-top:none;width:112pt'>10:00 AM</td>
+  border-top:none;width:112pt'>10:15 AM</td>
   <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
   4: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-4-panel---research--development-tooling">Panel - Research &amp; Development Tooling</a></font></td>
  </tr>
@@ -620,7 +620,7 @@ tags will be replaced.-->
  </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
   <td rowspan=2 height=178 class=xl71 width=149 style='height:133.0pt;
-  border-top:none;width:112pt'>1:00 PM</td>
+  border-top:none;width:112pt'>11:00 AM</td>
   <td colspan=4 class=xl83 width=473 style='border-left:none;width:355pt'>Session
   7A: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-mlai">ML/AI</a></font></td>
   <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
