@@ -395,7 +395,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>11:30 AM</td>
   <td colspan=6 class=xl77 width=970 style='border-left:none;width:728pt'>Session
-  2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-3-panel---sponsors">Panel - Sponsors</a></font></td>
+  2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-2-panel---sponsors">Panel - Sponsors</a></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -406,10 +406,10 @@ tags will be replaced.-->
   <td rowspan=2 height=156 class=xl71 width=149 style='height:117.0pt;
   border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=4 class=xl75 width=473 style='border-left:none;width:355pt'><font
-  class="font5">Session 3A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-2a-culture--community-1">Culture &amp; Community
+  class="font5">Session 3A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-3a-culture--community-1">Culture &amp; Community
   1</a></font></td>
   <td colspan=2 class=xl82 width=497 style='border-left:none;width:373pt'><font
-  class="font8">Session 3B:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-2b-devops--cyberinfrastructure">DevOps &amp;
+  class="font8">Session 3B:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-3b-devops--cyberinfrastructure">DevOps &amp;
   Cyberinfrastructure</a></font></td>
  </tr>
  <tr height=137 style='mso-height-source:userset;height:103.0pt'>
@@ -487,7 +487,7 @@ tags will be replaced.-->
   <td rowspan=2 height=120 class=xl71 width=149 style='height:90.0pt;
   border-top:none;width:112pt'>10:15 AM</td>
   <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
-  4: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-4-panel---research--development-tooling">Panel - Research &amp; Development Tooling</a></font></td>
+  4: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-4-panel---research--development-tooling-1">Panel - Research &amp; Development Tooling 1</a></font></td>
  </tr>
  <tr height=101 style='mso-height-source:userset;height:76.0pt'>
   <td colspan=6 height=101 class=xl82 width=970 style='height:76.0pt;
@@ -505,7 +505,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>11:15 AM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Session 5:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-6-panel---sponsors">Panel - Sponsors</a></font></td>
+  class="font5">Session 5:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-5-panel---sponsors">Panel - Sponsors</a></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -517,10 +517,10 @@ tags will be replaced.-->
   <td rowspan=2 height=178 class=xl71 width=149 style='height:133.0pt;
   border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=4 class=xl82 width=473 style='border-left:none;width:355pt'><font
-  class="font8">Session 6A:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-5a-software-engineering-practice-1">Software Engineering
+  class="font8">Session 6A:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-6a-software-engineering-practice">Software Engineering
   Practice</a></font></td>
   <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
-  6B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-5b-research--development-tooling-1">Research &amp; Development Tooling</a></font></td>
+  6B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-6b-research--development-tooling-2">Research &amp; Development Tooling 2</a></font></td>
  </tr>
  <tr height=159 style='mso-height-source:userset;height:119.0pt'>
   <td colspan=4 height=159 class=xl82 width=473 style='height:119.0pt;
@@ -622,9 +622,9 @@ tags will be replaced.-->
   <td rowspan=2 height=178 class=xl71 width=149 style='height:133.0pt;
   border-top:none;width:112pt'>11:00 AM</td>
   <td colspan=4 class=xl83 width=473 style='border-left:none;width:355pt'>Session
-  7A: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-mlai">ML/AI</a></font></td>
+  7A: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-7a-mlai">ML/AI</a></font></td>
   <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
-  7B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-5b-research--development-tooling-1">Research &amp; Development Tooling 3</a></font></td>
+  7B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-7b-research--development-tooling-1">Research &amp; Development Tooling 3</a></font></td>
  </tr>
  <tr height=159 style='mso-height-source:userset;height:119.0pt'>
   <td colspan=4 height=159 class=xl82 width=473 style='height:119.0pt;
@@ -652,7 +652,7 @@ tags will be replaced.-->
   <td rowspan=2 height=104 class=xl71 width=149 style='height:78.0pt;
   border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=6 class=xl76 width=970 style='border-left:none;width:728pt'><font
-  class="font8">Session 8:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-10-culture--community-2">Culture &amp; Community
+  class="font8">Session 8:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-8-culture--community-2">Culture &amp; Community
   2</a></font></td>
  </tr>
  <tr height=85 style='mso-height-source:userset;height:64.0pt'>
@@ -675,7 +675,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>2:15 PM</td>
   <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
-  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-11-panel---funding-agencies">Panel - Funding Agencies</a></font></td>
+  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-panel---funding-agencies">Panel - Funding Agencies</a></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
