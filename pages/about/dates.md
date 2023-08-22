@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Important Dates
-description: 
+description:
 menubar: about
 permalink: about/dates/
 set_last_modified: true
 ---
-
 
 ## Submissions
 
@@ -22,9 +21,8 @@ set_last_modified: true
 - **Notification of authors for posters / talks**: Monday, July 24, 2023
 - **Registration for authors of posters / talks**: Monday, August 21, 2023
 - **Early-bird registration ends**: Monday, August 21, 2023
-- **Camera-ready posters due**: Monday, August 28, 2023
+- **Camera-ready abstracts due**: Monday, August 28, 2023
 - **Program finalized**: Friday, September 1, 2023
-
 
 ## Conference
 

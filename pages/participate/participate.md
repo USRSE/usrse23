@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participate
-description: 
+description:
 menubar: participate
 permalink: participate/
 menubar_toc: true
@@ -18,15 +18,15 @@ include (but are not limited to):
 - Discovery enabled by software
 - Architectures, frameworks, libraries, and technology trends
 - Research data management
-- Support for scalability and data-driven methods 
-- Improving the reproducibility of research 
+- Support for scalability and data-driven methods
+- Improving the reproducibility of research
 - Usability, portals, workflows, and tools
 - Sustainability, security, and stability
 - Software engineering approaches supporting research
-- Community engagement 
+- Community engagement
 - Diversity, Equity, and Inclusion for RSEs and in RSEng
 - Training and workforce development
-- Building an RSE profession 
+- Building an RSE profession
 
 **Important Dates**
 
@@ -44,7 +44,7 @@ Templates for the various submission types can be found in their descriptions be
 
 **Questions?** Contact the organizers: [usrsecon2023@easychair.org](mailto:usrsecon2023@easychair.org).
 
-------
+---
 
 ## Short and Long Papers
 
@@ -53,7 +53,7 @@ areas and the software/software techniques that enabled the research!
 Accepted papers will be given the opportunity to have an oral presentation
 during the conference (short papers will be lightning talks of 5 minutes and
 long papers will be 15 minutes). Both types of submissions will be included
-in the digital proceedings. 
+in the digital proceedings.
 
 Papers should follow the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
 Short papers should have no fewer than 300 words, but no more than two pages;
@@ -72,7 +72,7 @@ the scientific community.
 - **Camera-ready papers / notebooks due**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
 
-------
+---
 
 ## Talks
 
@@ -87,7 +87,7 @@ Talk submissions should be in the form of an abstract, no more than 1 page in le
 - **Notification of authors for talks**: Monday, July 24, 2023
 - **Registration for authors of talks**: Monday, August 21, 2023
 
-------
+---
 
 ## Notebooks
 
@@ -99,7 +99,7 @@ in three categories, described in detail on the
 Accepted notebooks will be given the opportunity for a 15 minute oral
 presentation and included in our digital proceedings. There will be a US-RSE
 community call in March dedicated to discussing details and answering questions
-about notebook submissions. 
+about notebook submissions.
 
 **Timeline**
 
@@ -109,7 +109,7 @@ about notebook submissions.
 - **Camera-ready papers / notebooks due**: Monday, June 26, 2023
 - **Registration for authors of papers/notebooks**: Monday, June 26, 2023
 
-------
+---
 
 ## Posters
 
@@ -123,15 +123,15 @@ of an abstract, no more than 1 page in length.
 - **Poster abstracts due**: Monday, June 19, 2023
 - **Notification of authors for posters**: Monday, July 24, 2023
 - **Registration for authors of posters**: Monday, August 21, 2023
-- **Camera-ready posters due**: Monday, August 28, 2023
+- **Camera-ready abstracts due**: Monday, August 28, 2023
 
-------
+---
 
 ## Workshops / Birds of a Feather (BoF)
 
 We invite proposals for workshops and birds of a feather (BoFs) highlighting
 the above topic areas. Workshops and BoFs can range from an hour to half day
-events that will run in parallel tracks.  Submissions should adhere to the 
+events that will run in parallel tracks. Submissions should adhere to the
 [Technical Program Templates]({{ '/participate/templates/' | relative_url }}).
 
 **Timeline**
@@ -141,7 +141,7 @@ events that will run in parallel tracks.  Submissions should adhere to the
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
 
-------
+---
 
 ## Tutorials
 
@@ -156,4 +156,3 @@ to Friday, October 13th. Submissions should adhere to the
 - **Workshops, Tutorials, and BoF submissions due**: Tuesday, April 4, 2023 - **EXTENDED**
 - **Notification of authors for workshops, tutorials, and BoFs**: Monday, April 24, 2023
 - **Registration for authors of workshops, tutorials, and BoFs**: Monday, June 26, 2023
-
