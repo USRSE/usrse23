@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsor
-description: 
+description:
 menubar: sponsor
 permalink: sponsor/
 menubar_toc: true
@@ -117,7 +117,7 @@ group of individuals with a shared commitment to advancing research software eng
   <tr>
     <td class="tg-0pky">(4) Conference registrations</td>
     <td class="tg-0pky">(2) Conference registrations</td>
-    <td class="tg-0pky">Conference registrations</td>
+    <td class="tg-0pky">(1) Conference registration</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -152,6 +152,11 @@ to additionally supply materials for the conference (as available):
   donation ($400 if conference staff prints, or $0 if sponsor donates pre-printed lanyards).
 * Useful swag, such as pens, pads of paper, flyers, and other items may be provided by
   a sponsor for no additional sponsorship fee and will be included in the conference bags.
+* For small businesses or startups with fewer than 30 employees, we may be able to offer customized conference sponsorship opportunities tailored to your specific goals. Please feel free to [contact us](#contact-information) to explore additional support options.
+* Conference dinner 
+* Travel grants
+* Snack breaks
+
 
 ## Marketing and Recruitment Opportunities
 

@@ -10,7 +10,7 @@ set_last_modified: true
 
 ## Birds of a Feather
 
-A Birds of a Feather (BoF) submission (due **April 4, 2023**) should include:
+A Birds of a Feather (BoF) submission (due **April 11, 2023**) should include:
 
 - **Title**
 - **Session Leaders**: Name, email, and affiliation of each leader
@@ -31,7 +31,7 @@ A Birds of a Feather (BoF) submission (due **April 4, 2023**) should include:
 
 ## Workshop
 
-A Workshop submission (due **April 4, 2023**) should include:
+A Workshop submission (due **April 11, 2023**) should include:
 
 - **Title**
 - **Organizers**: Name, email, and affiliation of each organizer
@@ -52,7 +52,7 @@ A Workshop submission (due **April 4, 2023**) should include:
 
 ## Tutorials
 
-A Tutorial submission (due **April 4, 2023**) should include:
+A Tutorial submission (due **April 11, 2023**) should include:
 
 - **Title**
 - **Presenters**: Name, email, and affiliation of each presenter

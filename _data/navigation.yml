@@ -9,9 +9,21 @@
       link: participate/notebooks/
 - name: Program
   link: program/
-  # dropdown:
-  #   - name: Agenda
-  #     link: program/agenda/
+  dropdown:
+    - name: Birds of a Feather
+      link: program/bofs/
+    - name: Notebooks
+      link: program/notebooks/
+    - name: Papers
+      link: program/papers/
+    - name: Posters
+      link: program/posters/
+    - name: Talks
+      link: program/talks/
+    - name: Tutorials
+      link: program/tutorials/
+    - name: Workshops
+      link: program/workshops/
 - name: Attend
   link: attend/
   dropdown:
@@ -20,12 +32,25 @@
     - name: Travel
       link: attend/travel/
 - name: Organization
-  link: organization/
   dropdown:
+    - name: Overview
+      link: organization/
+    - name: General Chairs
+      link: organization/general/
+    - name: Diversity
+      link: organization/diversity/
     - name: Outreach
       link: organization/outreach/
     - name: Technical Program
       link: organization/technical/
+    - name: Publication
+      link: organization/publication/
+    - name: Special Issue Editors
+      link: organization/special-issue/
+    - name: Sponsorship
+      link: organization/sponsorship/
+    - name: Student
+      link: organization/student/
 - name: Sponsor
   link: sponsor/
 - name: About
