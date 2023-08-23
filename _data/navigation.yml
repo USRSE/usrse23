@@ -8,8 +8,11 @@
     - name: Notebooks
       link: participate/notebooks/
 - name: Program
-  link: program/
   dropdown:
+    - name: Full Program
+      link: program/
+    - name: Sessions
+      link: program/sessions/
     - name: Birds of a Feather
       link: program/bofs/
     - name: Notebooks

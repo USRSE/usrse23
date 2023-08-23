@@ -9,6 +9,8 @@ set_last_modified: true
 
 ## Emerging as a Team Leader through Cultural Challenges
 
+_Angela Herring and Elaine Raybourn_
+
 In this interactive workshop we explore how meeting technical objectives depends
 critically on meeting cultural challenges within teams. Many small teams evolve
 naturally on a positive path because teams are often formed by friendly
@@ -32,6 +34,8 @@ building in intercultural and interpersonal communication, and inclusion.
 ------ 
 
 ## [Software Engineering for Research Software Engineering (SE4RSE’23)](https://se4science.org/workshops/se4rse23/index.htm)
+
+_Jeffrey Carver, Neil Chue Hong, Miranda Mundt_
 
 This half-day (3.5 hour) workshop focuses on understanding appropriate software
 engineering practices employed by Research Software Engineers to design, develop,
