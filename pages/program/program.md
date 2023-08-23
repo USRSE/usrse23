@@ -326,6 +326,13 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
+  width:112pt'>Oct 5, 1-4:30PM</td>
+  <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
+  class="font5">Tutorial: </font><font class="font7">Nick Santos, “<a href="{{ site.baseurl }}/program/tutorials/#introduction-to-spatial-data-processing">Introduction
+  to Spatial Data Processing</a>”</font></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
   width:112pt'>Oct 10, 1-4:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Dave Clements, “<a href="{{ site.baseurl }}/program/tutorials/#publish-your-software-in-conda-forge">Publish
@@ -337,13 +344,6 @@ tags will be replaced.-->
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Reed Milewicz and Miranda
   Mundt, “<a href="{{ site.baseurl }}/program/tutorials/#software-quality-practices-for-reproducibility">Software Quality Practices for Reproducibility</a>”</font></td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
-  width:112pt'>TBD</td>
-  <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Tutorial: </font><font class="font7">Nick Santos, “<a href="{{ site.baseurl }}/program/tutorials/#introduction-to-spatial-data-processing">Introduction
-  to Spatial Data Processing</a>”</font></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td colspan=7 height=21 class=xl73 width=1119 style='height:16.0pt;
