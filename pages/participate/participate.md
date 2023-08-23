@@ -133,7 +133,7 @@ of an abstract, no more than 1 page in length.
 - **Poster abstracts due**: Monday, June 26, 2023
 - **Notification of authors for posters**: Monday, July 31, 2023
 - **Registration for authors**: Monday, August 21, 2023
-- **Camera-ready posters due**: Monday, August 28, 2023
+- **Camera-ready abstracts due**: Monday, August 28, 2023
 
 ------
 
