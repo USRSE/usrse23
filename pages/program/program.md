@@ -460,8 +460,8 @@ tags will be replaced.-->
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>7:00 PM</td>
-  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Student
-  Event</td>
+  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'><a href="{{ site.baseurl }}/program/events/student-event/">Student
+  Event</a></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td colspan=7 height=21 class=xl66 width=1119 style='height:16.0pt;
