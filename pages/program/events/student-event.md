@@ -12,7 +12,8 @@ The US-RSE is hosting a fun student networking social. Students and mentors are
 invited to attend the social event on Monday, October 16, at
 [Punch Bowl Social](https://punchbowlsocial.com/location/chicago/)! 
 
-**This event is closed to only students and mentors.**
+**Free participation is limited to student and mentors,
+but paid tickets may become available for purchase.**
 
 - **When**: Monday, October 16, 2023
 - **Where**: Punch Bowl Social, 
