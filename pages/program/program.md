@@ -328,7 +328,7 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
-  width:112pt'>Oct 5, 12-3:30PM</td>
+  width:112pt'>Oct 5, 12-3:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Nick Santos, “<a href="{{ site.baseurl }}/program/tutorials/#introduction-to-spatial-data-processing">Introduction
   to Spatial Data Processing</a>”</font></td>
