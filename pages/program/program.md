@@ -294,6 +294,8 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
+<i>All times listed in Central Time (CT) </i><br><br>
+
 <div id="Program_2856" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=1119 style='border-collapse:
@@ -311,14 +313,14 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
-  width:112pt'>Oct 2, 1-2:30 PM</td>
+  width:112pt'>Oct 2, 12-1:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Valentina Staneva, “<a href="{{ site.baseurl }}/program/tutorials/#github-actions-for-scientific-data-workflows">GitHub
   Actions for Scientific Data Workflows</a>”</font></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
-  width:112pt'>Oct 4, 1-2:30 PM</td>
+  width:112pt'>Oct 4, 12-1:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Lee Liming, Vas Vasiliadis
   and Steve Turoscy, “<a href="{{ site.baseurl }}/program/tutorials/#using-globus-platform-services-in-research-software-applications">Using Globus Platform Services in Research Software
@@ -326,21 +328,21 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
-  width:112pt'>Oct 5, 1-4:30PM</td>
+  width:112pt'>Oct 5, 12-3:30PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Nick Santos, “<a href="{{ site.baseurl }}/program/tutorials/#introduction-to-spatial-data-processing">Introduction
   to Spatial Data Processing</a>”</font></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
-  width:112pt'>Oct 10, 1-4:30 PM</td>
+  width:112pt'>Oct 10, 12-3:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Dave Clements, “<a href="{{ site.baseurl }}/program/tutorials/#publish-your-software-in-conda-forge">Publish
   your software in conda-forge</a>”</font></td>
  </tr>
  <tr height=40 style='height:30.0pt'>
   <td height=40 class=xl68 width=149 style='height:30.0pt;border-top:none;
-  width:112pt'>Oct 12, 1-4:30 PM</td>
+  width:112pt'>Oct 12, 12-3:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Reed Milewicz and Miranda
   Mundt, “<a href="{{ site.baseurl }}/program/tutorials/#software-quality-practices-for-reproducibility">Software Quality Practices for Reproducibility</a>”</font></td>
