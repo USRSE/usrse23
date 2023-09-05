@@ -10,18 +10,17 @@ set_last_modified: true
 
 The US-RSE is hosting a fun student networking social. Students and mentors are
 invited to attend the social event on Monday, October 16, at
-[Punch Bowl Social](https://punchbowlsocial.com/location/chicago/)! 
+[Punch Bowl Social](https://punchbowlsocial.com/location/chicago/)!
 
-**Free participation is limited to student and mentors,
-but paid tickets may become available for purchase.**
+**Free participation by invite only - additional tickets will be available for purchase.**
 
 - **When**: Monday, October 16, 2023
-- **Where**: Punch Bowl Social, 
-             310 N. Green Street, 
-             Chicago, IL 60607
+- **Where**: Punch Bowl Social,
+  310 N. Green Street,
+  Chicago, IL 60607
 - **Time**: 7:00 p.m. - 10:00 p.m.
 
-Food and beverages will be provided. 
+Food and beverages will be provided.
 
 ## Directions
 
