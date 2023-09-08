@@ -20,9 +20,9 @@ set_last_modified: true
 - **Registration for authors of workshops, tutorials, BoFs, and papers/notebooks**: Monday, June 26, 2023
 - **Notification of authors for posters / talks**: Monday, July 24, 2023
 - **Registration for authors of posters / talks**: Monday, August 21, 2023
-- **Early-bird registration ends**: Monday, August 21, 2023
+- **Program finalized**: Wednesday, August 23, 2023
 - **Camera-ready abstracts due**: Monday, August 28, 2023
-- **Program finalized**: Friday, September 1, 2023
+- **Early-bird registration ends**: Friday, September 8, 2023
 
 ## Conference
 
