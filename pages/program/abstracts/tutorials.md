@@ -14,6 +14,8 @@ Tutorials will be online only and conducted virtually in the weeks prior to the 
 
 _Valentina Staneva, eScience Institute, University of Washington_
 
+[Register Now: October 2, 12-1:30 PM CT](https://mit.zoom.us/meeting/register/tJwrceGprTovG9JwpE7LrHOcPy4UvTvwpD0B)
+
 In this tutorial we will introduce GitHub Actions as a tool for lightweight
 automation of scientific data workflows. GitHub Actions have become a key
 tool of the software development lifecycle, however, many scientific
@@ -40,6 +42,8 @@ integration/deployment.
 ## Introduction to Spatial Data Processing
 
 _Nick Santos, University of California, Merced_
+
+[Register Now: October 5, 12-3:30 PM CT](https://mit.zoom.us/meeting/register/tJMrceusrj8rGdVlgnmbUd2GSJ63R_rg81Ys)
 
 This tutorial provides an introduction to processing spatial data.
 The goal is that participants leave the workshop with an
@@ -72,6 +76,7 @@ have experience with the characteristics and requirements of spatial information
 
 _Dave Clements, Anaconda_
 
+[Register Now: October 10, 12-3:30 PM CT](https://mit.zoom.us/meeting/register/tJwlf-2oqjspGNLhUV4b4kpZmdgTX_F1M4mt)
 
 [Conda](https://github.com/conda/conda/blob/main/README.md) is a **widely used**
 (30M+ users) **multi-platform** (Linux, macOS, Windows, ...) and **language agnostic**
@@ -121,6 +126,7 @@ presented training to programmers and end users at a fortune 500 company._
 
 _Reed Milewicz and Miranda Mundt, Sandia National Laboratories_
 
+[Register Now: October 12, 12-3:30 PM CT](https://mit.zoom.us/meeting/register/tJYvceqqrjgvHtDtkfO0Lv3_kentmeEK6Rxi)
 
 In this tutorial, participants will learn about evidence-based software
 engineering strategies for addressing reproducibility across the software
@@ -160,6 +166,8 @@ those best practices within their respective institutions.
 ## Using Globus Platform Services in Research Software Applications
 
 _Lee Liming, Steve Turoscy, and Vas Vasiliadis, University of Chicago_
+
+[Register Now: October 4, 12-1:30 PM CT](https://mit.zoom.us/meeting/register/tJMpdeivqDwvH92RbUu2BwekBp3dTMqf48Pp)
 
 Research applications increasingly need to leverage, and often orchestrate,
 diverse systems: campus data storage and computing systems, national data and

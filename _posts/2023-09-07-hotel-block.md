@@ -9,7 +9,7 @@ US-RSE'23 has hotel block rooms available at several hotels nearby the venue
 in Chicago, IL.
 
 The Hyatt House Chicago West Loop/Fulton Market special rate closes on
-**September 15, 2023**; Crowne Plaza special rate closes on **September 22, 2023**.
+**September 22, 2023**; Crowne Plaza special rate closes on **September 22, 2023**.
 
 Find more information
 about rates, location, etc., on the [Travel page]({{ site.baseurl }}/attend/travel/)
