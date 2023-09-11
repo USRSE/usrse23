@@ -64,28 +64,25 @@ As per the rules:
 We have contracted with several different hotels to provide special rates for
 US-RSE'23.
 
-### Crowne Plaza Chicago West Loop
+### Hyatt House Chicago West Loop/Fulton Market
 
 The special room rate will be available until **September 22nd, 2023**, or until
 the group block is sold-out, whichever comes first.
 
-- _Address_: 25 South Halsted Street, Chicago, IL 60661 (0.6 miles away)
-- _Phone_: 312-829-5000
-- _Online Booking Link_:  [Booking Link](https://www.ihg.com/crowneplaza/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=CHISH&qCiD=15&qCiMy=092023&qCoD=19&qCoMy=092023&qGrpCd=R53&qAAR=6CBARC&qRtP=6CBARC&setPMCookies=true&qSHBrC=CP&qDest=25%20South%20Halsted%20Street,%20Chicago,%20IL,%20US&srb_u=1&qRmFltr=)
-- _Group Code_: R53
-- _Group Rate_: $245 (+ applicable taxes and fees)
-
-### Hyatt House Chicago West Loop/Fulton Market
-
-The special room rate will be available until **September 15th, 2023**, or until
-the group block is sold-out, whichever comes first.
-
 - _Address_: 105 North May Street, Chicago, IL 60607 (1.2 miles away)
 - _Phone_: 866-974-9288
-- _Online Booking Link_:  [Booking Link](https://www.hyatt.com/shop/chixl?location=Hyatt%20House%20Chicago%20%2F%20West%20Loop-Fulton%20Market&checkinDate=2023-10-15&checkoutDate=2023-10-19&rooms=1&adults=1&kids=0&corp_id=g-uicf)
+- _Online Booking Link_: [Booking Link](https://www.hyatt.com/shop/chixl?location=Hyatt%20House%20Chicago%20%2F%20West%20Loop-Fulton%20Market&checkinDate=2023-10-15&checkoutDate=2023-10-19&rooms=1&adults=1&kids=0&corp_id=g-uicf)
 - _Group Name_: UIC First US-RSE Conference Room Block
 - _Group Code_: G-UICF
 - _Group Rate_: $279 (+ applicable taxes and fees)
+
+### Crowne Plaza Chicago West Loop: SOLD OUT
+
+The special room rate is **SOLD OUT**. You can still book but will not be
+able to use the group code.
+
+- _Address_: 25 South Halsted Street, Chicago, IL 60661 (0.6 miles away)
+- _Phone_: 312-829-5000
 
 
 ### Other Nearby Hotels
