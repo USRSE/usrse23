@@ -611,7 +611,8 @@ tags will be replaced.-->
   class="font8">BoFs 2B:</font><font class="font6"> <a href="{{ site.baseurl }}/program/bofs/#code-review-for-research-software">Code Review for Research
   Software</a></font></td>
   <td rowspan=2 class=xl82 width=312 style='border-top:none;width:234pt'><font
-  class="font8">BoFs 2C: </font><font class="font6">TBD</font></td>
+  class="font8">BoFs 2C: </font><font class="font6"> <a href="{{ site.baseurl }}/program/bofs/#alternative-routes-to-becoming-a-research-software-engineer-the-role-of-doctorate-and-essential-skills">Alternative Routes to 
+  Becoming a Research Software Engineer: The Role of Doctorate and Essential Skills</a></font></td>
  </tr>
  <tr height=45 style='mso-height-source:userset;height:34.0pt'>
  </tr>
