@@ -8,6 +8,37 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+## Alternative Routes to Becoming a Research Software Engineer: The Role of Doctorate and Essential Skills
+
+_Session leader: Joanne Sheppard_
+
+Research Software Engineering (RSE) is a field that requires a diverse range of
+skills, including software development, data management, and research methods.
+However, there is no single route to becoming an RSE, and the value of obtaining
+a doctorate in this field is often debated. This panel brings together experts
+in the field of RSE to discuss alternative routes to becoming an RSE, the role
+of obtaining a doctorate, and the essential skills that are necessary for
+success in this field.
+
+The panel will explore the benefits and drawbacks of different paths to becoming
+an RSE, including formal education programs, on-the-job training, and self-taught
+skills. We will also examine the value of obtaining a doctorate in this field,
+including the advantages and disadvantages of a PhD versus a master's degree or
+other formal qualifications.
+
+In addition, the panel will discuss the skills that are most important for an
+RSE, such as programming languages, software development practices,
+project management, and communication. We will consider how these skills can be
+developed and measured, and how they can be used to evaluate and recruit RSEs.
+
+Overall, this panel aims to provide a comprehensive and insightful discussion
+of the different routes to becoming an RSE, the role of obtaining a doctorate
+in this field, and the essential skills that are necessary for success.
+Attendees will gain a deeper understanding of the field of RSE and the skills
+required to excel in this exciting and rapidly evolving field.
+
+------
+
 ## Code Review for Research Software
 
 _Session leaders: Cole Crawford, Jeffrey Tharsen_
