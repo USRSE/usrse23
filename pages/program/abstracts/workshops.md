@@ -31,6 +31,8 @@ discussion and retrospective. We recap lessons learned and explore how culture
 affects team performance and emerging as a team leader. We focus on skill
 building in intercultural and interpersonal communication, and inclusion.
 
+**NOTE**: Attendance is capped at 18 attendees for this workshop.
+
 ------ 
 
 ## [Software Engineering for Research Software Engineering (SE4RSE’23)](https://se4science.org/workshops/se4rse23/index.htm)
