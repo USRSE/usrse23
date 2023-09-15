@@ -74,7 +74,7 @@ have experience with the characteristics and requirements of spatial information
 
 ## Publish your software in conda-forge
 
-_Dave Clements, Anaconda_
+_Dave Clements and Valerio Maggio, Anaconda_
 
 [Register Now: October 10, 12-3:30 PM CT](https://mit.zoom.us/meeting/register/tJwlf-2oqjspGNLhUV4b4kpZmdgTX_F1M4mt)
 
