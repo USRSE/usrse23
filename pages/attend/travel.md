@@ -66,7 +66,7 @@ US-RSE'23.
 
 ### Hyatt House Chicago West Loop/Fulton Market
 
-The special room rate will be available until **September 22nd, 2023**, or until
+The special room rate will be available until **September 25th, 2023**, or until
 the group block is sold-out, whichever comes first.
 
 - _Address_: 105 North May Street, Chicago, IL 60607 (1.2 miles away)
