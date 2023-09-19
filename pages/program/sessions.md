@@ -319,7 +319,7 @@ TBD.
 
 ---
 
-## Session 6A: Software Engineering Practice 2
+## Session 6A: Software Engineering Practice
 
 <div id="accordion">
 <div class="card">
