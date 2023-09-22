@@ -64,17 +64,13 @@ As per the rules:
 We have contracted with several different hotels to provide special rates for
 US-RSE'23.
 
-### Hyatt House Chicago West Loop/Fulton Market
+### Hyatt House Chicago West Loop/Fulton Market: SOLD OUT
 
-The special room rate will be available until **September 22nd, 2023**, or until
-the group block is sold-out, whichever comes first.
+The special room rate is **SOLD OUT**. You can still book but will not be
+able to use the group code.
 
 - _Address_: 105 North May Street, Chicago, IL 60607 (1.2 miles away)
 - _Phone_: 866-974-9288
-- _Online Booking Link_: [Booking Link](https://www.hyatt.com/shop/chixl?location=Hyatt%20House%20Chicago%20%2F%20West%20Loop-Fulton%20Market&checkinDate=2023-10-15&checkoutDate=2023-10-19&rooms=1&adults=1&kids=0&corp_id=g-uicf)
-- _Group Name_: UIC First US-RSE Conference Room Block
-- _Group Code_: G-UICF
-- _Group Rate_: $279 (+ applicable taxes and fees)
 
 ### Crowne Plaza Chicago West Loop: SOLD OUT
 
