@@ -366,7 +366,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>9:15 AM</td>
   <td colspan=6 class=xl75 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Keynote:</font><font class="font7"> Mary Ann Leung</font></td>
+  class="font5">Keynote: </font><font class="font7"><a href="{{ site.baseurl }}/program/keynotes/#software-enabled-discovery-through-diversity-equity-and-inclusion">Software-Enabled Discovery Through Diversity, Equity, and Inclusion</a>, Mary Ann Leung</font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -478,7 +478,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>9:00 AM</td>
   <td colspan=6 class=xl75 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Keynote:</font><font class="font7"> Neil Chue Hong</font></td>
+  class="font5">Keynote: </font><font class="font7"><a href="{{ site.baseurl }}/program/keynotes/#research-software-engineering--from-what-and-where-to-why-and-how-looking-to-the-future-of-software-enabled-discovery">Research software engineering – from “what” and “where” to “why” and “how”: looking to the future of Software Enabled Discovery</a>, Neil Chue Hong</font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;

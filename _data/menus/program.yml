@@ -2,6 +2,8 @@
   items:
     - name: Full Program
       link: program/
+    - name: Keynote Speakers
+      link: program/keynotes/
     - name: Sessions
       link: program/sessions/
     - name: Birds of a Feather
