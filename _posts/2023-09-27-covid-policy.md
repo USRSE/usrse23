@@ -1,13 +1,9 @@
 ---
-layout: page
-title: Attend
-description: 
-menubar: attend
-permalink: attend/
-set_last_modified: true
+layout: post
+title: "COVID Policy Update"
+date: 2023-09-27
+tags:
 ---
-
-## COVID Policy
 
 Due to the influx of COVID cases in the Chicago area, we will be applying a **mask
 mandate** for conference attendees. While in official conference events,
@@ -16,12 +12,4 @@ medical reason and during active eating and drinking. Repeat offenders may be
 asked to leave the conference area.
 
 Presenters will not be required to wear masks during their presentations.
-
-## Register
-
-See the [Registration page]({{ site.baseurl }}/attend/register) for more details.
-
-## Travel
-
-See the [Travel page]({{ site.baseurl }}/attend/travel) for more details.
 
