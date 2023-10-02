@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Attend
+title: COVID Policy
 description: 
 menubar: attend
-permalink: attend/
+permalink: attend/health/
 set_last_modified: true
 ---
 
-## COVID Policy
+## Mask Mandate In Effect
 
 Due to the influx of COVID cases in the Chicago area, we will be applying a **mask
 mandate** for conference attendees. While in official conference events,
@@ -19,12 +19,3 @@ Presenters will not be required to wear masks during their presentations.
 
 To report a medical exception or for any other questions, please [email the
 organizers](mailto:usrsecon2023@easychair.org).
-
-## Register
-
-See the [Registration page]({{ site.baseurl }}/attend/register) for more details.
-
-## Travel
-
-See the [Travel page]({{ site.baseurl }}/attend/travel) for more details.
-
