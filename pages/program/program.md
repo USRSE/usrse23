@@ -447,7 +447,8 @@ tags will be replaced.-->
   class="font5">Workshop 2: </font><font class="font7">Angela Herring and
   Elaine M. Raybourn, “<a href="{{ site.baseurl }}/program/workshops/">Emerging as a Team Leader through Cultural Challenges</a>”</font></td>
   <td rowspan=3 class=xl69 width=312 style='border-top:none;width:234pt'><font
-  class="font5">Workshop 3:</font><font class="font7"> TBD</font></td>
+  class="font5">Workshop 3: </font><font class="font7">Google Cloud Team, 
+  "<a href="{{ site.baseurl }}/program/workshops/">Unlocking the Potential of HPC in the Cloud with Open-Source Tools</a>"</font></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
  </tr>
