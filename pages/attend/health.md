@@ -18,4 +18,4 @@ asked to leave the conference area.
 Presenters will not be required to wear masks during their presentations.
 
 To report a medical exception or for any other questions, please [email the
-organizers](usrsecon2023@easychair.org).
+organizers](mailto:usrsecon2023@easychair.org).
