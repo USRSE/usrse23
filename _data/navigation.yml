@@ -36,6 +36,8 @@
       link: attend/register/
     - name: Travel
       link: attend/travel/
+    - name: COVID Policy
+      link: attend/health/
 - name: Organization
   dropdown:
     - name: Overview

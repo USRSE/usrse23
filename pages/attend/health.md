@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "COVID Policy Update"
-date: 2023-09-27
-tags:
+layout: page
+title: COVID Policy
+description: 
+menubar: attend
+permalink: attend/health/
+set_last_modified: true
 ---
+
+## Mask Mandate In Effect
 
 Due to the influx of COVID cases in the Chicago area, we will be applying a **mask
 mandate** for conference attendees. While in official conference events,
