@@ -359,8 +359,8 @@ tags will be replaced.-->
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
-  width:112pt'>9:00 AM</td>
-  <td colspan=6 class=xl74 width=970 style='border-left:none;width:728pt'>Welcome</td>
+  width:112pt'>8:45 AM</td>
+  <td colspan=6 class=xl74 width=970 style='border-left:none;width:728pt'>Welcome (Sandra Gesing, Julia Damerow, Ian Cosden)</td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
