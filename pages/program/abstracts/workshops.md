@@ -53,3 +53,26 @@ portion of the workshop to focused interactions to identify common experiences,
 needs, and opportunities for future work.
 
 ------ 
+
+## Unlocking the Potential of HPC in the Cloud with Open-Source Tools
+
+_Google Cloud Team_
+
+Cloud computing technologies have seen tremendous growth in recent years, with
+many organizations moving their high–performance computing (HPC) workloads to
+the cloud due to its flexibility in the organization and provisioning of HPC
+infrastructure. While such a diverse and flexible set of options brings
+additional degrees of freedom, they also bring a daunting set of hardware and
+software choices. In this tutorial, we will provide a foundation to understand
+how to run HPC workloads in the cloud effectively and with minimal complexity.
+We will start with a primer on cloud foundations and how they map to common
+HPC concepts, and then dive deeper into core HPC cloud components. We then
+introduce important HPC partners and discuss industry-specific solutions.
+Finally, we will present the best practices to run HPC in the cloud and how to
+explore your options for the best configuration for price/performance. This
+tutorial will use a combination of lectures and hands-on labs using Google
+Cloud, the open-source Google Cloud HPC Toolkit, Slurm, Spack, and other
+popular open-source HPC software to provide a balance of both theoretical and
+hands-on learning.
+
+------
