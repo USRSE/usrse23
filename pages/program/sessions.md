@@ -815,4 +815,11 @@ TBD.
 
 ## Session 9: Panel - Funding Agencies
 
-TBD.
+### How can funding agencies and foundations support successful career paths for RSEs in academia and at national labs?
+
+**Speakers**
+
+- Josh Greenberg, Alfred P. Sloan Foundation
+- Bill Spotz, Department of Energy
+- Ishwar Chandramouliswaran, National Institutes of Health
+- Juan Jenny Li, National Science Foundation
