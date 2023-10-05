@@ -31,7 +31,7 @@ discussion and retrospective. We recap lessons learned and explore how culture
 affects team performance and emerging as a team leader. We focus on skill
 building in intercultural and interpersonal communication, and inclusion.
 
-**NOTE**: Attendance is capped at 18 attendees for this workshop.
+**NOTE**: Attendance is capped at 25 attendees for this workshop.
 
 ------ 
 
@@ -56,7 +56,7 @@ needs, and opportunities for future work.
 
 ## Unlocking the Potential of HPC in the Cloud with Open-Source Tools
 
-_Google Cloud Team_
+_Thomas Leung, Volker Eyrich, Tom Downes_
 
 Cloud computing technologies have seen tremendous growth in recent years, with
 many organizations moving their high–performance computing (HPC) workloads to
