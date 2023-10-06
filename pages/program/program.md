@@ -402,7 +402,9 @@ tags will be replaced.-->
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>12:00 PM</td>
-  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch</td>
+  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch / <font class="font6"><a href="{{ site.baseurl }}/program/student-program/#kick-off-event">Student Program Kick-Off Event</a></font>
+  </td>
+   
  </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
   <td rowspan=2 height=156 class=xl71 width=149 style='height:117.0pt;
@@ -463,8 +465,8 @@ tags will be replaced.-->
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>7:00 PM</td>
-  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Student
-  Event</td>
+  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'> <font class="font6"><a href="{{ site.baseurl }}/program/student-program/#student-social">Student Program Social</a></font>
+  </td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td colspan=7 height=21 class=xl66 width=1119 style='height:16.0pt;
@@ -650,7 +652,8 @@ tags will be replaced.-->
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>12:00 PM</td>
-  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch</td>
+  <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Lunch / <font class="font6"><a href="{{ site.baseurl }}/program/student-program/#closing-ceremonies">Student Program Closing Ceremonies</a></font>
+  </td>
  </tr>
  <tr height=19 style='mso-height-source:userset;height:14.0pt'>
   <td rowspan=2 height=104 class=xl71 width=149 style='height:78.0pt;
