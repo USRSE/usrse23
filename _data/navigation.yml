@@ -29,8 +29,8 @@
       link: program/tutorials/
     - name: Workshops
       link: program/workshops/
-    - name: program/student-program
-      link: Student Program
+    - name: Student Program
+      link: program/student-program/
 - name: Attend
   link: attend/
   dropdown:
