@@ -668,8 +668,6 @@ tags will be replaced.-->
   Fellowship Programs&quot;<br>
     &quot;Focus Groups to Focus Efforts: Building the NERSC User Community of
   Practice&quot;<br>
-    &quot;Research Software Science: A Complement to and Companion of Research
-  Software Engineering&quot;<br>
     &quot;INnovative Training Enabled by a Research Software Engineering
   Community of Trainers (INTERSECT)&quot;</td>
  </tr>
