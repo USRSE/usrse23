@@ -775,22 +775,6 @@ TBD.
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="heading61">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse61" aria-expanded="false" aria-controls="collapse61">
-          “Research Software Science: A Complement to and Companion of Research Software Engineering”, Michael Heroux
-        </button>
-      </h5>
-    </div>
-    <div id="collapse61" class="collapse" aria-labelledby="heading61" data-parent="#accordion">
-      <div class="card-body">
-        <p>The emergence of the Research Software Engineer (RSE) as a role correlates with the growing complexity of scientific challenges and the diversity of software team skills. At the same time, it is still a challenge for research funding agencies and institutions to directly fund activities that are explicitly engineering focused.  </p>
-        <p>In this presentation, we describe research software science (RSS), an idea related to RSE, that is particularly suited to research software teams. RSS focuses on using the scientific method to understand and improve how software is developed and used in research.  RSS promotes the use of scientific methodologies to explore and establish broadly applicable knowledge. Specifically, RSS incorporates scientific approaches from cognitive and social sciences in addition to existing scientific knowledge already present in software teams.  By leverage cognitive and social science methodologies and tools, research software teams can gain better insight into how software is developed and used for research and share that insight by virtue of the scientific approaches used to gain that insight.</p>
-        <p>Using RSS, we can pursue sustainable, repeatable, and reproducible software improvements that positively impact research software toward improved scientific discovery. Also, by introducing an explicit scientific focus to the enterprise of software development and use, we can more easily justify direct support and funding from agencies and institutions whose charter is to sponsor scientific research.  Direct funding of RSS activities is within these charters and RSE activities are needed, more easily justified, and improved by RSS investments.</p>
-      </div>
-    </div>
-  </div>
-  <div class="card">
     <div class="card-header" id="heading62">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse62" aria-expanded="false" aria-controls="collapse62">
