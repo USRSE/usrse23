@@ -823,3 +823,7 @@ TBD.
 - Bill Spotz, Department of Energy
 - Ishwar Chandramouliswaran, National Institutes of Health
 - Juan Jenny Li, National Science Foundation
+
+<a type="button" style="margin:auto 10px; -webkit-appearance: none;" class="btn btn-light btn-lg" href="https://asu.zoom.us/meeting/register/tZcude2qqj4uHNVGr83-8GLZdX_Eg2WP0a-c#/registration" target="_blank">
+    Zoom Registration
+</a>
