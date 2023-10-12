@@ -22,6 +22,10 @@ activities aimed at increasing diversity, promoting equity, and building a workf
 where inclusion is the norm.  We will identify some of the key challenges and
 success and share lessons learned.
 
+<a type="button" style="margin:auto 10px; -webkit-appearance: none;" class="btn btn-light btn-lg" href="https://asu.zoom.us/meeting/register/tZwudOqtpzIjHtKJReG1cq8QGfAZIAwxH2ja#/registration" target="_blank">
+    Zoom Registration
+</a>
+
 ### Mary Ann Leung
 
 Dr. Leung is a nationally acclaimed leader in the design and implementation of
@@ -63,6 +67,10 @@ we might. How can the profession continue to mature, how can it become more
 diverse and accessible, and how can it be better seen as meaningful and relevant
 to society? I will also look at why we should look to other areas to understand
 the next ten years of RSE.
+
+<a type="button" style="margin:auto 10px; -webkit-appearance: none;" class="btn btn-light btn-lg" href="https://asu.zoom.us/meeting/register/tZEkf-ytqzwtHNcjprgo5ifQZ5y_xJUR3tVd#/registration" target="_blank">
+    Zoom Registration
+</a>
 
 ### Neil Chue Hong
 
