@@ -378,7 +378,7 @@ tags will be replaced.-->
   border-top:none;width:112pt'>10:30 AM</td>
   <td colspan=6 class=xl76 width=970 style='border-left:none;width:728pt'><font
   class="font8">Session 1:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-1-panel---devops--cyberinfrastructure">Panel - DevOps &amp;
-  Cyberinfrastructure, <i>Illinois Room</i></a></font></td>
+  Cyberinfrastructure</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=103 style='mso-height-source:userset;height:77.0pt'>
   <td colspan=6 height=103 class=xl82 width=970 style='height:77.0pt;
