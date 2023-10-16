@@ -397,7 +397,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>11:30 AM</td>
   <td colspan=6 class=xl77 width=970 style='border-left:none;width:728pt'>Session
-  2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-2-panel---sponsors">Panel - Sponsors, <i>Illinois Room</i></a></font></td>
+  2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-2-panel---sponsors">Panel - Sponsors</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
