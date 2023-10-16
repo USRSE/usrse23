@@ -378,7 +378,7 @@ tags will be replaced.-->
   border-top:none;width:112pt'>10:30 AM</td>
   <td colspan=6 class=xl76 width=970 style='border-left:none;width:728pt'><font
   class="font8">Session 1:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-1-panel---devops--cyberinfrastructure">Panel - DevOps &amp;
-  Cyberinfrastructure</a></font></td>
+  Cyberinfrastructure, <i>Illinois Room</i></a></font></td>
  </tr>
  <tr height=103 style='mso-height-source:userset;height:77.0pt'>
   <td colspan=6 height=103 class=xl82 width=970 style='height:77.0pt;
@@ -397,7 +397,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>11:30 AM</td>
   <td colspan=6 class=xl77 width=970 style='border-left:none;width:728pt'>Session
-  2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-2-panel---sponsors">Panel - Sponsors</a></font></td>
+  2: <font class="font7"><a href="{{ site.baseurl }}/program/sessions/#session-2-panel---sponsors">Panel - Sponsors, <i>Illinois Room</i></a></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -411,10 +411,10 @@ tags will be replaced.-->
   border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=4 class=xl75 width=473 style='border-left:none;width:355pt'><font
   class="font5">Session 3A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-3a-culture--community-1">Culture &amp; Community
-  1</a></font></td>
+  1</a>, <i>Cardinal Room</i></font></td>
   <td colspan=2 class=xl82 width=497 style='border-left:none;width:373pt'><font
   class="font8">Session 3B:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-3b-devops--cyberinfrastructure">DevOps &amp;
-  Cyberinfrastructure</a></font></td>
+  Cyberinfrastructure</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=137 style='mso-height-source:userset;height:103.0pt'>
   <td colspan=4 height=137 class=xl75 width=473 style='height:103.0pt;
@@ -444,13 +444,13 @@ tags will be replaced.-->
   <td colspan=3 rowspan=3 class=xl69 width=369 style='width:277pt'><font
   class="font5">Workshop 1: </font><font class="font7">Jeffrey Carver, Neil
   Chue Hong and Miranda Mundt, “<a href="{{ site.baseurl }}/program/workshops/">Software Engineering for Research Software
-  Engineering (SE4RSE'23)</a>”</font></td>
+  Engineering (SE4RSE'23)</a>”, <i>Illinois Room</i></font></td>
   <td colspan=2 rowspan=3 class=xl69 width=289 style='width:217pt'><font
   class="font5">Workshop 2: </font><font class="font7">Angela Herring and
-  Elaine M. Raybourn, “<a href="{{ site.baseurl }}/program/workshops/">Emerging as a Team Leader through Cultural Challenges</a>”</font></td>
+  Elaine M. Raybourn, “<a href="{{ site.baseurl }}/program/workshops/">Emerging as a Team Leader through Cultural Challenges</a>”, <i>Cardinal Room</i></font></td>
   <td rowspan=3 class=xl69 width=312 style='border-top:none;width:234pt'><font
   class="font5">Workshop 3: </font><font class="font7">Google Cloud Team, 
-  "<a href="{{ site.baseurl }}/program/workshops/">Unlocking the Potential of HPC in the Cloud with Open-Source Tools</a>"</font></td>
+  "<a href="{{ site.baseurl }}/program/workshops/">Unlocking the Potential of HPC in the Cloud with Open-Source Tools</a>", <i>Fort Dearborn Room</i></font></td>
  </tr>
  <tr height=17 style='height:13.0pt'>
  </tr>
@@ -460,7 +460,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>5:00 PM</td>
   <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Poster
-  Session / Job Board / Happy hour</td>
+  Session / Job Board / Happy hour, <i>Illinois Room</i></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -492,7 +492,7 @@ tags will be replaced.-->
   <td rowspan=2 height=120 class=xl71 width=149 style='height:90.0pt;
   border-top:none;width:112pt'>10:15 AM</td>
   <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
-  4: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-4-panel---research--development-tooling-1">Panel - Research &amp; Development Tooling 1</a></font></td>
+  4: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-4-panel---research--development-tooling-1">Panel - Research &amp; Development Tooling 1</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=101 style='mso-height-source:userset;height:76.0pt'>
   <td colspan=6 height=101 class=xl82 width=970 style='height:76.0pt;
@@ -510,7 +510,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>11:15 AM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Session 5:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-5-panel---sponsors">Panel - Sponsors</a></font></td>
+  class="font5">Session 5:</font><font class="font7"> <a href="{{ site.baseurl }}/program/sessions/#session-5-panel---sponsors">Panel - Sponsors</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -523,9 +523,9 @@ tags will be replaced.-->
   border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=4 class=xl82 width=473 style='border-left:none;width:355pt'><font
   class="font8">Session 6A:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-6a-software-engineering-practice">Software Engineering
-  Practice</a></font></td>
+  Practice</a>, <i>Illinois Room</i></font></td>
   <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
-  6B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-6b-research--development-tooling-2">Research &amp; Development Tooling 2</a></font></td>
+  6B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-6b-research--development-tooling-2">Research &amp; Development Tooling 2</a>, <i>Cardinal Room</i></font></td>
  </tr>
  <tr height=159 style='mso-height-source:userset;height:119.0pt'>
   <td colspan=4 height=159 class=xl82 width=473 style='height:119.0pt;
@@ -573,13 +573,13 @@ tags will be replaced.-->
   class="font5">BoFs 1A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#get-involved-with-pyopensci-building-diverse-community-around-scientific-python-open-source-software-through-peer-review-training-and-mentorship">Get Involved with
   PyOpenSci! Building diverse community around scientific Python open source
   software through peer review, training, and mentorshipCode Review for
-  Research Software</a></font></td>
+  Research Software</a>, <i>Cardinal Room</i></font></td>
   <td colspan=2 rowspan=2 class=xl75 width=289 style='width:217pt'><font
   class="font5">BoFs 1B:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#what-does-it-mean-to-be-an-rse-at-a-national-lab">What does it mean to be an
-  RSE at a National Lab?</a></font></td>
+  RSE at a National Lab?</a>, <i>Illinois Room</i></font></td>
   <td rowspan=2 class=xl75 width=312 style='border-top:none;width:234pt'><font
   class="font5">BoFs 1C:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#polyglot-software-development-and-language-interoperation">Polyglot Software
-  Development and Language Interoperation</a></font></td>
+  Development and Language Interoperation</a>, <i>Fort Dearborn Room</i></font></td>
  </tr>
  <tr height=63 style='mso-height-source:userset;height:47.0pt'></tr>
  <tr height=19 style='height:14.0pt'>
@@ -592,7 +592,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>6:00 PM</td>
   <td colspan=6 class=xl72 width=970 style='border-left:none;width:728pt'>Conference
-  Dinner / Awards<span style='mso-spacerun:yes'> </span></td>
+  Dinner / Awards<span style='mso-spacerun:yes'>, <i>Illinois Room</i> </span></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td colspan=7 height=21 class=xl66 width=1119 style='height:16.0pt;
@@ -609,13 +609,13 @@ tags will be replaced.-->
   <td colspan=3 rowspan=2 class=xl75 width=369 style='width:277pt'><font
   class="font5">BoFs 2A:</font><font class="font7"> <a href="{{ site.baseurl }}/program/bofs/#notebooks-as-a-possible-future-for-scientific-publication-better-practices-for-sharing-software-and-rse-authorship">Notebooks as a Possible
   Future for Scientific Publication, Better Practices for Sharing Software, and
-  RSE Authorship</a></font></td>
+  RSE Authorship</a>, <i>Illinois Room</i></font></td>
   <td colspan=2 rowspan=2 class=xl82 width=289 style='width:217pt'><font
   class="font8">BoFs 2B:</font><font class="font6"> <a href="{{ site.baseurl }}/program/bofs/#code-review-for-research-software">Code Review for Research
-  Software</a></font></td>
+  Software</a>, <i>Cardinal Room</i></font></td>
   <td rowspan=2 class=xl82 width=312 style='border-top:none;width:234pt'><font
   class="font8">BoFs 2C: </font><font class="font6"> <a href="{{ site.baseurl }}/program/bofs/#alternative-routes-to-becoming-a-research-software-engineer-the-role-of-doctorate-and-essential-skills">Alternative Routes to 
-  Becoming a Research Software Engineer: The Role of Doctorate and Essential Skills</a></font></td>
+  Becoming a Research Software Engineer: The Role of Doctorate and Essential Skills</a>, <i>Fort Dearborn Room</i></font></td>
  </tr>
  <tr height=45 style='mso-height-source:userset;height:34.0pt'>
  </tr>
@@ -628,9 +628,9 @@ tags will be replaced.-->
   <td rowspan=2 height=178 class=xl71 width=149 style='height:133.0pt;
   border-top:none;width:112pt'>11:00 AM</td>
   <td colspan=4 class=xl83 width=473 style='border-left:none;width:355pt'>Session
-  7A: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-7a-mlai">ML/AI</a></font></td>
+  7A: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-7a-mlai">ML/AI</a>, <i>Illinois Room</i></font></td>
   <td colspan=2 class=xl83 width=497 style='border-left:none;width:373pt'>Session
-  7B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-7b-research--development-tooling-1">Research &amp; Development Tooling 3</a></font></td>
+  7B: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-7b-research--development-tooling-1">Research &amp; Development Tooling 3</a>, <i>Cardinal Room</i></font></td>
  </tr>
  <tr height=159 style='mso-height-source:userset;height:119.0pt'>
   <td colspan=4 height=159 class=xl82 width=473 style='height:119.0pt;
@@ -660,7 +660,7 @@ tags will be replaced.-->
   border-top:none;width:112pt'>1:00 PM</td>
   <td colspan=6 class=xl76 width=970 style='border-left:none;width:728pt'><font
   class="font8">Session 8:</font><font class="font6"> <a href="{{ site.baseurl }}/program/sessions/#session-8-culture--community-2">Culture &amp; Community
-  2</a></font></td>
+  2</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=85 style='mso-height-source:userset;height:64.0pt'>
   <td colspan=6 height=85 class=xl82 width=970 style='height:64.0pt;border-left:
@@ -680,7 +680,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>2:15 PM</td>
   <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
-  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-panel---funding-agencies">Panel - Funding Agencies</a> - <a href="https://asu.zoom.us/meeting/register/tZcude2qqj4uHNVGr83-8GLZdX_Eg2WP0a-c#/registration" target="_blank">Zoom Registration</a></font></td>
+  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-panel---funding-agencies">Panel - Funding Agencies</a> - <a href="https://asu.zoom.us/meeting/register/tZcude2qqj4uHNVGr83-8GLZdX_Eg2WP0a-c#/registration" target="_blank">Zoom Registration</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
