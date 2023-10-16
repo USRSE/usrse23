@@ -18,7 +18,7 @@ and mentors, setting the stage for an engaging
 scavenger hunt.
 
 ## Student Social 
-Tuesday, 7:00 PM - 10:00 PM 
+Monday, 7:00 PM - 10:00 PM 
  
 This is a closed event. Find information about the student 
 social in your Mentorship Program passport.
