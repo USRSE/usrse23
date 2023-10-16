@@ -89,7 +89,11 @@ set_last_modified: true
 
 ## Session 2: Panel - Sponsors
 
-TBD.
+- Globus, Lee Liming
+- ThinLinc, Robert Henschel
+- University of Arizona, Nirav Merchant
+- Google, Thomas Leung
+- Exosphere, Chris Martin
 
 ---
 
@@ -315,7 +319,11 @@ TBD.
 
 ## Session 5: Panel - Sponsors
 
-TBD.
+- Princeton University, Ian Cosden
+- Los Alamos National Laboratories, Angela Herring
+- Jetstream2, Zachary Graber
+- Sandia National Laboratories, Miranda Mundt
+- National Center for Supercomputing Applications, Kenton McHenry
 
 ---
 
