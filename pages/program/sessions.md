@@ -8,6 +8,11 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+<a type="button" style="margin:auto 10px; -webkit-appearance: none;" class="btn btn-light btn-lg" href="https://drive.google.com/drive/folders/1D71b0DyzSz_qmdVs0eQpgGn9ygF4gxcA" target="_blank">
+    View Presentations
+</a>
+<br>
+
 ## Session 1: Panel - DevOps & Cyberinfrastructure
 
 <div id="accordion">
