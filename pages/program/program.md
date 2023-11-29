@@ -294,6 +294,11 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
+<a type="button" style="margin:auto 10px; -webkit-appearance: none;" class="btn btn-light btn-lg" href="https://drive.google.com/drive/folders/1D71b0DyzSz_qmdVs0eQpgGn9ygF4gxcA" target="_blank">
+    View Presentations
+</a>
+<br>
+<br>
 <i>All times listed in Central Time (CT) </i><br><br>
 
 <div id="Program_2856" align=center x:publishsource="Excel">
@@ -316,7 +321,7 @@ tags will be replaced.-->
   width:112pt'>Oct 2, 12-1:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Valentina Staneva, “<a href="{{ site.baseurl }}/program/tutorials/#github-actions-for-scientific-data-workflows">GitHub
-  Actions for Scientific Data Workflows</a>”: <a href="https://mit.zoom.us/meeting/register/tJwrceGprTovG9JwpE7LrHOcPy4UvTvwpD0B">Register Now</a></font></td>
+  Actions for Scientific Data Workflows</a>”</font></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
@@ -324,28 +329,28 @@ tags will be replaced.-->
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Lee Liming, Vas Vasiliadis
   and Steve Turoscy, “<a href="{{ site.baseurl }}/program/tutorials/#using-globus-platform-services-in-research-software-applications">Using Globus Platform Services in Research Software
-  Applications</a>”: <a href="https://mit.zoom.us/meeting/register/tJMpdeivqDwvH92RbUu2BwekBp3dTMqf48Pp">Register Now</a></font></td>
+  Applications</a>”</font></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
   width:112pt'>Oct 5, 12-3:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Nick Santos, “<a href="{{ site.baseurl }}/program/tutorials/#introduction-to-spatial-data-processing">Introduction
-  to Spatial Data Processing</a>”: <a href="https://mit.zoom.us/meeting/register/tJMrceusrj8rGdVlgnmbUd2GSJ63R_rg81Ys">Register Now</a></font></td>
+  to Spatial Data Processing</a>”</font></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 width=149 style='height:15.0pt;border-top:none;
   width:112pt'>Oct 10, 12-3:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Dave Clements, “<a href="{{ site.baseurl }}/program/tutorials/#publish-your-software-in-conda-forge">Publish
-  your software in conda-forge</a>”: <a href="https://mit.zoom.us/meeting/register/tJwlf-2oqjspGNLhUV4b4kpZmdgTX_F1M4mt">Register Now</a></font></td>
+  your software in conda-forge</a>”</font></td>
  </tr>
  <tr height=40 style='height:30.0pt'>
   <td height=40 class=xl68 width=149 style='height:30.0pt;border-top:none;
   width:112pt'>Oct 12, 12-3:30 PM</td>
   <td colspan=6 class=xl69 width=970 style='border-left:none;width:728pt'><font
   class="font5">Tutorial: </font><font class="font7">Reed Milewicz and Miranda
-  Mundt, “<a href="{{ site.baseurl }}/program/tutorials/#software-quality-practices-for-reproducibility">Software Quality Practices for Reproducibility</a>”: <a href="https://mit.zoom.us/meeting/register/tJYvceqqrjgvHtDtkfO0Lv3_kentmeEK6Rxi">Register Now</a></font></td>
+  Mundt, “<a href="{{ site.baseurl }}/program/tutorials/#software-quality-practices-for-reproducibility">Software Quality Practices for Reproducibility</a>”</font></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
   <td colspan=7 height=21 class=xl73 width=1119 style='height:16.0pt;
@@ -366,7 +371,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>9:15 AM</td>
   <td colspan=6 class=xl75 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Keynote: </font><font class="font7"><a href="{{ site.baseurl }}/program/keynotes/#software-enabled-discovery-through-diversity-equity-and-inclusion">Software-Enabled Discovery Through Diversity, Equity, and Inclusion</a>, Mary Ann Leung</font> - <a href="https://asu.zoom.us/meeting/register/tZwudOqtpzIjHtKJReG1cq8QGfAZIAwxH2ja#/registration" target="_blank">Zoom Registration</a></td>
+  class="font5">Keynote: </font><font class="font7"><a href="{{ site.baseurl }}/program/keynotes/#software-enabled-discovery-through-diversity-equity-and-inclusion">Software-Enabled Discovery Through Diversity, Equity, and Inclusion</a>, Mary Ann Leung</font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -481,7 +486,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>9:00 AM</td>
   <td colspan=6 class=xl75 width=970 style='border-left:none;width:728pt'><font
-  class="font5">Keynote: </font><font class="font7"><a href="{{ site.baseurl }}/program/keynotes/#research-software-engineering--from-what-and-where-to-why-and-how-looking-to-the-future-of-software-enabled-discovery">Research software engineering – from “what” and “where” to “why” and “how”: looking to the future of Software Enabled Discovery</a>, Neil Chue Hong</font> - <a href="https://asu.zoom.us/meeting/register/tZEkf-ytqzwtHNcjprgo5ifQZ5y_xJUR3tVd#/registration" target="_blank">Zoom Registration</a></td>
+  class="font5">Keynote: </font><font class="font7"><a href="{{ site.baseurl }}/program/keynotes/#research-software-engineering--from-what-and-where-to-why-and-how-looking-to-the-future-of-software-enabled-discovery">Research software engineering – from “what” and “where” to “why” and “how”: looking to the future of Software Enabled Discovery</a>, Neil Chue Hong</font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
@@ -680,7 +685,7 @@ tags will be replaced.-->
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
   width:112pt'>2:15 PM</td>
   <td colspan=6 class=xl80 width=970 style='border-left:none;width:728pt'>Session
-  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-panel---funding-agencies">Panel - Funding Agencies</a> - <a href="https://asu.zoom.us/meeting/register/tZcude2qqj4uHNVGr83-8GLZdX_Eg2WP0a-c#/registration" target="_blank">Zoom Registration</a>, <i>Illinois Room</i></font></td>
+  9: <font class="font6"><a href="{{ site.baseurl }}/program/sessions/#session-9-panel---funding-agencies">Panel - Funding Agencies</a>, <i>Illinois Room</i></font></td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl71 width=149 style='height:14.0pt;border-top:none;
