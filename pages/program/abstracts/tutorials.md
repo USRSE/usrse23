@@ -165,8 +165,6 @@ those best practices within their respective institutions.
 
 _Lee Liming, Steve Turoscy, and Vas Vasiliadis, University of Chicago_
 
-[Register Now: October 4, 12-1:30 PM CT](https://mit.zoom.us/meeting/register/tJMpdeivqDwvH92RbUu2BwekBp3dTMqf48Pp)
-
 Research applications increasingly need to leverage, and often orchestrate,
 diverse systems: campus data storage and computing systems, national data and
 computing centers, and data-generating instruments such as gene sequencers,
