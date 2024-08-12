@@ -304,7 +304,7 @@ tags will be replaced.-->
 <div id="Program_2856" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=1119 style='border-collapse:
- collapse;table-layout:fixed;width:840pt'>
+ collapse;table-layout:auto;width:100%'>
  <col width=149 style='mso-width-source:userset;mso-width-alt:4778;width:112pt'>
  <col width=101 style='width:76pt'>
  <col width=173 style='mso-width-source:userset;mso-width-alt:5546;width:130pt'>
